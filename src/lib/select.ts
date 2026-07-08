@@ -1,5 +1,5 @@
 import type { Lang } from "./i18n";
-import type { City } from "./types";
+import type { City, CostSnapshot } from "./types";
 
 // Per-language field selectors with graceful fallback to whichever variant exists.
 // If the requested language is missing, fall back to the other one rather than show blanks.
@@ -33,4 +33,16 @@ export function listField(
   if (Array.isArray(enVal) && enVal.length) return enVal as string[];
   if (Array.isArray(zhVal) && zhVal.length) return zhVal as string[];
   return [];
+}
+
+// Pick a cost_snapshot field in the requested language, falling back to the
+// Chinese value when the English variant is missing.
+export function costValue(
+  c: City,
+  field: keyof CostSnapshot,
+  lang: Lang
+): string {
+  const zh = c.cost_snapshot[field];
+  if (lang === "zh") return zh;
+  return c.cost_snapshot_en?.[field] || zh;
 }

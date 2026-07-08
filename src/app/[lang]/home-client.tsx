@@ -98,7 +98,7 @@ export default function HomeClient({
         aria-label={`Switch to ${otherLang.toUpperCase()}`}
       >
         <span className="text-sm leading-none">🌐</span>
-        <span className="uppercase">{otherLang}</span>
+        <span>{otherLang === "zh" ? "文" : "EN"}</span>
       </Link>
 
       <header className="px-4 pt-12 pb-4 text-center">

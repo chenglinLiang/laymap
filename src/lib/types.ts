@@ -15,6 +15,14 @@ export type CostSnapshot = {
   utilities: string;
 };
 
+// English variant. Fields optional to fall back to the Chinese value.
+export type CostSnapshotEN = {
+  monthly_rent?: string;
+  meals?: string;
+  house_price?: string;
+  utilities?: string;
+};
+
 export type BestMonths = {
   recommended: number[];
   avoid: number[];
@@ -42,6 +50,7 @@ export type City = {
   avoid_for_en?: string[];
   best_months: BestMonths;
   cost_snapshot: CostSnapshot;
+  cost_snapshot_en?: CostSnapshotEN;
   tips: string[];
   tips_en?: string[];
   tags: string[];

@@ -87,6 +87,12 @@
       "house_price": "<10万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "350-400 RMB/month (2-bed); 150-200 RMB/month (single)",
+      "meals": "Fast food 7 RMB, generous portions",
+      "house_price": "<100k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "高原地区注意防晒和补水",
       "自建房区域确认基础设施",
@@ -218,6 +224,12 @@
       "house_price": "信息待补充",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "500-600 RMB/month",
+      "meals": "Breakfast under 10 RMB",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
+    },
     "tips": [
       "避开寒暑假及法定节假日",
       "优先选择街边公告栏房源",
@@ -343,6 +355,12 @@
       "house_price": "9.9 万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "500-600 RMB/month",
+      "meals": "Rice plate 15 RMB",
+      "house_price": "99k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "建议购买二手电动车解决出行",
       "冬季注意保暖，利用集中供暖",
@@ -467,6 +485,12 @@
       "house_price": "中等水平，具体价格未详",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "800-1500 RMB/month (off-season)",
+      "meals": "Rice noodles 5-6 RMB, small eateries ~10 RMB",
+      "house_price": "Mid-range; specifics unavailable",
+      "utilities": "Info pending"
+    },
     "tips": [
       "旺季租金上涨，建议淡季前往",
       "核心区租金较高，可考虑自建房",
@@ -583,6 +607,12 @@
       "meals": "盖饭5元，蔬菜10元/大兜",
       "house_price": "10万/套",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "500-600 RMB/month",
+      "meals": "Rice plate 5 RMB, veggies 10 RMB/large bag",
+      "house_price": "100k RMB/unit",
+      "utilities": "Info pending"
     },
     "tips": [
       "自驾需备足物资应对偏远路段",
@@ -711,6 +741,12 @@
       "house_price": "10万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "300-800 RMB/month",
+      "meals": "Breakfast 1.5 RMB, cold jelly 5 RMB",
+      "house_price": "100k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "冬季旺季提前预订住宿",
       "注意交通接驳安排",
@@ -827,6 +863,12 @@
       "meals": "建议自炊，超市可购食材",
       "house_price": "信息待补充",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "600-1000 RMB/month",
+      "meals": "Self-catering suggested; groceries from supermarkets",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
     },
     "tips": [
       "确认医疗资源覆盖范围",
@@ -951,6 +993,12 @@
       "house_price": "120万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "800 RMB/month",
+      "meals": "Noodle bowl 6 RMB",
+      "house_price": "1.2M RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "雨季注意防潮防霉",
       "提前了解医疗资源分布",
@@ -1068,6 +1116,12 @@
       "house_price": "信息待补充",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "600-700 RMB/month",
+      "meals": "Info pending",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
+    },
     "tips": [
       "冬季需备电热毯",
       "避开旺季租房",
@@ -1182,6 +1236,12 @@
       "meals": "信息待补充",
       "house_price": "1.2万/平米",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "800 RMB/month",
+      "meals": "Info pending",
+      "house_price": "12k RMB/㎡",
+      "utilities": "Info pending"
     },
     "tips": [
       "确认物业合同稳定性",
@@ -1304,6 +1364,12 @@
       "house_price": "信息待补充",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "700-2000 RMB/month",
+      "meals": "Eating out ~10 RMB/meal",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
+    },
     "tips": [
       "避开旺季租房",
       "自备电动车",
@@ -1420,6 +1486,12 @@
       "house_price": "8-9 万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "150-250 RMB/month",
+      "meals": "Rice plate 7 RMB",
+      "house_price": "80-90k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "冬季注意保暖，提前确认暖气供应",
       "租房优先选择新小区避免潮湿",
@@ -1530,6 +1602,12 @@
       "meals": "信息待补充",
       "house_price": "10万/套",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "400-500 RMB/month",
+      "meals": "Info pending",
+      "house_price": "100k RMB/unit",
+      "utilities": "Info pending"
     },
     "tips": [
       "注意房产投资风险",
@@ -1656,6 +1734,12 @@
       "house_price": "10万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "500-600 RMB/month",
+      "meals": "Low prices at supermarkets and markets",
+      "house_price": "100k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "租房务必砍价",
       "避开6-9月台风季",
@@ -1778,6 +1862,12 @@
       "house_price": "120 万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "600-700 RMB/month",
+      "meals": "Rice noodles 7-8 RMB",
+      "house_price": "1.2M RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "确认长租合同是否含物业费",
       "雨季（6-8月）注意防潮",
@@ -1884,6 +1974,12 @@
       "meals": "小肉串 1 元",
       "house_price": "12 万/套",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "700 RMB/month",
+      "meals": "Mini meat skewers 1 RMB each",
+      "house_price": "120k RMB/unit",
+      "utilities": "Info pending"
     },
     "tips": [
       "注意租金稳定性",
@@ -2009,6 +2105,12 @@
       "house_price": "15万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "600-800 RMB/month",
+      "meals": "Info pending",
+      "house_price": "150k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "自驾或租电动车出行",
       "自备生活物资应对配套不足",
@@ -2123,6 +2225,12 @@
       "meals": "信息待补充",
       "house_price": "6-8万/套",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "Info pending",
+      "meals": "Info pending",
+      "house_price": "60-80k RMB/unit",
+      "utilities": "Info pending"
     },
     "tips": [
       "注意房屋产权性质，避免纠纷",
@@ -2244,6 +2352,12 @@
       "meals": "信息待补充",
       "house_price": "10-20 万/套",
       "utilities": "包含在租金中"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "600-700 RMB/month (seaview <500 RMB, utilities incl.)",
+      "meals": "Info pending",
+      "house_price": "100-200k RMB/unit",
+      "utilities": "Included in rent"
     },
     "tips": [
       "优先选择租房而非购房",
@@ -2368,6 +2482,12 @@
       "house_price": "6000元/㎡起",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "Info pending",
+      "meals": "Meal 7-8 RMB",
+      "house_price": "From 6000 RMB/㎡",
+      "utilities": "Info pending"
+    },
     "tips": [
       "避开非夏季时段入住",
       "提前确认房源入住率",
@@ -2487,6 +2607,12 @@
       "house_price": "30万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "Info pending",
+      "meals": "Pickled-cabbage bean hotpot 10 RMB/person",
+      "house_price": "300k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "注意烂尾城带来的心理影响",
       "核实租金信息避免纠纷",
@@ -2598,6 +2724,12 @@
       "house_price": "20 万+/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "600-3000 RMB/month",
+      "meals": "Street meals 18-20 RMB",
+      "house_price": "200k+ RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "建议购置二手电动车解决内部交通",
       "优先选择靠近商业街的房源",
@@ -2706,6 +2838,12 @@
       "meals": "餐食15-20元/顿",
       "house_price": "信息待补充",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "1200-1800 RMB/month",
+      "meals": "15-20 RMB/meal",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
     },
     "tips": [
       "住离海200-300米平衡景观与气味",
@@ -2817,6 +2955,12 @@
       "meals": "商业街价格偏高，周边小店正常",
       "house_price": "40万+/套",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "1000+ RMB/month",
+      "meals": "Mall area pricier; surrounding shops normal",
+      "house_price": "400k+ RMB/unit",
+      "utilities": "Info pending"
     },
     "tips": [
       "商业街消费建议去周边小店",
@@ -2939,6 +3083,12 @@
       "house_price": "10-20 万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "600-700 RMB/month",
+      "meals": "Seafood 30 RMB/plate",
+      "house_price": "100-200k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "避开12-2月大雪期出行",
       "夏季提前预订海景房",
@@ -3052,6 +3202,12 @@
       "house_price": "信息待补充",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "500-1700 RMB/month",
+      "meals": "Info pending",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
+    },
     "tips": [
       "入住率低需注意夜间安全",
       "建议自备电动车解决区域交通",
@@ -3162,6 +3318,12 @@
       "meals": "信息待补充",
       "house_price": "8000-30000元/套",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "Info pending",
+      "meals": "Info pending",
+      "house_price": "8k-30k RMB/unit",
+      "utilities": "Info pending"
     },
     "tips": [
       "注意房屋老化问题",
@@ -3283,6 +3445,12 @@
       "house_price": "1-3万元/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "300 RMB/month",
+      "meals": "Peaches 3-5 RMB/500g",
+      "house_price": "10-30k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "避开冬季严寒月份",
       "提前确认医疗资源位置",
@@ -3389,6 +3557,12 @@
       "meals": "5元一碗的汤粉面",
       "house_price": "20万/平米",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "300-400 RMB/month",
+      "meals": "5 RMB noodle soups",
+      "house_price": "200k RMB/㎡",
+      "utilities": "Info pending"
     },
     "tips": [
       "城中村楼间距窄，注意隐私保护",
@@ -3517,6 +3691,12 @@
       "house_price": "信息待补充",
       "utilities": "水电约 409 元/月"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "600 RMB/month",
+      "meals": "Info pending",
+      "house_price": "Info pending",
+      "utilities": "Utilities ~409 RMB/month"
+    },
     "tips": [
       "购物需前往2-4公里外的村镇",
       "夏季注意防潮防虫",
@@ -3623,6 +3803,12 @@
       "meals": "价格覆盖度高",
       "house_price": "信息待补充",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "300-500 RMB/month",
+      "meals": "Wide price range available",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
     },
     "tips": [
       "确认具体房源周边配套设施",
@@ -3745,6 +3931,12 @@
       "house_price": "3800-3900元/㎡，100㎡约40万",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "Off-season 500-800 RMB/month; peak 1000-1500 RMB/month",
+      "meals": "Veggie dish 3 RMB, meat dish 6.8 RMB",
+      "house_price": "3800-3900 RMB/㎡, ~400k for 100㎡",
+      "utilities": "Info pending"
+    },
     "tips": [
       "提前租房避免旺季房源紧张",
       "夏季务必避开高温月份",
@@ -3851,6 +4043,12 @@
       "meals": "信息待补充",
       "house_price": "10 万/套以下",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "400-500 RMB/month",
+      "meals": "Info pending",
+      "house_price": "Under 100k RMB/unit",
+      "utilities": "Info pending"
     },
     "tips": [
       "避开空置率高的度假社区",
@@ -3972,6 +4170,12 @@
       "meals": "10-15 元/餐",
       "house_price": "3-5 万/套",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "500-600 RMB/month",
+      "meals": "10-15 RMB/meal",
+      "house_price": "30-50k RMB/unit",
+      "utilities": "Info pending"
     },
     "tips": [
       "冬季需自备取暖设备",
@@ -4099,6 +4303,12 @@
       "house_price": "7-20 万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "500-900 RMB/month",
+      "meals": "Seafood 90 RMB/large bag, knife-cut noodles 10 RMB",
+      "house_price": "70-200k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "冬季商业关闭，需提前储备物资",
       "自驾出行更便利",
@@ -4211,6 +4421,12 @@
       "meals": "鸡蛋拉面10元，牛羊肉泡馍18元",
       "house_price": "信息待补充",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "600-2000 RMB/month",
+      "meals": "Egg pulled noodles 10 RMB, beef/mutton paomo 18 RMB",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
     },
     "tips": [
       "建议自备电动车解决出行",
@@ -4333,6 +4549,12 @@
       "meals": "猪肉 2.5 元/斤，波罗 5 元 4 个",
       "house_price": "别墅 2000-3000 元/月",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "200-800 RMB/month",
+      "meals": "Pork 2.5 RMB/500g, radish 5 RMB for 4",
+      "house_price": "Villa 2000-3000 RMB/month",
+      "utilities": "Info pending"
     },
     "tips": [
       "避开台风季（7-9月）",
@@ -4459,6 +4681,12 @@
       "house_price": "10 万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "500 RMB/month",
+      "meals": "Info pending",
+      "house_price": "100k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "设施荒废需自备生活用品",
       "交通依赖自驾提前规划",
@@ -4581,6 +4809,12 @@
       "house_price": "信息待补充",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "900-1500 RMB/month",
+      "meals": "Rice plate 15 RMB",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
+    },
     "tips": [
       "优先选择人才安居小区降低租金",
       "夏季备好防暑降温设备",
@@ -4687,6 +4921,12 @@
       "meals": "饭馆为主，日常开销低",
       "house_price": "信息待补充",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "Free",
+      "meals": "Mostly restaurants; low daily costs",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
     },
     "tips": [
       "注意烂尾工程的安全隐患",
@@ -4809,6 +5049,12 @@
       "meals": "信息待补充",
       "house_price": "3-4千/平，20万/套",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "7800 RMB/month (lower off-season)",
+      "meals": "Info pending",
+      "house_price": "3-4k RMB/㎡, 200k RMB/unit",
+      "utilities": "Info pending"
     },
     "tips": [
       "避开冬季（12-2月）商业萧条期",
@@ -4936,6 +5182,12 @@
       "meals": "早餐5元内，午餐15元",
       "house_price": "信息待补充",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "650-1500 RMB/month",
+      "meals": "Breakfast under 5 RMB, lunch 15 RMB",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
     },
     "tips": [
       "警惕高空置率风险",
@@ -5065,6 +5317,12 @@
       "meals": "市区包子豆浆3元，椰子3-5元",
       "house_price": "10多万/套",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "Off-season 400-500 RMB; peak 3000-4000 RMB",
+      "meals": "Buns & soy milk 3 RMB, coconut 3-5 RMB",
+      "house_price": "100k+ RMB/unit",
+      "utilities": "Info pending"
     },
     "tips": [
       "必须自驾，提前确认路况",
@@ -5199,6 +5457,12 @@
       "house_price": "13-4 万/套",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "600-700 RMB/month (off-season)",
+      "meals": "Pork knuckle rice 8 RMB",
+      "house_price": "30-40k RMB/unit",
+      "utilities": "Info pending"
+    },
     "tips": [
       "避开7-9月旺季出行",
       "长期居住需提前考察医疗条件",
@@ -5311,6 +5575,12 @@
       "meals": "信息待补充",
       "house_price": "信息待补充",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "Under 1000 RMB/month",
+      "meals": "Info pending",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
     },
     "tips": [
       "注意气候极端，冬季寒冷夏季炎热",
@@ -5426,6 +5696,12 @@
       "meals": "信息待补充",
       "house_price": "信息待补充",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "0-500 RMB/month",
+      "meals": "Info pending",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
     },
     "tips": [
       "注意法律风险，避免非法占用",
@@ -5556,6 +5832,12 @@
       "house_price": "信息待补充",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "1800 RMB/month",
+      "meals": "Veggie dish 10-13 RMB, meat dish 15-18 RMB",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
+    },
     "tips": [
       "等待1-2年后再考虑长居",
       "自驾出行更便利",
@@ -5682,6 +5964,12 @@
       "house_price": "信息待补充",
       "utilities": "信息待补充"
     },
+    "cost_snapshot_en": {
+      "monthly_rent": "600 RMB/month",
+      "meals": "Rice plate 15 RMB",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
+    },
     "tips": [
       "避开夏季台风季",
       "自备新鲜食材",
@@ -5796,6 +6084,12 @@
       "meals": "早餐20元，日均200元",
       "house_price": "信息待补充",
       "utilities": "信息待补充"
+    },
+    "cost_snapshot_en": {
+      "monthly_rent": "300-800 RMB/month",
+      "meals": "Breakfast 20 RMB, ~200 RMB/day on average",
+      "house_price": "Info pending",
+      "utilities": "Info pending"
     },
     "tips": [
       "避免长期租住",

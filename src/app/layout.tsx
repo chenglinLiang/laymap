@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Tangping — Discover China's calmest places to live",
+  title: "寻找中国最宜居的安静小城",
   description:
     "A premium discovery app for long-term living, slow travel, early retirement, and the FIRE lifestyle across China.",
 };

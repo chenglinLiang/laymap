@@ -15,6 +15,7 @@ import BottomNav from "@/components/BottomNav";
 import { isLang, t, type Lang } from "@/lib/i18n";
 import {
   cityName,
+  costValue,
   listField,
   oneLiner,
   provinceName,
@@ -35,7 +36,7 @@ export function generateMetadata({
   const city = getCity(params.id);
   if (!city) return { title: "Not found" };
   return {
-    title: `${city.city} · Tangping`,
+    title: `${city.city}`,
     description: city.one_liner,
   };
 }
@@ -175,9 +176,9 @@ export default function CityDetailPage({
       {/* Section 7: Cost Snapshot */}
       <Section title={t(lang, "sec_cost")} subtitle={t(lang, "sec_cost_sub")}>
         <div className="grid grid-cols-2 gap-2.5">
-          <CostRow emoji="🏠" label={t(lang, "cost_rent")} value={city.cost_snapshot.monthly_rent} />
-          <CostRow emoji="🍚" label={t(lang, "cost_meals")} value={city.cost_snapshot.meals} />
-          <CostRow emoji="🔑" label={t(lang, "cost_house")} value={city.cost_snapshot.house_price} />
+          <CostRow emoji="🏠" label={t(lang, "cost_rent")} value={costValue(city, "monthly_rent", lang)} />
+          <CostRow emoji="🍚" label={t(lang, "cost_meals")} value={costValue(city, "meals", lang)} />
+          <CostRow emoji="🔑" label={t(lang, "cost_house")} value={costValue(city, "house_price", lang)} />
         </div>
       </Section>
 

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import type { City, Scores } from "@/lib/types";
 import { t, type Lang } from "@/lib/i18n";
-import { cityName, oneLiner, provinceName } from "@/lib/select";
+import { cityName, costValue, oneLiner, provinceName } from "@/lib/select";
 import Hero from "./Hero";
 import ScoreRing from "./ScoreRing";
 import ScoreChip from "./ScoreChip";
@@ -75,8 +75,8 @@ export default function CityCard({ city, lang }: { city: City; lang: Lang }) {
 
         <div className="flex items-center justify-between mt-3.5 pt-3 border-t border-black/[0.05]">
           <Stat emoji="📅" value={monthRange(city.best_months.recommended, lang)} />
-          <Stat emoji="🏠" value={city.cost_snapshot.monthly_rent} />
-          <Stat emoji="🔑" value={city.cost_snapshot.house_price} />
+          <Stat emoji="🏠" value={costValue(city, "monthly_rent", lang)} />
+          <Stat emoji="🔑" value={costValue(city, "house_price", lang)} />
         </div>
       </div>
     </Link>
