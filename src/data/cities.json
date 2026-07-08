@@ -1,0 +1,5838 @@
+[
+  {
+    "is_city": true,
+    "city": "曲靖",
+    "city_en": "Qujing",
+    "province": "云南",
+    "province_en": "Yunnan",
+    "one_liner": "云南经济第二城，拥有超低居住成本、宜人山地气候及完善医疗基建的十年上榜级养老旅居宝藏小城。",
+    "one_liner_en": "Yunnan's second-largest economy with ultra-low living costs, pleasant mountain climate, and robust healthcare infrastructure—a decade-long top retirement destination.",
+    "summary_sentence": "Affordable living, great climate, and strong healthcare make Qujing a top retirement spot in Yunnan.",
+    "overall_score": 9.0,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 10.0,
+      "transportation": 8.0,
+      "healthcare": 8.0,
+      "climate": 9.0,
+      "long_term_live": 9.0
+    },
+    "pros": [
+      "海拔1875米，年均温14.5℃，夏季最高28℃，绿化覆盖率43%",
+      "房价不到10万/套，租金400元可租100平两房",
+      "物价比大理低一半，快餐7元，面食分量足",
+      "高铁35分钟到昆明，城区骑行20-30分钟可达",
+      "8家三甲医院，医疗配套完善",
+      "连续十年上榜中国十大旅居城市，社区氛围浓厚"
+    ],
+    "pros_en": [
+      "Elevation 1875m, avg temp 14.5°C, summer max 28°C, 43% green coverage",
+      "Housing under 100k RMB, rent 400 RMB for 100㎡ 2-bedroom",
+      "Prices half of Dali, 7 RMB fast food, generous portions",
+      "35-min high-speed rail to Kunming, city covered in 20-30 mins by e-bike",
+      "8 Grade-A hospitals, robust healthcare infrastructure",
+      "Top 10 retirement city for 10 years, strong community vibe"
+    ],
+    "cons": [
+      "非网红城市，商业娱乐设施相对较少",
+      "高原地区紫外线较强需注意防晒",
+      "部分区域为自建房，基础设施可能参差不齐"
+    ],
+    "cons_en": [
+      "Less commercial and entertainment facilities as a non-tourist city",
+      "High UV exposure due to plateau location, sun protection needed",
+      "Some areas have self-built houses with varying infrastructure quality"
+    ],
+    "good_for": [
+      "养老旅居者",
+      "预算有限的长期居住者",
+      "喜欢安静环境的人",
+      "需要医疗康养的人群"
+    ],
+    "good_for_en": [
+      "Retirees seeking long-term stays",
+      "Budget-conscious long-term residents",
+      "Those preferring quiet environments",
+      "Individuals needing medical wellness support"
+    ],
+    "avoid_for": [
+      "喜欢繁华都市生活的人",
+      "需要频繁国际旅行的人"
+    ],
+    "avoid_for_en": [
+      "Those seeking bustling urban life",
+      "Frequent international travelers"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "350-400 元/月（两房）；150-200 元/月（单间）",
+      "meals": "快餐7元，面食分量足",
+      "house_price": "<10万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "高原地区注意防晒和补水",
+      "自建房区域确认基础设施",
+      "长租需提前确认合同细节",
+      "医疗资源集中在主城区"
+    ],
+    "tips_en": [
+      "Use sunscreen and stay hydrated due to high altitude",
+      "Verify infrastructure in self-built housing areas",
+      "Confirm contract details for long-term rentals",
+      "Healthcare facilities are concentrated in the main urban area"
+    ],
+    "tags": [
+      "超低房价",
+      "宜人气候",
+      "医疗完善",
+      "安静宜居",
+      "高铁便利",
+      "十年旅居榜"
+    ],
+    "tags_en": [
+      "Ultra-low housing prices",
+      "Pleasant climate",
+      "Robust healthcare",
+      "Quiet and livable",
+      "High-speed rail access",
+      "Decade-long retirement list"
+    ],
+    "source": {
+      "bvid": "BV1QQLFzrEDs",
+      "url": "https://www.bilibili.com/video/BV1QQLFzrEDs",
+      "title": "10万买房的宝藏小城，200/月高性价比躺平城市考察~"
+    },
+    "id": "BV1QQLFzrEDs",
+    "nearby_cities": [
+      "BV1G7MfzxES1",
+      "BV1jqDHYREs7",
+      "BV1hxg8zVE8i"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "阳朔",
+    "city_en": "Yangshuo",
+    "province": "广西",
+    "province_en": "Guangxi",
+    "one_liner": "从旅游坑向旅居洼地转型，以免费喀斯特山水为底，错峰居住实现低成本康养休闲。",
+    "one_liner_en": "A budget-friendly retreat leveraging free karst landscapes and off-peak living for cost-effective wellness.",
+    "summary_sentence": "Free karst scenery meets off-peak affordability for serene long-term stays.",
+    "overall_score": 8.8,
+    "scores": {
+      "natural_env": 9.5,
+      "cost_of_living": 9.5,
+      "rent": 9.5,
+      "transportation": 7.0,
+      "healthcare": 8.0,
+      "climate": 8.0,
+      "long_term_live": 9.0
+    },
+    "pros": [
+      "喀斯特地貌峰林溶洞齐全，全国旅游百强县市",
+      "早餐成本极低，油条豆腐油茶均2-3元",
+      "淡季租金500-600元/月，小院1000-2000元",
+      "街边公告栏密集房源，外卖快递便利",
+      "避开节假日人少，享受纯粹自然体验",
+      "二十元背景、九马画山等景点全免费"
+    ],
+    "pros_en": [
+      "Complete karst landscapes with peaks, forests, and caves in a top-100 tourist county",
+      "Breakfast costs as low as 2-3 yuan for items like youtiao and tofu",
+      "Off-peak rent at 500-600 yuan/month, courtyards at 1000-2000 yuan",
+      "Dense rental listings on street boards, convenient food delivery",
+      "Few tourists during off-season for pure natural experiences",
+      "Free access to iconic spots like 20-yuan background and Nine Horse Fresco Hill"
+    ],
+    "cons": [
+      "旺季（寒暑假/节假日）人多体验差",
+      "交通依赖本地电动车，机场高铁信息缺失",
+      "购房数据缺失，主要依赖自建房",
+      "季节性敏感，淡旺季差异显著"
+    ],
+    "cons_en": [
+      "Overcrowded during peak seasons (holidays/summer breaks)",
+      "Limited transport options beyond local e-bikes",
+      "Lack of housing market data, mostly self-built homes",
+      "High seasonal sensitivity with stark off-peak vs peak differences"
+    ],
+    "good_for": [
+      "预算有限的短期旅居者",
+      "追求自然康养的退休人群",
+      "错峰出行的自由职业者",
+      "摄影/写生爱好者"
+    ],
+    "good_for_en": [
+      "Budget-conscious short-term travelers",
+      "Retirees seeking nature-based wellness",
+      "Freelancers avoiding peak seasons",
+      "Photographers/artists"
+    ],
+    "avoid_for": [
+      "旺季出行的游客",
+      "依赖公共交通的通勤者",
+      "需要完善医疗设施的慢性病患者"
+    ],
+    "avoid_for_en": [
+      "Peak-season tourists",
+      "Commuters relying on public transport",
+      "Chronic patients needing advanced medical care"
+    ],
+    "best_months": {
+      "recommended": [
+        3,
+        5,
+        9,
+        11
+      ],
+      "avoid": [
+        1,
+        2,
+        6,
+        7,
+        8,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "500-600 元/月",
+      "meals": "早餐 10 元以内",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "避开寒暑假及法定节假日",
+      "优先选择街边公告栏房源",
+      "自备电动车解决出行",
+      "关注天气变化调整行程"
+    ],
+    "tips_en": [
+      "Avoid holidays and summer breaks",
+      "Prioritize street-board rental listings",
+      "Bring an e-bike for local transport",
+      "Monitor weather for itinerary adjustments"
+    ],
+    "tags": [
+      "喀斯特地貌",
+      "低成本旅居",
+      "错峰康养",
+      "免费景点",
+      "淡旺季差异大"
+    ],
+    "tags_en": [
+      "Karst landscapes",
+      "Budget-friendly stays",
+      "Off-peak wellness",
+      "Free attractions",
+      "Seasonal extremes"
+    ],
+    "source": {
+      "bvid": "BV1hxg8zVE8i",
+      "url": "https://www.bilibili.com/video/BV1hxg8zVE8i",
+      "title": "山水之中的躺平宜居小城，600/月旅居避坑指南~"
+    },
+    "id": "BV1hxg8zVE8i",
+    "nearby_cities": [
+      "BV1G7MfzxES1",
+      "BV1iShczoEfK",
+      "BV1QQLFzrEDs"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "威海",
+    "city_en": "Weihai",
+    "province": "山东",
+    "province_en": "Shandong",
+    "one_liner": "威海文登区的新建海滨小镇，以“四景合一”的低成本基建和极致的住房性价比，主打适合长期 FIRE 的安静养老式旅居生活。",
+    "one_liner_en": "A newly built seaside town in Weihai's Wendeng District, offering cost-effective infrastructure and exceptional housing value for long-term FIRE and quiet retirement living.",
+    "summary_sentence": "Ultra-affordable coastal living with four natural landscapes and winter heating, ideal for tranquil FIRE lifestyles.",
+    "overall_score": 8.7,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 8.0,
+      "rent": 10.0,
+      "transportation": 7.0,
+      "healthcare": 8.0,
+      "climate": 8.0,
+      "long_term_live": 8.0
+    },
+    "pros": [
+      "拥有“临海、黄海、河流、湖泊”四种景观，万亩黑松林形成天然氧吧",
+      "50平一房一厅仅需9.9万元，小户型多在10-20万",
+      "两房租金约600元/月，50平一房一厅约500元/月",
+      "物价水平低，餐饮价格亲民",
+      "冬季供暖保障，解决北方寒冷问题",
+      "人流量少，环境安静解压"
+    ],
+    "pros_en": [
+      "Four natural landscapes (sea, river, lake) and 10,000-acre black pine forest create a natural oxygen bar",
+      "50㎡ studio for ¥99,000, most small units priced ¥100k-200k",
+      "Two-bedroom rent ~¥600/month, 50㎡ studio ~¥500/month",
+      "Low cost of living with affordable dining options",
+      "Winter heating system ensures comfort in cold months",
+      "Sparse crowds and tranquil environment for stress relief"
+    ],
+    "cons": [
+      "距离环翠区较远，需依赖电动车出行",
+      "常住人口密度低，生活氛围冷清",
+      "新建区域，部分设施可能尚未完善"
+    ],
+    "cons_en": [
+      "Located 8km from Huanwei District, requires e-bike for mobility",
+      "Low permanent population density creates quiet but isolated atmosphere",
+      "Newly developed area with some facilities still under construction"
+    ],
+    "good_for": [
+      "追求高性价比的长期FIRE人群",
+      "偏好安静环境的养老旅居者",
+      "预算有限的自由职业者"
+    ],
+    "good_for_en": [
+      "Long-term FIRE practitioners seeking cost efficiency",
+      "Retirees preferring tranquil environments",
+      "Budget-conscious remote workers"
+    ],
+    "avoid_for": [
+      "依赖城市便利设施的都市人群",
+      "需要频繁社交活动的年轻人"
+    ],
+    "avoid_for_en": [
+      "Urban dwellers requiring city amenities",
+      "Young professionals needing frequent social activities"
+    ],
+    "best_months": {
+      "recommended": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "avoid": [
+        1,
+        2,
+        3,
+        11,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "500-600 元/月",
+      "meals": "盖饭 15 元",
+      "house_price": "9.9 万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "建议购买二手电动车解决出行",
+      "冬季注意保暖，利用集中供暖",
+      "优先选择新建成的小区"
+    ],
+    "tips_en": [
+      "Purchase a second-hand e-bike for local mobility",
+      "Utilize central heating during winter months",
+      "Prioritize newly constructed residential complexes"
+    ],
+    "tags": [
+      "海滨小镇",
+      "高性价比",
+      "养老旅居",
+      "安静解压",
+      "供暖保障",
+      "四景合一"
+    ],
+    "tags_en": [
+      "Seaside Town",
+      "High Cost-Performance",
+      "Retirement Living",
+      "Tranquil Environment",
+      "Winter Heating",
+      "Four Natural Landscapes"
+    ],
+    "source": {
+      "bvid": "BV1jqDHYREs7",
+      "url": "https://www.bilibili.com/video/BV1jqDHYREs7",
+      "title": "【威海市】小众FIRE旅居城市，双海+河+湖四种风景，16元/天双海景房"
+    },
+    "id": "BV1jqDHYREs7",
+    "nearby_cities": [
+      "BV1QQLFzrEDs",
+      "BV1hxg8zVE8i",
+      "BV1G7MfzxES1"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "普洱",
+    "city_en": "Pu'er",
+    "province": "云南",
+    "province_en": "Yunnan",
+    "one_liner": "一个集高森林覆盖率、世界级咖啡茶产量与舒适气候于一体的西南边疆慢生活小城中，适合不想去商业化古城但追求康养体验的旅居地。",
+    "one_liner_en": "A slow-living southwestern border town with high forest coverage, world-class coffee and tea production, and a comfortable climate, ideal for those seeking wellness experiences away from commercialized ancient towns.",
+    "summary_sentence": "A hidden gem blending pristine nature, coffee culture, and year-round comfort for mindful living.",
+    "overall_score": 8.7,
+    "scores": {
+      "natural_env": 9.5,
+      "cost_of_living": 8.5,
+      "rent": 7.5,
+      "transportation": 8.5,
+      "healthcare": 8.0,
+      "climate": 9.0,
+      "long_term_live": 9.0
+    },
+    "pros": [
+      "森林覆盖率68.23%，空气质量全国前十",
+      "中国最大咖啡产区，占全国产量48.2%",
+      "高铁2.5小时直达昆明，交通便利",
+      "三家医院满足日常医疗需求",
+      "海拔1300米属长寿黄金高度",
+      "茶马古道文化丰富，茶园体验独特"
+    ],
+    "pros_en": [
+      "68.23% forest coverage with top-10 national air quality",
+      "Largest coffee producer in China (48.2% of national output)",
+      "2.5-hour high-speed rail from Kunming",
+      "Three hospitals cover daily medical needs",
+      "1,300m altitude ideal for longevity",
+      "Rich Tea Horse Road culture and unique tea garden experiences"
+    ],
+    "cons": [
+      "核心区租金较高，淡季800-1500元/月",
+      "旺季租金上涨明显",
+      "自建房价格虽低但可能条件一般"
+    ],
+    "cons_en": [
+      "Higher core-area rent (800-1500 RMB/month in off-season)",
+      "Significant rent increases during peak season",
+      "Budget self-built homes may have basic conditions"
+    ],
+    "good_for": [
+      "康养旅居者",
+      "咖啡茶文化爱好者",
+      "追求慢生活的人群",
+      "长期定居者"
+    ],
+    "good_for_en": [
+      "Wellness travelers",
+      "Coffee and tea culture enthusiasts",
+      "Slow-living seekers",
+      "Long-term residents"
+    ],
+    "avoid_for": [
+      "预算紧张者",
+      "喜欢热闹商业区的人",
+      "需要频繁出差者"
+    ],
+    "avoid_for_en": [
+      "Budget-conscious travelers",
+      "Those preferring bustling commercial areas",
+      "Frequent business travelers"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "800-1500 元/月（淡季）",
+      "meals": "米干5-6元，小店餐食约10元",
+      "house_price": "中等水平，具体价格未详",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "旺季租金上涨，建议淡季前往",
+      "核心区租金较高，可考虑自建房",
+      "注意雨季出行安全"
+    ],
+    "tips_en": [
+      "Avoid peak season for lower rent",
+      "Consider self-built homes outside core areas",
+      "Exercise caution during rainy season"
+    ],
+    "tags": [
+      "生态康养",
+      "咖啡茶乡",
+      "高铁直达",
+      "长寿宜居",
+      "文化古迹"
+    ],
+    "tags_en": [
+      "Eco-wellness",
+      "Coffee & Tea Hub",
+      "High-speed Rail Access",
+      "Longevity Haven",
+      "Cultural Heritage"
+    ],
+    "source": {
+      "bvid": "BV1GucuzwEFm",
+      "url": "https://www.bilibili.com/video/BV1GucuzwEFm",
+      "title": "西双版纳平替宝藏小城，茶叶咖啡自由，环境超好的躺平宜居城市~"
+    },
+    "id": "BV1GucuzwEFm",
+    "nearby_cities": [
+      "BV1iShczoEfK",
+      "BV1sjeezuEwP",
+      "BV1FKyZB6EUU"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "张掖",
+    "city_en": "Zhangye",
+    "province": "甘肃",
+    "province_en": "Gansu",
+    "one_liner": "一座拥有极低成本、丰富地貌景观及独特物流补贴的西北冷门古城，适合追求极致性价比与自然风光的隐居者。",
+    "one_liner_en": "A remote northwest city with ultra-low costs, diverse landscapes, and unique logistics subsidies, ideal for those seeking extreme value and natural beauty.",
+    "summary_sentence": "Unbeatable affordability meets stunning natural diversity in this hidden northwest gem.",
+    "overall_score": 8.6,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 10.0,
+      "rent": 10.0,
+      "transportation": 6.0,
+      "healthcare": 8.0,
+      "climate": 7.0,
+      "long_term_live": 7.0
+    },
+    "pros": [
+      "房价不到10万可购两室一厅，均价3-4千/㎡",
+      "5元吃带肉面，蔬菜10元一大兜，月伙食费不足200元",
+      "月租500-600元含水电网络",
+      "集冰川、丹霞、沙漠等九种地貌于一体",
+      "享受电商平台特殊运费补贴"
+    ],
+    "pros_en": [
+      "Homes under ¥100k for 2-bedroom units, avg. ¥3-4k/㎡",
+      "¥5 meat noodles, ¥10 bulk veggies, monthly food under ¥200",
+      "¥500-600/month rent includes utilities & internet",
+      "Nine landscapes including glaciers, Danxia, and deserts",
+      "Special e-commerce shipping subsidies"
+    ],
+    "cons": [
+      "距江浙沪直线2100公里，对外交通耗时",
+      "海拔2800米需适应干旱气候与强紫外线",
+      "医疗资源未明确提及"
+    ],
+    "cons_en": [
+      "2,100km from Jiangsu/Zhejiang/Shanghai, long travel times",
+      "2,800m elevation requires adaptation to arid climate & UV",
+      "Healthcare resources not specified"
+    ],
+    "good_for": [
+      "追求极致性价比的隐居者",
+      "自然风光爱好者",
+      "预算有限的长期旅居者"
+    ],
+    "good_for_en": [
+      "Budget-focused hermits",
+      "Nature enthusiasts",
+      "Long-term travelers on tight budgets"
+    ],
+    "avoid_for": [
+      "依赖便利交通的商务人士",
+      "不适应高海拔气候者"
+    ],
+    "avoid_for_en": [
+      "Business travelers needing frequent transit",
+      "Those sensitive to high-altitude climates"
+    ],
+    "best_months": {
+      "recommended": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "avoid": [
+        1,
+        2,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "500-600 元/月",
+      "meals": "盖饭5元，蔬菜10元/大兜",
+      "house_price": "10万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "自驾需备足物资应对偏远路段",
+      "夏季防晒防紫外线必备",
+      "冬季注意保暖及供暖设备"
+    ],
+    "tips_en": [
+      "Stock supplies for remote road trips",
+      "Sun protection essential in summer",
+      "Ensure heating systems for winter"
+    ],
+    "tags": [
+      "低成本",
+      "地貌多样",
+      "物流补贴",
+      "西北古城",
+      "隐居胜地"
+    ],
+    "tags_en": [
+      "Ultra-low cost",
+      "Diverse landscapes",
+      "Logistics subsidies",
+      "Northwest ancient city",
+      "Retreat destination"
+    ],
+    "source": {
+      "bvid": "BV138TszsEzj",
+      "url": "https://www.bilibili.com/video/BV138TszsEzj",
+      "title": "7w买套房， 9种自然景观，拼多多包邮的宝藏小城生活考察汇报~"
+    },
+    "id": "BV138TszsEzj",
+    "nearby_cities": [
+      "BV1XWEs6BE4s",
+      "BV1hxg8zVE8i",
+      "BV1Jq4y1Z7P1"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "巧家",
+    "city_en": "Qiaojia",
+    "province": "云南",
+    "province_en": "Yunnan",
+    "one_liner": "一个隐藏在云南北部山区、拥有世界级水电景观与极致物价的暖冬低成本避寒之城。",
+    "one_liner_en": "A hidden northern Yunnan mountain town with world-class hydroelectric scenery and ultra-low costs for a warm winter retreat.",
+    "summary_sentence": "Ultra-affordable winter haven with stunning hydroelectric landscapes and minimal living costs.",
+    "overall_score": 8.5,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 10.0,
+      "rent": 8.0,
+      "transportation": 6.0,
+      "healthcare": 8.0,
+      "climate": 9.0,
+      "long_term_live": 7.0
+    },
+    "pros": [
+      "高峡平湖景观，冬季气温23℃，空气质量优良率99.4%",
+      "十几万买房，性价比远超三亚",
+      "早餐1.5元，凉粉5元，卷粉3元",
+      "学校、医院、菜市场齐全",
+      "非热门旅游地，适合静心",
+      "白鹤滩水电站，房车营地完善"
+    ],
+    "pros_en": [
+      "High gorge lake scenery with winter temps around 23°C and 99.4% air quality.",
+      "Homes for as low as 100k RMB, far more affordable than Sanya.",
+      "Breakfast for 1.5 RMB, cold noodles for 5 RMB, and rolls for 3 RMB.",
+      "Schools, hospitals, and markets within 1-2 km.",
+      "Not a tourist hotspot, offering a peaceful atmosphere.",
+      "Home to the world's second-largest hydropower station and RV-friendly facilities."
+    ],
+    "cons": [
+      "交通不便，需依赖昭通市接驳",
+      "冬季旺季房租上涨",
+      "车位紧张",
+      "淡旺季人流波动大"
+    ],
+    "cons_en": [
+      "Limited transport links, requiring connections via Zhaotong.",
+      "Rent increases during peak winter season.",
+      "Parking shortages during peak season.",
+      "Significant seasonal population fluctuations."
+    ],
+    "good_for": [
+      "预算敏感的旅居者",
+      "房车爱好者",
+      "避寒需求人群",
+      "追求性价比的长期居住者"
+    ],
+    "good_for_en": [
+      "Budget-conscious travelers",
+      "RV enthusiasts",
+      "Winter escape seekers",
+      "Long-term residents prioritizing value"
+    ],
+    "avoid_for": [
+      "依赖便利交通的商务人士",
+      "偏好高端度假设施者"
+    ],
+    "avoid_for_en": [
+      "Business travelers needing transport convenience",
+      "Luxury resort seekers"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "300-800 元/月",
+      "meals": "早餐1.5元，凉粉5元",
+      "house_price": "10万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "冬季旺季提前预订住宿",
+      "注意交通接驳安排",
+      "避开夏季高温",
+      "了解房车营地设施",
+      "关注淡旺季价格波动"
+    ],
+    "tips_en": [
+      "Book accommodations early for peak winter season.",
+      "Plan transport connections via Zhaotong.",
+      "Avoid summer heat.",
+      "Check RV campsite facilities.",
+      "Monitor seasonal price fluctuations."
+    ],
+    "tags": [
+      "暖冬避寒",
+      "高性价比",
+      "水电景观",
+      "房车友好",
+      "低物价",
+      "山区小城"
+    ],
+    "tags_en": [
+      "Winter escape",
+      "High value",
+      "Hydroelectric scenery",
+      "RV-friendly",
+      "Low cost",
+      "Mountain town"
+    ],
+    "source": {
+      "bvid": "BV16bAhzyE1F",
+      "url": "https://www.bilibili.com/video/BV16bAhzyE1F",
+      "title": "23℃的三亚平替小城，10万一套房，5元吃到饱的躺平宜居城市"
+    },
+    "id": "BV16bAhzyE1F",
+    "nearby_cities": [
+      "BV1qxykYwEFF",
+      "BV1iShczoEfK",
+      "BV12MpjzhE8V"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "龙门",
+    "city_en": "Longmen",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "位于广东惠州龙门的深山温泉山谷，“空城”式小众养老地，以超低租金、高密度绿化及静谧环境为核心卖点。",
+    "one_liner_en": "Nestled in a remote valley in Longmen, Huizhou, this secluded wellness retreat offers ultra-low rent, lush greenery, and serene surroundings.",
+    "summary_sentence": "A tranquil, budget-friendly haven for retirees seeking nature and solitude.",
+    "overall_score": 8.5,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 8.0,
+      "rent": 8.0,
+      "transportation": 7.0,
+      "healthcare": 7.0,
+      "climate": 7.0,
+      "long_term_live": 6.0
+    },
+    "pros": [
+      "单间长租600多元/月，一房两房约1000元",
+      "山谷景观优美，空气清新，有水库和小河",
+      "高速路口近，免费班车往返东莞广州",
+      "温泉资源丰富，适合康养",
+      "社区团购和快递直达，基础配套齐全"
+    ],
+    "pros_en": [
+      "Ultra-low rent: single rooms available for just over 600 RMB/month",
+      "Scenic valley with fresh air, reservoirs, and streams",
+      "Proximity to highway and free shuttle to Dongguan/Guangzhou",
+      "Abundant hot spring resources ideal for wellness",
+      "Community group buying and home delivery services"
+    ],
+    "cons": [
+      "医疗资源未明确提及，可能不足",
+      "人口老龄化严重，年轻人极少",
+      "餐饮选择有限，建议自炊",
+      "非节假日入住率低，社交圈单一"
+    ],
+    "cons_en": [
+      "Unclear healthcare access",
+      "Over 90% elderly population with minimal youth presence",
+      "Limited dining options; self-catering recommended",
+      "Low occupancy off-peak seasons"
+    ],
+    "good_for": [
+      "追求低价隐居的退休人群",
+      "需要温泉康养的中老年人",
+      "偏好自然环境的自由职业者"
+    ],
+    "good_for_en": [
+      "Retirees seeking affordable seclusion",
+      "Middle-aged/elderly wellness seekers",
+      "Nature-loving remote workers"
+    ],
+    "avoid_for": [
+      "依赖医疗资源的慢性病患者",
+      "需要社交活力的年轻人",
+      "依赖公共交通的无车族"
+    ],
+    "avoid_for_en": [
+      "Chronic patients needing medical care",
+      "Young people seeking social vibrancy",
+      "Car-free residents relying on public transit"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "600-1000 元/月",
+      "meals": "建议自炊，超市可购食材",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "确认医疗资源覆盖范围",
+      "自备食材降低餐饮成本",
+      "避开节假日体验更佳",
+      "提前了解班车时刻表"
+    ],
+    "tips_en": [
+      "Verify healthcare accessibility",
+      "Cook meals to reduce costs",
+      "Visit off-peak for better experience",
+      "Check shuttle schedules in advance"
+    ],
+    "tags": [
+      "康养",
+      "温泉",
+      "低价隐居",
+      "自然生态",
+      "小众养老"
+    ],
+    "tags_en": [
+      "Wellness Retreat",
+      "Hot Springs",
+      "Budget Seclusion",
+      "Eco-Friendly",
+      "Niche Retirement"
+    ],
+    "source": {
+      "bvid": "BV1yHQDYHEkd",
+      "url": "https://www.bilibili.com/video/BV1yHQDYHEkd",
+      "title": "600/月养生式“躺平”城市，能住10W人的宜居“空城”"
+    },
+    "id": "BV1yHQDYHEkd",
+    "nearby_cities": [
+      "BV1iebZzjE1J",
+      "BV1G7MfzxES1",
+      "BV12MpjzhE8V"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "弥勒",
+    "city_en": "Mile",
+    "province": "云南",
+    "province_en": "Yunnan",
+    "one_liner": "一座以森林康养为核心优势、物价极低且兼具温泉红酒文化的“公园式”低门槛养老旅居小城。",
+    "one_liner_en": "A park-like low-threshold retirement and travel city with forest wellness, ultra-low costs, and hot spring and wine culture.",
+    "summary_sentence": "A serene, affordable wellness haven with lush forests and unique cultural charm.",
+    "overall_score": 8.5,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 10.0,
+      "rent": 8.0,
+      "transportation": 8.0,
+      "healthcare": 7.0,
+      "climate": 7.0,
+      "long_term_live": 9.0
+    },
+    "pros": [
+      "森林覆盖率48.3%，空气质量全年99%以上",
+      "物价极低：6元一碗粉，10元一大袋水果",
+      "温泉资源丰富，拥有‘温泉之乡’称号",
+      "高铁47分钟直达昆明，交通便利",
+      "长居适宜度高，生活节奏慢压力小"
+    ],
+    "pros_en": [
+      "48.3% forest coverage with 99%+ annual air quality",
+      "Ultra-low prices: 6 yuan for noodles, 10 yuan for a bag of fruit",
+      "Abundant hot springs, known as 'Hometown of Hot Springs'",
+      "High-speed rail to Kunming in 47 minutes",
+      "Ideal for long-term living with slow-paced lifestyle"
+    ],
+    "cons": [
+      "未明确提及大型三甲医院",
+      "依赖外部交通接驳，无本地机场",
+      "雨季湿度较高需注意防潮"
+    ],
+    "cons_en": [
+      "No mention of major tertiary hospitals",
+      "Relies on external transport connections, no local airport",
+      "High humidity during rainy season requires moisture protection"
+    ],
+    "good_for": [
+      "提前退休人群",
+      "追求慢生活的旅居者",
+      "康养需求者"
+    ],
+    "good_for_en": [
+      "Early retirees",
+      "Slow-living travelers",
+      "Wellness seekers"
+    ],
+    "avoid_for": [
+      "需频繁出差的商务人士",
+      "依赖航空交通的群体"
+    ],
+    "avoid_for_en": [
+      "Frequent business travelers",
+      "Those relying on air travel"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "800元/月",
+      "meals": "6元一碗粉",
+      "house_price": "120万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "雨季注意防潮防霉",
+      "提前了解医疗资源分布",
+      "选择靠近温泉区的房源"
+    ],
+    "tips_en": [
+      "Take moisture-proof measures during rainy season",
+      "Research medical facilities in advance",
+      "Choose accommodations near hot spring areas"
+    ],
+    "tags": [
+      "森林康养",
+      "低物价",
+      "温泉红酒",
+      "高铁直达",
+      "长居适宜"
+    ],
+    "tags_en": [
+      "Forest Wellness",
+      "Low Cost of Living",
+      "Hot Springs & Wine",
+      "High-Speed Rail Access",
+      "Long-Term Living Friendly"
+    ],
+    "source": {
+      "bvid": "BV1zQiKBBEgK",
+      "url": "https://www.bilibili.com/video/BV1zQiKBBEgK",
+      "title": "云南宜居城市天花板，130个公园的宜居退休躺平城市~"
+    },
+    "id": "BV1zQiKBBEgK",
+    "nearby_cities": [
+      "BV1hxg8zVE8i",
+      "BV1iShczoEfK",
+      "BV1G7MfzxES1"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "六盘水",
+    "city_en": "Liupanshui",
+    "province": "贵州",
+    "province_en": "Guizhou",
+    "one_liner": "“中国凉都”——低纬度、高海拔、夏均温 19℃的绝佳避暑康养躺平地。",
+    "one_liner_en": "China's Cool Capital: A low-latitude, high-altitude haven with summer averages of 19°C, ideal for summer retreats and wellness.",
+    "summary_sentence": "A summer paradise with cool climate and low costs, perfect for escaping heat.",
+    "overall_score": 8.5,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 9.0,
+      "transportation": 7.0,
+      "healthcare": 7.0,
+      "climate": 8.0,
+      "long_term_live": 8.0
+    },
+    "pros": [
+      "森林覆盖率超60%，负氧离子含量是一般城市的20倍",
+      "夏季平均气温仅21℃，60年最高温未超35℃",
+      "淡季租房仅需600-700元/月",
+      "生活节奏慢，无大城市喧嚣",
+      "高铁+机场双交通，距贵阳2小时"
+    ],
+    "pros_en": [
+      "Over 60% forest coverage with 20x higher negative oxygen ions than typical cities",
+      "Summer averages 21°C, with no recorded temperature above 35°C in 60 years",
+      "Off-season rentals as low as 600-700 RMB/month",
+      "Slow-paced lifestyle free from urban hustle",
+      "High-speed rail and airport access, 2 hours from Guiyang"
+    ],
+    "cons": [
+      "市内道路老旧，交通体验差",
+      "冬季夜间寒冷需备电热毯",
+      "旺季租金可能翻倍",
+      "缺乏现代都市便利设施"
+    ],
+    "cons_en": [
+      "Aging urban roads with poor transportation experience",
+      "Cold winter nights requiring electric blankets",
+      "Peak-season rents may double",
+      "Lacks modern urban conveniences"
+    ],
+    "good_for": [
+      "夏季避暑旅居者",
+      "追求低成本生活的中老年人",
+      "需要自然康养环境的人群"
+    ],
+    "good_for_en": [
+      "Summer retreat seekers",
+      "Cost-conscious retirees",
+      "Nature-focused wellness travelers"
+    ],
+    "avoid_for": [
+      "冬季温暖需求者",
+      "依赖现代都市便利设施者"
+    ],
+    "avoid_for_en": [
+      "Those needing winter warmth",
+      "Urban convenience-dependent individuals"
+    ],
+    "best_months": {
+      "recommended": [
+        6,
+        7,
+        8
+      ],
+      "avoid": [
+        1,
+        2,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "600-700 元/月",
+      "meals": "信息待补充",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "冬季需备电热毯",
+      "避开旺季租房",
+      "注意市内交通不便",
+      "提前规划避暑行程"
+    ],
+    "tips_en": [
+      "Pack electric blankets for winter nights",
+      "Avoid peak-season rentals",
+      "Expect limited urban transport",
+      "Plan summer stays in advance"
+    ],
+    "tags": [
+      "避暑胜地",
+      "低物价",
+      "高森林覆盖率",
+      "康养旅居",
+      "高铁直达"
+    ],
+    "tags_en": [
+      "Summer retreat",
+      "Low cost of living",
+      "High forest coverage",
+      "Wellness tourism",
+      "High-speed rail access"
+    ],
+    "source": {
+      "bvid": "BV1G7MfzxES1",
+      "url": "https://www.bilibili.com/video/BV1G7MfzxES1",
+      "title": "夏天19℃的避暑小城，700/月夏日躺平考察汇报~"
+    },
+    "id": "BV1G7MfzxES1",
+    "nearby_cities": [
+      "BV1hxg8zVE8i",
+      "BV1QQLFzrEDs",
+      "BV1iShczoEfK"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "峨眉山",
+    "city_en": "Emeishan",
+    "province": "四川",
+    "province_en": "Sichuan",
+    "one_liner": "这是一处以极低租金（月租 800 元）入住的高品质山居公寓，实则是大量业主承担商业失败的“韭菜盘”，适合追求极致性价比与绝对安静、且不在意社交氛围的独行客。",
+    "one_liner_en": "A high-quality mountain apartment with ultra-low rent (800 RMB/month), ideal for solo travelers seeking extreme cost-effectiveness and absolute quiet, despite being a failed commercial project.",
+    "summary_sentence": "A serene mountain retreat with unbeatable rent, but built on a commercial failure.",
+    "overall_score": 8.5,
+    "scores": {
+      "natural_env": 8.0,
+      "cost_of_living": 9.0,
+      "rent": 10.0,
+      "transportation": 7.0,
+      "healthcare": 7.0,
+      "climate": 8.0,
+      "long_term_live": 6.0
+    },
+    "pros": [
+      "月租800元的高品质山居公寓",
+      "自然环境优美，山景环绕",
+      "物价低廉，美食丰富",
+      "极度安静，适合独行客",
+      "独特案例：房东亏本托管"
+    ],
+    "pros_en": [
+      "High-quality mountain apartment at 800 RMB/month",
+      "Beautiful natural environment with mountain views",
+      "Affordable prices and rich local cuisine",
+      "Extremely quiet, ideal for solo travelers",
+      "Unique case: landlords losing money on management"
+    ],
+    "cons": [
+      "房价虚高，非低价购房优选",
+      "交通不便，依赖自驾",
+      "医疗资源不足",
+      "社区感缺失，长居适宜度低",
+      "依赖物业合同，稳定性存疑"
+    ],
+    "cons_en": [
+      "Overpriced real estate, not a budget-friendly option",
+      "Poor transportation, reliant on self-driving",
+      "Lack of medical resources",
+      "Lack of community, low long-term livability",
+      "Dependent on property contracts, stability uncertain"
+    ],
+    "good_for": [
+      "追求极致性价比的独行客",
+      "需要安静环境的人",
+      "短期旅居者"
+    ],
+    "good_for_en": [
+      "Solo travelers seeking extreme cost-effectiveness",
+      "People needing a quiet environment",
+      "Short-term visitors"
+    ],
+    "avoid_for": [
+      "需要社交氛围的人",
+      "依赖医疗资源者",
+      "长期定居者"
+    ],
+    "avoid_for_en": [
+      "People needing social atmosphere",
+      "Those reliant on medical resources",
+      "Long-term settlers"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "800元/月",
+      "meals": "信息待补充",
+      "house_price": "1.2万/平米",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "确认物业合同稳定性",
+      "注意医疗资源不足",
+      "交通依赖自驾",
+      "社区感缺失",
+      "房价虚高需谨慎"
+    ],
+    "tips_en": [
+      "Verify property contract stability",
+      "Be aware of limited medical resources",
+      "Transportation relies on self-driving",
+      "Lack of community feel",
+      "High housing prices require caution"
+    ],
+    "tags": [
+      "低租金",
+      "山居",
+      "安静",
+      "商业失败",
+      "独行客",
+      "性价比"
+    ],
+    "tags_en": [
+      "Low rent",
+      "Mountain living",
+      "Quiet",
+      "Commercial failure",
+      "Solo travelers",
+      "Cost-effective"
+    ],
+    "source": {
+      "bvid": "BV1Jq4y1Z7P1",
+      "url": "https://www.bilibili.com/video/BV1Jq4y1Z7P1",
+      "title": "寻找“躺平生活”之旅，打卡中国寻找几百块一个月的度假区"
+    },
+    "id": "BV1Jq4y1Z7P1",
+    "nearby_cities": [
+      "BV18Ty5Y6EmX",
+      "BV1XWEs6BE4s",
+      "BV138TszsEzj"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "抚仙湖",
+    "city_en": "Fuxianhu",
+    "province": "云南",
+    "province_en": "Yunnan",
+    "one_liner": "拥有高原深湖与「海」般景致的内陆小城，以极低成本与四季如春气候提供慢节奏旅居体验。",
+    "one_liner_en": "A serene inland city with high-altitude deep lake views, offering low-cost living and year-round mild climate for escaping urban stress.",
+    "summary_sentence": "High-altitude lake paradise with affordable living and tranquil lifestyle.",
+    "overall_score": 8.5,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 8.0,
+      "transportation": 7.0,
+      "healthcare": 8.0,
+      "climate": 8.0,
+      "long_term_live": 8.0
+    },
+    "pros": [
+      "我国最大高原深水湖，自然景观丰富",
+      "淡季月租仅700元，物价低廉（外食10元/餐）",
+      "四季如春，夏季凉爽需盖被",
+      "基础设施完善（医院/商超齐全）",
+      "无台风风险，空气优质"
+    ],
+    "pros_en": [
+      "China's largest high-altitude deep lake with rich natural scenery",
+      "Low-cost living: 700 RMB/month rent in off-season, meals ~10 RMB",
+      "Year-round mild climate, cool summers requiring blankets",
+      "Complete infrastructure (hospitals, supermarkets available)",
+      "No typhoon risks, excellent air quality"
+    ],
+    "cons": [
+      "旺季租金暴涨至2000+元/月",
+      "缺乏直达高铁/机场信息",
+      "依赖电动车通勤（需自备）"
+    ],
+    "cons_en": [
+      "Peak season rent surges to 2000+ RMB/month",
+      "No direct high-speed rail/airport access mentioned",
+      "Relies on e-bike commuting (self-provided)"
+    ],
+    "good_for": [
+      "追求低成本慢生活者",
+      "夏季避暑人群",
+      "自然爱好者"
+    ],
+    "good_for_en": [
+      "Budget-conscious slow-living seekers",
+      "Summer escapees",
+      "Nature enthusiasts"
+    ],
+    "avoid_for": [
+      "依赖公共交通者",
+      "旺季短期游客"
+    ],
+    "avoid_for_en": [
+      "Public transport-dependent travelers",
+      "Peak-season short-term visitors"
+    ],
+    "best_months": {
+      "recommended": [
+        6,
+        7,
+        8
+      ],
+      "avoid": [
+        1,
+        2,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "700-2000 元/月",
+      "meals": "外食约 10 元/餐",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "避开旺季租房",
+      "自备电动车",
+      "关注淡旺季价差"
+    ],
+    "tips_en": [
+      "Avoid renting during peak season",
+      "Bring your own e-bike",
+      "Monitor seasonal price fluctuations"
+    ],
+    "tags": [
+      "高原湖泊",
+      "低成本旅居",
+      "四季如春",
+      "自然疗愈"
+    ],
+    "tags_en": [
+      "High-altitude lake",
+      "Budget-friendly stay",
+      "Year-round mild climate",
+      "Nature therapy"
+    ],
+    "source": {
+      "bvid": "BV1iShczoEfK",
+      "url": "https://www.bilibili.com/video/BV1iShczoEfK",
+      "title": "同时拥有山海河湖的宝藏小城，四季如春水果自由的躺平城市考察~"
+    },
+    "id": "BV1iShczoEfK",
+    "nearby_cities": [
+      "BV1FKyZB6EUU",
+      "BV1hxg8zVE8i",
+      "BV1G7MfzxES1"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "洛阳",
+    "city_en": "Luoyang",
+    "province": "河南",
+    "province_en": "Henan",
+    "one_liner": "一座拥有十三朝古都深厚文化底蕴、医疗交通完善且房价物价极低的高性价比北方宜居古城。",
+    "one_liner_en": "An ancient northern city with rich cultural heritage, excellent healthcare and transport, and extremely low housing and living costs.",
+    "summary_sentence": "A historic city blending affordability, infrastructure, and cultural depth for long-term living.",
+    "overall_score": 8.5,
+    "scores": {
+      "natural_env": 7.0,
+      "cost_of_living": 10.0,
+      "rent": 9.0,
+      "transportation": 8.0,
+      "healthcare": 9.0,
+      "climate": 7.0,
+      "long_term_live": 8.0
+    },
+    "pros": [
+      "房价从高点1万跌至6000元/㎡，最低8-9万可购50-60㎡小户型",
+      "物价极低：7元带肉盖饭、5元素菜盖饭、10元水果一兜",
+      "医疗资源丰富，拥有9家三甲医院",
+      "交通便利，高铁/机场/地铁全覆盖，电动车出行便捷",
+      "历史文化深厚，十三朝古都遗址遍布"
+    ],
+    "pros_en": [
+      "Housing prices dropped from 10k to 6k RMB/㎡, with 50-60㎡ units available for 80-90k RMB",
+      "Extremely low living costs: 7 RMB meat rice bowl, 5 RMB vegetarian option, 10 RMB fruit basket",
+      "Strong healthcare with 9 Grade-A tertiary hospitals",
+      "Comprehensive transport network including high-speed rail, airport, and metro",
+      "Rich historical heritage as a 13-dynasty ancient capital"
+    ],
+    "cons": [
+      "冬季寒冷需依赖暖气设备",
+      "老城区可能存在人流嘈杂问题",
+      "缺乏现代都市的时尚娱乐设施"
+    ],
+    "cons_en": [
+      "Cold winters requiring heating systems",
+      "Potential noise in old city districts",
+      "Limited modern entertainment options"
+    ],
+    "good_for": [
+      "追求低成本生活的退休人群",
+      "历史文化爱好者",
+      "预算有限的长期旅居者"
+    ],
+    "good_for_en": [
+      "Retirees seeking low-cost living",
+      "History and culture enthusiasts",
+      "Budget-conscious long-term travelers"
+    ],
+    "avoid_for": [
+      "不适应北方气候者",
+      "需要高端医疗资源者"
+    ],
+    "avoid_for_en": [
+      "Those unsuited to northern climates",
+      "People requiring premium healthcare"
+    ],
+    "best_months": {
+      "recommended": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "avoid": [
+        1,
+        2,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "150-250 元/月",
+      "meals": "盖饭 7 元",
+      "house_price": "8-9 万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "冬季注意保暖，提前确认暖气供应",
+      "租房优先选择新小区避免潮湿",
+      "老城区住宿需考虑噪音问题"
+    ],
+    "tips_en": [
+      "Ensure heating availability before winter stays",
+      "Prefer newer residential areas to avoid dampness",
+      "Consider noise levels when staying in old districts"
+    ],
+    "tags": [
+      "历史文化",
+      "低成本生活",
+      "医疗完善",
+      "交通便利",
+      "北方气候"
+    ],
+    "tags_en": [
+      "Historical Heritage",
+      "Low-Cost Living",
+      "Comprehensive Healthcare",
+      "Transport Hub",
+      "Northern Climate"
+    ],
+    "source": {
+      "bvid": "BV1ZgSeB7EeE",
+      "url": "https://www.bilibili.com/video/BV1ZgSeB7EeE",
+      "title": "河南最宜居的小城，8万一套房+5元能吃饱+基建完善+历史丰厚"
+    },
+    "id": "BV1ZgSeB7EeE",
+    "nearby_cities": [
+      "BV1G94y1X7n9",
+      "BV1inYkzyEGx",
+      "BV1FKyZB6EUU"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "清远",
+    "city_en": "Qingyuan",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "位于广清交界处的“鹤岗化”高性价比旅居社区，主打“一小时直达广深”的低成本山水隐居。",
+    "one_liner_en": "High-value living community near Guangzhou-Shenzhen, offering low-cost mountain retreat with 1-hour access.",
+    "summary_sentence": "Affordable mountain retreat with 1-hour access to Guangzhou-Shenzhen.",
+    "overall_score": 8.5,
+    "scores": {
+      "natural_env": 8.0,
+      "cost_of_living": 9.0,
+      "rent": 10.0,
+      "transportation": 8.0,
+      "healthcare": 8.0,
+      "climate": 4.0,
+      "long_term_live": 8.0
+    },
+    "pros": [
+      "房价腰斩，不到3000元/平米，总价10多万可购两室一厅",
+      "租金极低，四五百元可租依山傍水小区房",
+      "交通便利，15分钟到广州，半小时到白云机场",
+      "生活配套齐全，有医院、学校、商超等",
+      "自然环境优越，山、水、河、湖齐全，空气清新",
+      "独特资源：磁悬浮旅游专线，邻近长隆度假区"
+    ],
+    "pros_en": [
+      "Housing prices halved, under 3000 RMB/sqm, 100k+ for 2BR",
+      "Rent as low as 400-500 RMB/month for riverside apartments",
+      "15-min to Guangzhou, 30-min to Baiyun Airport",
+      "Full amenities: hospitals, schools, supermarkets",
+      "Abundant natural scenery with fresh air",
+      "Unique magnetic levitation line & proximity to Chimelong Resort"
+    ],
+    "cons": [
+      "房产价值波动大，已腰斩，投资属性弱",
+      "部分区域可能存在噪音问题",
+      "广东地区潜在湿热风险"
+    ],
+    "cons_en": [
+      "Property values volatile (halved), weak investment potential",
+      "Noise issues in some areas",
+      "Potential humidity risks in Guangdong climate"
+    ],
+    "good_for": [
+      "短期旅居者",
+      "低成本养老人群",
+      "追求高性价比的远程工作者",
+      "希望逃离内卷的都市人群"
+    ],
+    "good_for_en": [
+      "Short-term travelers",
+      "Budget retirees",
+      "Remote workers seeking value",
+      "Urban dwellers escaping burnout"
+    ],
+    "avoid_for": [
+      "房产投资者",
+      "对气候敏感者"
+    ],
+    "avoid_for_en": [
+      "Property investors",
+      "Climate-sensitive individuals"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "400-500 元/月",
+      "meals": "信息待补充",
+      "house_price": "10万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "注意房产投资风险",
+      "避开噪音区域",
+      "考虑湿热气候影响",
+      "适合短期居住而非长期投资"
+    ],
+    "tips_en": [
+      "Beware property investment risks",
+      "Avoid noisy areas",
+      "Consider humidity impacts",
+      "Ideal for short stays, not long-term investment"
+    ],
+    "tags": [
+      "高性价比",
+      "交通便利",
+      "自然环境好",
+      "适合短期旅居",
+      "低成本养老"
+    ],
+    "tags_en": [
+      "High value",
+      "Convenient transport",
+      "Great nature",
+      "Short-term friendly",
+      "Budget retirement"
+    ],
+    "source": {
+      "bvid": "BV1oLMMzXEyv",
+      "url": "https://www.bilibili.com/video/BV1oLMMzXEyv",
+      "title": "广东的“小鹤岗”，10多万买房躺平生活的后花园"
+    },
+    "id": "BV1oLMMzXEyv",
+    "nearby_cities": [
+      "BV1KA9CYuEKz",
+      "BV1YgAZzkERz",
+      "BV1wXznYiER4"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "惠东",
+    "city_en": "Huidong",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "依托开发商建设的滨海睡城，配套成熟但入住率低，适合预算有限且需深港通勤的长期躺平者。",
+    "one_liner_en": "A developer-built coastal 'sleeping town' with mature amenities but low occupancy, ideal for budget-conscious long-term stayers needing Shenzhen/HK access.",
+    "summary_sentence": "Affordable coastal living with mature amenities, ideal for low-budget remote workers near Shenzhen/HK.",
+    "overall_score": 8.5,
+    "scores": {
+      "natural_env": 7.0,
+      "cost_of_living": 9.0,
+      "rent": 8.0,
+      "transportation": 8.0,
+      "healthcare": 9.0,
+      "climate": 4.0,
+      "long_term_live": 8.0
+    },
+    "pros": [
+      "海景房仅需10-15万元",
+      "超市/菜场价格比周边低",
+      "步行5分钟可达商业街",
+      "直达深圳福田/香港口岸大巴",
+      "碧桂圆规模化社区配套全"
+    ],
+    "pros_en": [
+      "Seaview apartments available for 100k-150k RMB",
+      "Supermarket/vegetable prices lower than nearby areas",
+      "Commercial street within 5-minute walk",
+      "Direct buses to Shenzhen Futian/HK border",
+      "Comprehensive amenities in large-scale community"
+    ],
+    "cons": [
+      "入住率低导致冷清",
+      "夏季台风风险",
+      "业主报价虚高需砍价",
+      "夜间活动依赖广场舞"
+    ],
+    "cons_en": [
+      "Low occupancy creates desolate atmosphere",
+      "Typhoon risks during summer",
+      "Landlords' asking prices require negotiation",
+      "Nightlife limited to square dancing"
+    ],
+    "good_for": [
+      "预算有限的深港通勤者",
+      "追求低物价的长期旅居者",
+      "需要基础医疗配套的养老人群"
+    ],
+    "good_for_en": [
+      "Budget-conscious Shenzhen/HK commuters",
+      "Long-term stayers seeking low cost of living",
+      "Retirees needing basic medical facilities"
+    ],
+    "avoid_for": [
+      "偏好热闹社交的年轻人",
+      "对气候敏感者"
+    ],
+    "avoid_for_en": [
+      "Young people seeking vibrant social scenes",
+      "Climate-sensitive individuals"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "500-600元/月",
+      "meals": "超市/菜场价格较低",
+      "house_price": "10万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "租房务必砍价",
+      "避开6-9月台风季",
+      "选择入住率高的楼栋",
+      "提前确认跨境交通班次"
+    ],
+    "tips_en": [
+      "Negotiate rental prices firmly",
+      "Avoid June-September typhoon season",
+      "Choose buildings with higher occupancy",
+      "Verify cross-border transport schedules"
+    ],
+    "tags": [
+      "滨海睡城",
+      "低物价",
+      "跨境通勤",
+      "开发商社区",
+      "养老友好"
+    ],
+    "tags_en": [
+      "Coastal sleeping town",
+      "Low cost of living",
+      "Cross-border commute",
+      "Developer community",
+      "Retirement-friendly"
+    ],
+    "source": {
+      "bvid": "BV1KA9CYuEKz",
+      "url": "https://www.bilibili.com/video/BV1KA9CYuEKz",
+      "title": "海边鹤岗600/月“躺平”，10万一套海景房，能住下20W人"
+    },
+    "id": "BV1KA9CYuEKz",
+    "nearby_cities": [
+      "BV1YgAZzkERz",
+      "BV1oLMMzXEyv",
+      "BV1WiCjYvE9y"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "玉溪",
+    "city_en": "Yuxi",
+    "province": "云南",
+    "province_en": "Yunnan",
+    "one_liner": "一座被称为“六边形战士”的云南海拔跨度城市，以“四季恒温、房价亲民、医疗便捷、空气极佳”为核心卖点，适合不想折腾的长期旅居与提前退休人群。",
+    "one_liner_en": "A Yunnan city known as a 'hexagon warrior' with year-round mild climate, affordable housing, convenient healthcare, and excellent air quality, ideal for long-term stays and early retirees.",
+    "summary_sentence": "A balanced, low-key haven in Yunnan offering stable climate, affordable living, and top-tier healthcare.",
+    "overall_score": 8.4,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 9.0,
+      "transportation": 8.0,
+      "healthcare": 9.0,
+      "climate": 8.0,
+      "long_term_live": 9.0
+    },
+    "pros": [
+      "空气质量优良天数达99.5%",
+      "二手房最低120万/套，房价亲民",
+      "米线7-8元，物价极低",
+      "三甲医院3座，医疗配套完善",
+      "高铁40分钟直达昆明，交通便利"
+    ],
+    "pros_en": [
+      "99.5% days with excellent air quality",
+      "Affordable housing starting at 1.2 million RMB",
+      "Extremely low cost of living (e.g., 7-8 RMB noodles)",
+      "Three Grade-A hospitals ensure comprehensive healthcare",
+      "40-minute high-speed rail to Kunming"
+    ],
+    "cons": [
+      "知名度低，99%的人未听说过",
+      "旅游配套不如大理丽江成熟",
+      "商业氛围相对安静，缺乏夜生活"
+    ],
+    "cons_en": [
+      "Low visibility (99% unawareness)",
+      "Less developed tourism infrastructure than Dali/Lijiang",
+      "Quiet commercial atmosphere with limited nightlife"
+    ],
+    "good_for": [
+      "长期旅居者",
+      "提前退休人群",
+      "追求低压力生活的家庭"
+    ],
+    "good_for_en": [
+      "Long-term travelers",
+      "Early retirees",
+      "Families seeking low-stress lifestyles"
+    ],
+    "avoid_for": [
+      "追求网红打卡体验的游客",
+      "需要频繁商务出行的工作者"
+    ],
+    "avoid_for_en": [
+      "Tourists seeking viral photo spots",
+      "Professionals requiring frequent business travel"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "600-700 元/月",
+      "meals": "米线 7-8 元",
+      "house_price": "120 万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "确认长租合同是否含物业费",
+      "雨季（6-8月）注意防潮",
+      "优先选择靠近三甲医院的区域"
+    ],
+    "tips_en": [
+      "Verify property management fees in long-term leases",
+      "Prepare for humidity during rainy season (Jun-Aug)",
+      "Prioritize areas near Grade-A hospitals"
+    ],
+    "tags": [
+      "四季恒温",
+      "医疗便捷",
+      "房价亲民",
+      "空气极佳",
+      "低压力生活"
+    ],
+    "tags_en": [
+      "Year-round mild climate",
+      "Convenient healthcare",
+      "Affordable housing",
+      "Excellent air quality",
+      "Low-stress lifestyle"
+    ],
+    "source": {
+      "bvid": "BV1FKyZB6EUU",
+      "url": "https://www.bilibili.com/video/BV1FKyZB6EUU",
+      "title": "云南适合定居的宜居小城，99.5%的好空气，22℃过一年~"
+    },
+    "id": "BV1FKyZB6EUU",
+    "nearby_cities": [
+      "BV1iShczoEfK",
+      "BV1hxg8zVE8i",
+      "BV1QQLFzrEDs"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "个旧",
+    "city_en": "Gejiu",
+    "province": "云南",
+    "province_en": "Yunnan",
+    "one_liner": "一座背靠矿业遗产、坐拥山海湖泊生态、冬暖夏凉且极低购房成本，适合追求生活质感而非财富增值的历史工业转型小城。",
+    "one_liner_en": "An industrial heritage city nestled in mountains and lakes, offering mild winters, cool summers, and ultra-low housing costs for those prioritizing quality of life over wealth growth.",
+    "summary_sentence": "A low-cost haven with industrial charm and year-round mild climate.",
+    "overall_score": 8.3,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 7.0,
+      "transportation": 8.0,
+      "healthcare": 8.0,
+      "climate": 8.0,
+      "long_term_live": 7.0
+    },
+    "pros": [
+      "最低房价仅2万，60平约12万",
+      "气候冬暖夏凉，7月最高23℃",
+      "物价低廉，小肉串1元",
+      "高铁站+在建机场，毗邻蒙自",
+      "保留百年铁路遗迹与核弹标注历史"
+    ],
+    "pros_en": [
+      "Houses as low as 20k RMB, 60㎡ for ~120k",
+      "Mild climate year-round, July peaks at 23°C",
+      "Affordable food, skewers at 1 RMB",
+      "High-speed rail + airport under construction, near Mengzi",
+      "Preserved century-old railway relics & nuclear missile history"
+    ],
+    "cons": [
+      "租金信息缺乏淡旺季差异",
+      "医疗资源依赖蒙自",
+      "商业配套集中在老城区"
+    ],
+    "cons_en": [
+      "Rent lacks seasonal variation data",
+      "Healthcare relies on Mengzi",
+      "Commercial facilities concentrated in old town"
+    ],
+    "good_for": [
+      "退休人士",
+      "自由职业者",
+      "追求低成本的数字游民"
+    ],
+    "good_for_en": [
+      "Retirees",
+      "Freelancers",
+      "Cost-conscious digital nomads"
+    ],
+    "avoid_for": [
+      "追求房产增值者",
+      "依赖高端医疗者"
+    ],
+    "avoid_for_en": [
+      "Property investors",
+      "Those needing premium healthcare"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "700 元/月",
+      "meals": "小肉串 1 元",
+      "house_price": "12 万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "注意租金稳定性",
+      "医疗需依赖蒙自",
+      "老城区生活更便利"
+    ],
+    "tips_en": [
+      "Verify rent stability",
+      "Healthcare requires Mengzi access",
+      "Old town offers better amenities"
+    ],
+    "tags": [
+      "矿业遗产",
+      "低房价",
+      "气候宜人",
+      "工业遗迹",
+      "候鸟型城市"
+    ],
+    "tags_en": [
+      "Mining heritage",
+      "Low housing costs",
+      "Mild climate",
+      "Industrial relics",
+      "Seasonal migration hub"
+    ],
+    "source": {
+      "bvid": "BV1sjeezuEwP",
+      "url": "https://www.bilibili.com/video/BV1sjeezuEwP",
+      "title": "南方“鹤岗”，被严重低估的宝藏小城，2W一套房考察~"
+    },
+    "id": "BV1sjeezuEwP",
+    "nearby_cities": [
+      "BV1iebZzjE1J",
+      "BV12MpjzhE8V",
+      "BV1iShczoEfK"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "海陵岛",
+    "city_en": "Hailing Island",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "房价鹤岗化、租金极低但商业配套空心化的超低价海滨隐居地，适合极度偏好独处者。",
+    "one_liner_en": "An ultra-low-cost coastal retreat with plummeting property prices and minimal commercial amenities, ideal for those seeking solitude.",
+    "summary_sentence": "Affordable coastal living with extreme solitude, but limited amenities and social interaction.",
+    "overall_score": 8.2,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 7.0,
+      "rent": 10.0,
+      "transportation": 6.0,
+      "healthcare": 3.0,
+      "climate": 7.0,
+      "long_term_live": 5.0
+    },
+    "pros": [
+      "10公里平白色沙滩，5A级景区海岸线",
+      "最低15万购海景房，单价跌至4-5000元/㎡",
+      "淡季600-800元租海景房",
+      "常住人口不足10%，独享整片沙滩",
+      "全年310天晴天，冬季无需暖气"
+    ],
+    "pros_en": [
+      "10km pristine white sand beach with 5A scenic coastline",
+      "Seaview homes from ¥150k, prices dropped to ¥4-5k/㎡",
+      "Off-season rentals at ¥600-800 for ocean views",
+      "Under 10% permanent residents, exclusive beach access",
+      "310 sunny days yearly, no heating needed in winter"
+    ],
+    "cons": [
+      "商业街90%店铺关闭，配套荒废",
+      "需高铁+大巴/打车进岛，公共交通不便",
+      "长居者易产生孤独感，社交资源匮乏",
+      "7-9月台风频发"
+    ],
+    "cons_en": [
+      "90% commercial shops closed, abandoned amenities",
+      "Requires high-speed rail + bus/taxi to island, poor public transport",
+      "Long-term residents face loneliness, limited social resources",
+      "Frequent typhoons July-September"
+    ],
+    "good_for": [
+      "预算有限的数字游民",
+      "追求极致独处的隐居者",
+      "短期度假体验者"
+    ],
+    "good_for_en": [
+      "Budget-conscious digital nomads",
+      "Solitude-seeking hermits",
+      "Short-term vacationers"
+    ],
+    "avoid_for": [
+      "依赖完善商业配套者",
+      "社交需求旺盛人群",
+      "台风敏感人群"
+    ],
+    "avoid_for_en": [
+      "Those requiring full commercial amenities",
+      "High-social-needs individuals",
+      "Typhoon-sensitive travelers"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "600-800元/月",
+      "meals": "信息待补充",
+      "house_price": "15万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "自驾或租电动车出行",
+      "自备生活物资应对配套不足",
+      "避开7-9月台风季",
+      "提前确认房源托管情况"
+    ],
+    "tips_en": [
+      "Drive or rent e-bikes for mobility",
+      "Stock essentials due to limited amenities",
+      "Avoid July-September typhoon season",
+      "Verify property management arrangements"
+    ],
+    "tags": [
+      "低价海滨",
+      "空城社区",
+      "台风风险",
+      "数字游民友好",
+      "隐居胜地"
+    ],
+    "tags_en": [
+      "Budget Coastal",
+      "Ghost Town Community",
+      "Typhoon Risk",
+      "Digital Nomad Friendly",
+      "Seclusion Paradise"
+    ],
+    "source": {
+      "bvid": "BV1ofLQ6mE8p",
+      "url": "https://www.bilibili.com/video/BV1ofLQ6mE8p",
+      "title": "15万一套海景房，600/月没人住，被严重低估的宝藏海岛~"
+    },
+    "id": "BV1ofLQ6mE8p",
+    "nearby_cities": [
+      "BV1rwdDBJEZe",
+      "BV16D4y1X7QH",
+      "BV1PsaqzCE9x"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "海口镇",
+    "city_en": "Haikou Town",
+    "province": "云南",
+    "province_en": "Yunnan",
+    "one_liner": "拥有极致低房价（约 6-8 万）、齐全基础教育医疗配套、毗邻滇池湿地的“复古工业风”超低价旅居小镇。",
+    "one_liner_en": "A retro-industrial town near Dianchi Lake with ultra-low housing prices (60k-80k RMB), complete education and healthcare, and a tranquil lifestyle.",
+    "summary_sentence": "Affordable living with scenic views and essential amenities in a historic industrial town.",
+    "overall_score": 8.2,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 8.0,
+      "transportation": 8.0,
+      "healthcare": 9.0,
+      "climate": 8.0,
+      "long_term_live": 7.0
+    },
+    "pros": [
+      "房价极低，约6-8万元/套",
+      "毗邻滇池湿地，自然环境优越",
+      "基础教育医疗配套齐全",
+      "交通便利，靠近高速收费站",
+      "生活成本低，餐饮价格实惠"
+    ],
+    "pros_en": [
+      "Ultra-low housing prices at 60k-80k RMB per unit",
+      "Prime location next to Dianchi Lake wetlands",
+      "Complete education and healthcare facilities",
+      "Convenient access via nearby highway toll station",
+      "Affordable daily expenses including meals"
+    ],
+    "cons": [
+      "房屋多为老旧单位房，产权复杂",
+      "升值空间有限",
+      "人口流动性大或老龄化",
+      "租金数据未明确，可能存在季节差异"
+    ],
+    "cons_en": [
+      "Most properties are old factory dormitories with complex ownership",
+      "Limited property value appreciation potential",
+      "High population turnover or aging demographics",
+      "Unclear rental pricing with possible seasonal variations"
+    ],
+    "good_for": [
+      "预算有限的旅居者",
+      "追求低生活成本的人群",
+      "喜欢自然与工业风结合的环境",
+      "需要基础医疗教育配套的长期居住者"
+    ],
+    "good_for_en": [
+      "Budget-conscious travelers",
+      "Those seeking low-cost living",
+      "Fans of natural landscapes with industrial charm",
+      "Long-term residents needing basic healthcare/education"
+    ],
+    "avoid_for": [
+      "追求房产升值者",
+      "需要现代化设施的人群",
+      "对房屋产权有严格要求者"
+    ],
+    "avoid_for_en": [
+      "Investors seeking property appreciation",
+      "Those requiring modern amenities",
+      "Buyers with strict property ownership requirements"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "信息待补充",
+      "meals": "信息待补充",
+      "house_price": "6-8万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "注意房屋产权性质，避免纠纷",
+      "确认房屋是否为老旧单位房",
+      "了解当地人口流动情况",
+      "检查房屋维护状况"
+    ],
+    "tips_en": [
+      "Verify property ownership details to avoid disputes",
+      "Confirm if the property is an old factory dormitory",
+      "Research local population mobility trends",
+      "Inspect property maintenance conditions"
+    ],
+    "tags": [
+      "低房价",
+      "滇池湿地",
+      "工业风",
+      "慢生活",
+      "高性价比"
+    ],
+    "tags_en": [
+      "Low housing prices",
+      "Dianchi Lake wetlands",
+      "Industrial aesthetic",
+      "Slow living",
+      "High cost-performance"
+    ],
+    "source": {
+      "bvid": "BV1iebZzjE1J",
+      "url": "https://www.bilibili.com/video/BV1iebZzjE1J",
+      "title": "7W买套房的宝藏小城，昆明滇池旁从漫画中走出的躺平小镇~"
+    },
+    "id": "BV1iebZzjE1J",
+    "nearby_cities": [
+      "BV12MpjzhE8V",
+      "BV1sjeezuEwP",
+      "BV1iShczoEfK"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "海阳",
+    "city_en": "Haiyang",
+    "province": "山东",
+    "province_en": "Shandong",
+    "one_liner": "一座极度冷门、房价房租极低、适合社恐独居及 FIRE 生活方式准备的滨海“空城”。",
+    "one_liner_en": "An ultra-niche coastal 'ghost town' with ultra-low housing costs, ideal for introverts and FIRE lifestyle prep.",
+    "summary_sentence": "A serene coastal haven with rock-bottom rents and minimal crowds, perfect for minimalist living.",
+    "overall_score": 8.2,
+    "scores": {
+      "natural_env": 8.0,
+      "cost_of_living": 8.0,
+      "rent": 10.0,
+      "transportation": 7.0,
+      "healthcare": 6.0,
+      "climate": 7.0,
+      "long_term_live": 7.0
+    },
+    "pros": [
+      "海景房月租不到500元含水电",
+      "房价10-20万/套，议价空间大",
+      "街道整修良好，自驾无拥堵",
+      "人少安静，适合独处",
+      "独特低价长租模式"
+    ],
+    "pros_en": [
+      "Sea-view apartments rent for under 500 RMB/month including utilities",
+      "Homes priced at 100k-200k RMB with negotiation room",
+      "Well-maintained streets with zero traffic congestion",
+      "Extremely quiet environment ideal for solitude",
+      "Unique low-cost long-term rental model"
+    ],
+    "cons": [
+      "医疗资源不足，需前往市中心",
+      "娱乐设施稀少，生活配套有限",
+      "常住人口少，缺乏社区活力",
+      "季节性气候风险未明确说明"
+    ],
+    "cons_en": [
+      "Limited medical facilities requiring trips to city center",
+      "Sparse entertainment options and basic amenities",
+      "Low permanent population lacks community vibrancy",
+      "Unspecified seasonal climate risks"
+    ],
+    "good_for": [
+      "社恐独居者",
+      "FIRE生活方式准备者",
+      "追求低成本生活者",
+      "喜欢安静环境者"
+    ],
+    "good_for_en": [
+      "Introverted solo dwellers",
+      "FIRE lifestyle planners",
+      "Budget-conscious minimalists",
+      "Quiet environment seekers"
+    ],
+    "avoid_for": [
+      "依赖便利医疗者",
+      "喜欢热闹社交者",
+      "依赖公共交通者"
+    ],
+    "avoid_for_en": [
+      "Those requiring convenient healthcare",
+      "Social activity enthusiasts",
+      "Public transport-dependent individuals"
+    ],
+    "best_months": {
+      "recommended": [
+        4,
+        5,
+        6
+      ],
+      "avoid": [
+        8
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "600-700 元/月（海景房<500元含水电）",
+      "meals": "信息待补充",
+      "house_price": "10-20 万/套",
+      "utilities": "包含在租金中"
+    },
+    "tips": [
+      "优先选择租房而非购房",
+      "自驾出行更便利",
+      "避开8月暑期旺季",
+      "提前了解医疗资源位置"
+    ],
+    "tips_en": [
+      "Rent instead of buying for better value",
+      "Driving is highly recommended",
+      "Avoid peak summer crowds in August",
+      "Research medical facility locations beforehand"
+    ],
+    "tags": [
+      "滨海空城",
+      "低物价",
+      "低租金",
+      "安静",
+      "适合独居"
+    ],
+    "tags_en": [
+      "Coastal ghost town",
+      "Low cost of living",
+      "Affordable rent",
+      "Quiet environment",
+      "Ideal for solo living"
+    ],
+    "source": {
+      "bvid": "BV18Ty5Y6EmX",
+      "url": "https://www.bilibili.com/video/BV18Ty5Y6EmX",
+      "title": "【海阳市】冷门“空城”城市考察，月租500一线海景房没人住！"
+    },
+    "id": "BV18Ty5Y6EmX",
+    "nearby_cities": [
+      "BV1Jq4y1Z7P1",
+      "BV1jqDHYREs7",
+      "BV1G7MfzxES1"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "安宁",
+    "city_en": "Anning",
+    "province": "云南",
+    "province_en": "Yunnan",
+    "one_liner": "一座拥有“天下第一汤”与完善医疗教育配套、房价极低但入住率偏低、背靠昆明且主打避暑养老的六边形小城。",
+    "one_liner_en": "A hidden gem with top-tier medical/education facilities, ultra-low housing costs, and hot springs, ideal for retirement and summer retreats near Kunming.",
+    "summary_sentence": "Anning combines exceptional natural resources and affordability with limited social vibrancy, perfect for tranquil long-term stays.",
+    "overall_score": 8.2,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 8.0,
+      "transportation": 7.0,
+      "healthcare": 9.0,
+      "climate": 8.0,
+      "long_term_live": 7.0
+    },
+    "pros": [
+      "平均房价仅6000元/㎡，老小区9万可购房",
+      "物价极低，火龙果8元5个，餐费7-8元",
+      "拥有‘天下第一汤’温泉资源，水温42-45℃",
+      "医疗教育配套完善，含3座医院及全龄段学校",
+      "夏季均温23-24℃，避暑胜地"
+    ],
+    "pros_en": [
+      "Average housing price at ¥6,000/㎡, older communities from ¥90,000",
+      "Extremely low living costs: 5 dragon fruits for ¥8, meals ¥7-8",
+      "Historic 'First Hot Spring Under Heaven' with 42-45℃ water year-round",
+      "Comprehensive healthcare/education with 3 hospitals and full-age schools",
+      "Summer average 23-24℃, ideal summer retreat"
+    ],
+    "cons": [
+      "入住率不足5%，社区冷清",
+      "无高铁站和机场，依赖昆明交通",
+      "非夏季时段人流稀少",
+      "常住人口以本地人为主，社交氛围弱"
+    ],
+    "cons_en": [
+      "Occupancy rate below 5%, quiet community",
+      "No high-speed rail/airport, relies on Kunming transit",
+      "Sparse population outside summer months",
+      "Limited social vibrancy with mostly local residents"
+    ],
+    "good_for": [
+      "追求低成本的养老人群",
+      "夏季避暑旅居者",
+      "需要医疗资源的中老年人",
+      "偏好安静环境的远程工作者"
+    ],
+    "good_for_en": [
+      "Budget-conscious retirees",
+      "Summer escape seekers",
+      "Seniors needing medical access",
+      "Remote workers preferring tranquility"
+    ],
+    "avoid_for": [
+      "依赖公共交通的年轻人",
+      "追求夜生活/社交活跃者",
+      "冬季长期居住者"
+    ],
+    "avoid_for_en": [
+      "Young professionals needing transit",
+      "Nightlife/social scene seekers",
+      "Winter long-term residents"
+    ],
+    "best_months": {
+      "recommended": [
+        6,
+        7,
+        8
+      ],
+      "avoid": [
+        1,
+        2,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "信息待补充",
+      "meals": "餐费7-8元",
+      "house_price": "6000元/㎡起",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "避开非夏季时段入住",
+      "提前确认房源入住率",
+      "依赖昆明交通需预留时间",
+      "冬季需自备取暖设备"
+    ],
+    "tips_en": [
+      "Avoid off-summer seasons for occupancy",
+      "Verify property occupancy rates beforehand",
+      "Allow extra time for Kunming-dependent transit",
+      "Prepare heating for winter stays"
+    ],
+    "tags": [
+      "温泉康养",
+      "低房价",
+      "避暑胜地",
+      "医疗配套完善",
+      "昆明后花园"
+    ],
+    "tags_en": [
+      "Hot Spring Wellness",
+      "Affordable Housing",
+      "Summer Retreat",
+      "Medical Facilities",
+      "Kunming's Backyard"
+    ],
+    "source": {
+      "bvid": "BV12MpjzhE8V",
+      "url": "https://www.bilibili.com/video/BV12MpjzhE8V",
+      "title": "小众宜居的温泉之城，9万一套房，轻松实现水果自由~"
+    },
+    "id": "BV12MpjzhE8V",
+    "nearby_cities": [
+      "BV1iebZzjE1J",
+      "BV1ea4y167bT",
+      "BV1iShczoEfK"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "花溪",
+    "city_en": "Huaxi",
+    "province": "贵州",
+    "province_en": "Guizhou",
+    "one_liner": "低成本避暑旅居地，依托教育资源与完善配套，在烂尾文旅城阴影下呈现高性价比生活形态。",
+    "one_liner_en": "Affordable summer retreat in Huaxi, Guiyang, with rich education resources and cost-effective living despite a nearby unfinished tourism complex.",
+    "summary_sentence": "A budget-friendly summer haven with robust infrastructure and educational resources, overshadowed by an abandoned tourism project.",
+    "overall_score": 8.2,
+    "scores": {
+      "natural_env": 8.0,
+      "cost_of_living": 9.0,
+      "rent": 7.0,
+      "transportation": 8.0,
+      "healthcare": 9.0,
+      "climate": 7.0,
+      "long_term_live": 8.0
+    },
+    "pros": [
+      "夏季平均气温24℃，气候宜人",
+      "房价从1万+/㎡跌至5000+/㎡，30万可购一套",
+      "物价极低，酸菜豆米火锅10元/位",
+      "交通便利，公交/地铁/共享电动车覆盖",
+      "生活配套完善，含超市、便利店及完整教育链",
+      "拥有贵州省最大大学城资源"
+    ],
+    "pros_en": [
+      "Summer avg. temp. 24°C, pleasant climate",
+      "Housing prices halved from 10k+/㎡ to 5k+/㎡, 300k RMB for a unit",
+      "Ultra-low costs: 10 RMB for sour cabbage hotpot",
+      "Convenient transport with buses, metro, and e-bikes",
+      "Full amenities including supermarkets, shops, and complete education chain",
+      "Home to Guizhou's largest university town"
+    ],
+    "cons": [
+      "烂尾文旅城带来视觉压抑和心理落差",
+      "租金信息存在歧义需实地核实",
+      "冬季需保暖，湿度高影响衣物晾晒"
+    ],
+    "cons_en": [
+      "Visual gloom from abandoned tourism complex",
+      "Rent data conflicting, requires on-site verification",
+      "Winter requires warmth, high humidity affects laundry"
+    ],
+    "good_for": [
+      "追求低成本避暑旅居者",
+      "重视教育资源的家庭",
+      "短期逃离内卷的候鸟型人群"
+    ],
+    "good_for_en": [
+      "Budget-conscious summer travelers",
+      "Families prioritizing education resources",
+      "Short-term escape seekers from urban stress"
+    ],
+    "avoid_for": [
+      "对资产保值有较高要求者",
+      "需要干燥气候的人群"
+    ],
+    "avoid_for_en": [
+      "Those seeking property value appreciation",
+      "People requiring dry climates"
+    ],
+    "best_months": {
+      "recommended": [
+        6,
+        7,
+        8
+      ],
+      "avoid": [
+        1,
+        2,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "信息待补充",
+      "meals": "酸菜豆米火锅10元/位",
+      "house_price": "30万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "注意烂尾城带来的心理影响",
+      "核实租金信息避免纠纷",
+      "冬季备好保暖衣物"
+    ],
+    "tips_en": [
+      "Be mindful of psychological impact from abandoned complex",
+      "Verify rent details to avoid disputes",
+      "Prepare warm clothing for winter"
+    ],
+    "tags": [
+      "低成本避暑",
+      "教育资源丰富",
+      "高性价比",
+      "烂尾城周边",
+      "交通便利",
+      "气候宜人"
+    ],
+    "tags_en": [
+      "Budget-friendly summer retreat",
+      "Rich educational resources",
+      "High cost-performance",
+      "Near abandoned tourism complex",
+      "Convenient transportation",
+      "Pleasant climate"
+    ],
+    "source": {
+      "bvid": "BV1inYkzyEGx",
+      "url": "https://www.bilibili.com/video/BV1inYkzyEGx",
+      "title": "投资千亿的“鬼城”，如今700/月变成宝藏躺平小城？"
+    },
+    "id": "BV1inYkzyEGx",
+    "nearby_cities": [
+      "BV1iebZzjE1J",
+      "BV1FKyZB6EUU",
+      "BV1sjeezuEwP"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "启东",
+    "city_en": "Qidong",
+    "province": "江苏",
+    "province_en": "Jiangsu",
+    "one_liner": "长三角地区拥有“鬼城”般低入住率与4A级景区配套、房租极低但内部动线过长的海工人工度假区，适合作为低成本中长期的逃离式养老或旅居地。",
+    "one_liner_en": "A low-cost, long-term escape destination in the Yangtze River Delta with 4A scenic amenities and ultra-low rent, despite its artificial setup and long internal distances.",
+    "summary_sentence": "Ultra-affordable coastal living with resort amenities, ideal for retirees seeking tranquility.",
+    "overall_score": 8.0,
+    "scores": {
+      "natural_env": 7.0,
+      "cost_of_living": 6.0,
+      "rent": 10.0,
+      "transportation": 7.0,
+      "healthcare": 9.0,
+      "climate": 6.0,
+      "long_term_live": 7.0
+    },
+    "pros": [
+      "房价较最高点腰斩，总价20多万海景房仍有议价空间",
+      "淡季海景房租金仅600元/月，别墅3000元/月",
+      "4A级景区配套，含海滩、商业街、社区医院",
+      "入住率不足10%，环境安静适合避世",
+      "直达成上海市中心的班车专线（25元）"
+    ],
+    "pros_en": [
+      "Property prices halved from peak, with 200k+ RMB sea-view units still negotiable",
+      "Off-season sea-view apartments rent for just 600 RMB/month, villas at 3,000 RMB",
+      "4A-rated resort amenities including beaches, commercial streets, and community clinics",
+      "Occupancy below 10%, offering tranquil escape from urban life",
+      "Direct shuttle buses to Shanghai city center (25 RMB)"
+    ],
+    "cons": [
+      "人工填海造陆，自然景观依赖人工维护",
+      "内部动线过长，步行买菜需10-20分钟",
+      "街边餐饮价格接近上海水平（18-20元/餐）",
+      "常住人口稀少，候鸟型社区特征明显"
+    ],
+    "cons_en": [
+      "Artificially reclaimed land with maintained landscapes",
+      "Extensive internal distances requiring 10-20 min walks for groceries",
+      "Street food prices comparable to Shanghai (18-20 RMB/meal)",
+      "Sparse permanent residents with seasonal population fluctuations"
+    ],
+    "good_for": [
+      "预算有限的退休人群",
+      "寻求低成本长期旅居者",
+      "需要安静环境的自由职业者"
+    ],
+    "good_for_en": [
+      "Budget-conscious retirees",
+      "Long-term travelers seeking affordability",
+      "Freelancers needing quiet workspaces"
+    ],
+    "avoid_for": [
+      "依赖公共交通的通勤族",
+      "偏好自然地貌的户外爱好者"
+    ],
+    "avoid_for_en": [
+      "Commuters relying on public transit",
+      "Outdoor enthusiasts preferring natural landscapes"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "600-3000 元/月",
+      "meals": "街边餐 18-20 元",
+      "house_price": "20 万+/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "建议购置二手电动车解决内部交通",
+      "优先选择靠近商业街的房源",
+      "注意人工景观维护成本可能影响体验"
+    ],
+    "tips_en": [
+      "Consider buying a second-hand e-bike for internal mobility",
+      "Prioritize units near commercial streets",
+      "Be aware of maintenance costs for artificial landscapes"
+    ],
+    "tags": [
+      "人工度假区",
+      "低租金",
+      "配套完善",
+      "候鸟型社区",
+      "长三角"
+    ],
+    "tags_en": [
+      "Artificial Resort",
+      "Ultra-Low Rent",
+      "Full Amenities",
+      "Seasonal Community",
+      "Yangtze Delta"
+    ],
+    "source": {
+      "bvid": "BV1Tz28YQEcY",
+      "url": "https://www.bilibili.com/video/BV1Tz28YQEcY",
+      "title": "【南通市】1700栋楼能住30万人的城市，600/月住上海景房！"
+    },
+    "id": "BV1Tz28YQEcY",
+    "nearby_cities": [
+      "BV1w16HBYEm3",
+      "BV1jqDHYREs7",
+      "BV1WiCjYvE9y"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "大鹏",
+    "city_en": "Dapeng",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "大城市卫星城的低成本海滨聚居点，拥有优于小镇基建、接近市区物价的宜居租赁社区。",
+    "one_liner_en": "A low-cost coastal community near Shenzhen with superior infrastructure and city-level affordability.",
+    "summary_sentence": "Urban fringe living with coastal charm and city-grade amenities at a fraction of the cost.",
+    "overall_score": 8.0,
+    "scores": {
+      "natural_env": 8.0,
+      "cost_of_living": 8.0,
+      "rent": 7.0,
+      "transportation": 6.0,
+      "healthcare": 9.0,
+      "climate": 7.0,
+      "long_term_live": 7.0
+    },
+    "pros": [
+      "距海仅20米，一线海景+免费公园",
+      "租金比市区低30%（小区房1800元/月）",
+      "生活配套高度集中，医院/超市步行可达",
+      "餐饮成本30-40元/天，物价接近市区",
+      "依托深圳财政，基建优于普通小城市"
+    ],
+    "pros_en": [
+      "20m from sea with unobstructed views & free parks",
+      "30% lower rent than downtown (1800 RMB/month for 70㎡)",
+      "All essentials within walking distance",
+      "Daily meals cost 30-40 RMB at city-level prices",
+      "Shenzhen-backed infrastructure surpasses small towns"
+    ],
+    "cons": [
+      "公交班次少（10-15分钟/班），去市区耗时",
+      "不建议购房，仅适合租赁",
+      "需住离海200-300米避免潮汐气味",
+      "淡旺季租金波动未明确"
+    ],
+    "cons_en": [
+      "Infrequent buses (10-15 min intervals) to downtown",
+      "Not recommended for property investment",
+      "Stay 200-300m from sea to avoid tidal odors",
+      "Seasonal rent fluctuations unspecified"
+    ],
+    "good_for": [
+      "FIRE群体追求低成本高品质生活",
+      "预算有限但需城市级配套者",
+      "短期旅居/数字游民"
+    ],
+    "good_for_en": [
+      "FIRE practitioners seeking affordable quality living",
+      "Budget-conscious urban amenity seekers",
+      "Short-term travelers/digital nomads"
+    ],
+    "avoid_for": [
+      "需频繁往返市区通勤者",
+      "房产投资者"
+    ],
+    "avoid_for_en": [
+      "Daily commuters to downtown",
+      "Property investors"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "1200-1800 元/月",
+      "meals": "餐食15-20元/顿",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "住离海200-300米平衡景观与气味",
+      "实地考察确认淡旺季租金",
+      "依赖网约车出行更便捷",
+      "优先选择小区房而非自建房"
+    ],
+    "tips_en": [
+      "Stay 200-300m from sea for optimal balance",
+      "Verify seasonal rent rates in person",
+      "Rely on ride-hailing for convenience",
+      "Prefer apartment complexes over self-built homes"
+    ],
+    "tags": [
+      "海滨聚居点",
+      "低成本卫星城",
+      "FIRE友好",
+      "基建完善",
+      "租赁社区"
+    ],
+    "tags_en": [
+      "Coastal community",
+      "Low-cost satellite city",
+      "FIRE-friendly",
+      "Well-equipped infrastructure",
+      "Rental-focused"
+    ],
+    "source": {
+      "bvid": "BV1ea4y167bT",
+      "url": "https://www.bilibili.com/video/BV1ea4y167bT",
+      "title": "【深圳】一线城市郊区1800块70平海景房，FIRE生活性价比首选！"
+    },
+    "id": "BV1ea4y167bT",
+    "nearby_cities": [
+      "BV12MpjzhE8V",
+      "BV1iebZzjE1J",
+      "BV1iShczoEfK"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "惠阳",
+    "city_en": "Huiyang",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "惠州海岸线配套最完善的高端旅居区，拥有稀缺海旁学校与便捷交通",
+    "one_liner_en": "Huiyang's premium coastal enclave offers unmatched amenities and rare seaside schools",
+    "summary_sentence": "Premium coastal living with rare seaside schools and seamless Shenzhen access",
+    "overall_score": 8.0,
+    "scores": {
+      "natural_env": 7.0,
+      "cost_of_living": 7.0,
+      "rent": 8.0,
+      "transportation": 9.0,
+      "healthcare": 9.0,
+      "climate": 5.0,
+      "long_term_live": 8.0
+    },
+    "pros": [
+      "海旁学校资源稀缺，步行可达沙滩",
+      "1.5公里直达高速，3-4分钟到深圳",
+      "商业街含星巴克/麦当劳等品牌配套",
+      "高品质小区月租1000+元含天然气",
+      "常住人口含家庭与外籍人士"
+    ],
+    "pros_en": [
+      "Rare seaside school within 200m of beach",
+      "1.5km to highway, 3-4 min to Shenzhen",
+      "Branded amenities including Starbucks & McDonald's",
+      "Premium apartments at ¥1000+/month with gas",
+      "Established community with families & expats"
+    ],
+    "cons": [
+      "房价40万+高于周边区域",
+      "商业街物价接近深圳水平",
+      "气候风险未明确（沿海台风隐患）",
+      "部分公共设施显老旧"
+    ],
+    "cons_en": [
+      "Property prices 400k+ exceed nearby areas",
+      "Commercial street prices match Shenzhen levels",
+      "Unspecified climate risks (typhoon potential)",
+      "Some public facilities show aging"
+    ],
+    "good_for": [
+      "追求高品质家庭旅居者",
+      "需优质教育资源的家长",
+      "深圳通勤的远程工作者"
+    ],
+    "good_for_en": [
+      "Families seeking premium coastal living",
+      "Parents prioritizing quality education",
+      "Remote workers commuting from Shenzhen"
+    ],
+    "avoid_for": [
+      "预算有限的旅居者",
+      "偏好原始自然景观者"
+    ],
+    "avoid_for_en": [
+      "Budget-conscious travelers",
+      "Purists seeking untouched nature"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "1000+ 元/月",
+      "meals": "商业街价格偏高，周边小店正常",
+      "house_price": "40万+/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "商业街消费建议去周边小店",
+      "注意沿海台风季节风险",
+      "房价较高需评估预算",
+      "检查公共设施维护状况"
+    ],
+    "tips_en": [
+      "Shop at local stores instead of commercial street",
+      "Monitor typhoon season risks",
+      "Budget for premium property prices",
+      "Inspect facility maintenance conditions"
+    ],
+    "tags": [
+      "高端旅居",
+      "海旁学校",
+      "深圳通勤",
+      "配套完善",
+      "家庭友好"
+    ],
+    "tags_en": [
+      "Premium coastal living",
+      "Seaside schools",
+      "Shenzhen commuter",
+      "Full amenities",
+      "Family-friendly"
+    ],
+    "source": {
+      "bvid": "BV1WiCjYvE9y",
+      "url": "https://www.bilibili.com/video/BV1WiCjYvE9y",
+      "title": "【惠州市】海景房跌50%，惠州高端海景房FIRE旅居考察！"
+    },
+    "id": "BV1WiCjYvE9y",
+    "nearby_cities": [
+      "BV1KA9CYuEKz",
+      "BV1AVQHYKEmR",
+      "BV1YgAZzkERz"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "荣成",
+    "city_en": "Rongcheng",
+    "province": "山东",
+    "province_en": "Shandong",
+    "one_liner": "北方高性价比滨海宜居小城，拥有“四季有雪看海、冬季天鹅成群”的独特景观，适合预算有限但追求高品质自然体验的退休或自由职业人群。",
+    "one_liner_en": "Affordable coastal city in northern China with unique snow-and-sea views and winter swans, ideal for retirees or freelancers seeking nature on a budget.",
+    "summary_sentence": "A hidden gem offering tropical-like coastal living at a fraction of Sanya's cost, with seasonal snowscapes and abundant wildlife.",
+    "overall_score": 8.0,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 8.0,
+      "transportation": 8.0,
+      "healthcare": 9.0,
+      "climate": 4.0,
+      "long_term_live": 8.0
+    },
+    "pros": [
+      "三面环海，海岸线近百里，空气优良率90.1%",
+      "房价比三亚低3-4倍，海景房月租600-700元",
+      "海鲜价格低廉，30元一盘生蚝扇贝",
+      "生活配套完善，大型商场和连锁超市齐全",
+      "中国离韩国最近的城市，距仁川93海里",
+      "冬季可观赏大天鹅，独特雪景与海景并存"
+    ],
+    "pros_en": [
+      "Three-sided coastline with 90.1% air quality rate",
+      "Housing costs 3-4x lower than Sanya, sea-view rentals at ¥600-700/month",
+      "Affordable seafood: ¥30 for oysters and scallops",
+      "Well-equipped with malls and chain supermarkets",
+      "Closest Chinese city to Korea (93 nautical miles to Incheon)",
+      "Winter swan viewing and unique snow-sea landscapes"
+    ],
+    "cons": [
+      "冬季冷流雪导致交通不便，曾滞留",
+      "夏季旺季人多，秋季后景区变空城",
+      "北区冬季入住率极低，生活不便"
+    ],
+    "cons_en": [
+      "Winter snowstorms disrupt travel (caused blogger's 20cm snow stranding)",
+      "Summer crowds vs. autumn 'ghost town' effect in scenic areas",
+      "Northern districts nearly empty in winter"
+    ],
+    "good_for": [
+      "预算有限的退休人群",
+      "追求自然体验的自由职业者",
+      "喜欢海鲜和韩式料理的美食爱好者"
+    ],
+    "good_for_en": [
+      "Budget-conscious retirees",
+      "Freelancers seeking nature immersion",
+      "Seafood and Korean cuisine enthusiasts"
+    ],
+    "avoid_for": [
+      "怕冷或需全年温暖气候者",
+      "依赖航空交通的商务人士"
+    ],
+    "avoid_for_en": [
+      "Cold-averse travelers needing year-round warmth",
+      "Business travelers relying on air travel"
+    ],
+    "best_months": {
+      "recommended": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "avoid": [
+        1,
+        2,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "600-700 元/月",
+      "meals": "海鲜30元/盘",
+      "house_price": "10-20 万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "避开12-2月大雪期出行",
+      "夏季提前预订海景房",
+      "选择中心城区避开淡季空城"
+    ],
+    "tips_en": [
+      "Avoid December-February snow season",
+      "Book sea-view rentals early in summer",
+      "Stay in central districts to avoid off-season emptiness"
+    ],
+    "tags": [
+      "滨海小城",
+      "高性价比",
+      "生态优良",
+      "雪景海景",
+      "天鹅栖息地",
+      "韩国近邻"
+    ],
+    "tags_en": [
+      "Coastal town",
+      "High value",
+      "Eco-friendly",
+      "Snow-sea views",
+      "Swan habitat",
+      "Near Korea"
+    ],
+    "source": {
+      "bvid": "BV1YgAZzkERz",
+      "url": "https://www.bilibili.com/video/BV1YgAZzkERz",
+      "title": "北方“三亚平替”小城，10万一套房的海景+雪景宜居城市考察~"
+    },
+    "id": "BV1YgAZzkERz",
+    "nearby_cities": [
+      "BV1KA9CYuEKz",
+      "BV1oLMMzXEyv",
+      "BV1WiCjYvE9y"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "清新",
+    "city_en": "Qingxin",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "一个位于清远深山中被群山湖泊环抱、租金极低但入住率近乎为零的“空城”，是低成本追求极致静谧生活的隐居型选择，但也伴随着严重的安全感缺失。",
+    "one_liner_en": "A secluded mountain town in Qingyuan with ultra-low rent but near-zero occupancy, ideal for minimalist living yet lacking security.",
+    "summary_sentence": "Ultra-affordable mountain retreat with pristine nature but minimal community presence.",
+    "overall_score": 7.8,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 7.0,
+      "rent": 10.0,
+      "transportation": 6.0,
+      "healthcare": 7.0,
+      "climate": 7.0,
+      "long_term_live": 6.0
+    },
+    "pros": [
+      "自然环境极佳，群山湖泊环绕，植被茂盛如氧吧",
+      "租金极低，1000元可租别墅，500-600元高层",
+      "物价水平可接受，生鲜超市种类丰富",
+      "极度安静，入住率不足2%，适合隐居",
+      "稀缺山景别墅资源，1700元可租精装带花园浴缸"
+    ],
+    "pros_en": [
+      "Exceptional natural environment with mountains, lakes, and lush vegetation",
+      "Ultra-low rent: villas at 1000 RMB/month, high-rises at 500-600 RMB",
+      "Affordable living costs with well-stocked local supermarkets",
+      "Near-zero occupancy ensures extreme tranquility for recluses",
+      "Rare mountain villa resources with premium amenities at 1700 RMB/month"
+    ],
+    "cons": [
+      "入住率极低，社区冷清缺乏安全感",
+      "交通便利度一般，对外交通信息缺失",
+      "生活配套基础，缺乏高端医疗资源",
+      "长居适宜度低，人口分散难形成社区氛围"
+    ],
+    "cons_en": [
+      "Extremely low occupancy creates an eerie, security-lacking atmosphere",
+      "Limited transportation options with no clear external connectivity",
+      "Basic amenities only, lacking advanced healthcare facilities",
+      "Poor long-term livability due to sparse population and weak community"
+    ],
+    "good_for": [
+      "追求极致静谧的隐居者",
+      "预算有限的退休养老人群",
+      "短期修行或冥想实践者"
+    ],
+    "good_for_en": [
+      "Recluses seeking ultimate tranquility",
+      "Budget-conscious retirees",
+      "Short-term meditation practitioners"
+    ],
+    "avoid_for": [
+      "需要频繁社交的活跃人群",
+      "依赖高端医疗服务的慢性病患者",
+      "追求便利交通的商务人士"
+    ],
+    "avoid_for_en": [
+      "Socially active individuals needing frequent interaction",
+      "Chronic patients requiring advanced medical care",
+      "Business professionals needing convenient transport"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "500-1700 元/月",
+      "meals": "信息待补充",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "入住率低需注意夜间安全",
+      "建议自备电动车解决区域交通",
+      "急病需提前规划外出就医路线",
+      "潮湿季节注意防潮防霉"
+    ],
+    "tips_en": [
+      "Prioritize safety due to low nighttime occupancy",
+      "Bring an e-bike for local mobility",
+      "Plan emergency medical routes in advance",
+      "Use dehumidifiers during humid seasons"
+    ],
+    "tags": [
+      "隐居胜地",
+      "超低租金",
+      "自然氧吧",
+      "空城现象",
+      "山景别墅"
+    ],
+    "tags_en": [
+      "Secluded Retreat",
+      "Ultra-Low Rent",
+      "Natural Oxygen Bar",
+      "Ghost Town Phenomenon",
+      "Mountain View Villas"
+    ],
+    "source": {
+      "bvid": "BV1ZxAzeuE2X",
+      "url": "https://www.bilibili.com/video/BV1ZxAzeuE2X",
+      "title": "1000/月就能租到大别墅？建在山里的宜居FIRE“空城”考察！"
+    },
+    "id": "BV1ZxAzeuE2X",
+    "nearby_cities": [
+      "BV1jqDHYREs7",
+      "BV18yKVzHExF",
+      "BV15FXHB7Ebe"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "鹤壁",
+    "city_en": "Hebi",
+    "province": "河南",
+    "province_en": "Henan",
+    "one_liner": "北方工业遗存小城的极致低成本置业型“躺平”备选地，以超低房价换取市中心便利生活的非增值型栖息所。",
+    "one_liner_en": "Northern industrial relic town offering ultra-low-cost property for a minimalist lifestyle, trading property appreciation for central convenience.",
+    "summary_sentence": "Ultra-affordable housing in a central industrial city with basic amenities.",
+    "overall_score": 7.7,
+    "scores": {
+      "natural_env": 5.0,
+      "cost_of_living": 7.0,
+      "rent": 6.0,
+      "transportation": 7.0,
+      "healthcare": 9.0,
+      "climate": 8.0,
+      "long_term_live": 8.0
+    },
+    "pros": [
+      "8000元可购市中心大三房",
+      "生活设施齐全，医院超市商场步行可达",
+      "物价低廉，适合低成本生活",
+      "交通便利，电动车5分钟可达市区",
+      "独特低门槛置业机会"
+    ],
+    "pros_en": [
+      "Buy a 3-bedroom apartment in the city center for 8,000 RMB",
+      "All essential facilities within walking distance",
+      "Low cost of living ideal for budget-conscious lifestyles",
+      "Convenient local transport via e-bikes",
+      "Rare opportunity for ultra-low property entry"
+    ],
+    "cons": [
+      "工业景观影响居住环境",
+      "老旧预制板建筑存在安全隐患",
+      "租赁市场信息不明确",
+      "房屋老化可能导致渗水问题"
+    ],
+    "cons_en": [
+      "Industrial scenery impacts living environment",
+      "Old prefabricated buildings pose safety risks",
+      "Unclear rental market data",
+      "Aging structures may cause water leakage"
+    ],
+    "good_for": [
+      "追求低成本生活者",
+      "短期旅居者",
+      "预算有限的购房者"
+    ],
+    "good_for_en": [
+      "Budget-focused minimalists",
+      "Short-term travelers",
+      "First-time homebuyers with limited funds"
+    ],
+    "avoid_for": [
+      "追求房产增值者",
+      "需要高品质居住者"
+    ],
+    "avoid_for_en": [
+      "Investment-focused buyers",
+      "Luxury lifestyle seekers"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "信息待补充",
+      "meals": "信息待补充",
+      "house_price": "8000-30000元/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "注意房屋老化问题",
+      "确认供暖系统状况",
+      "了解周边工厂运营情况",
+      "实地考察租赁市场"
+    ],
+    "tips_en": [
+      "Inspect building condition carefully",
+      "Verify heating system functionality",
+      "Check nearby factory operations",
+      "Research local rental market firsthand"
+    ],
+    "tags": [
+      "超低房价",
+      "工业城市",
+      "低成本生活",
+      "市中心便利",
+      "非投资型"
+    ],
+    "tags_en": [
+      "Ultra-low housing prices",
+      "Industrial city",
+      "Budget-friendly living",
+      "Central location",
+      "Non-investment property"
+    ],
+    "source": {
+      "bvid": "BV1iJf7YFENC",
+      "url": "https://www.bilibili.com/video/BV1iJf7YFENC",
+      "title": "【鹤壁市】8000块就能买套房，冷门小众小城市旅居考察~"
+    },
+    "id": "BV1iJf7YFENC",
+    "nearby_cities": [
+      "BV1inYkzyEGx",
+      "BV1FKyZB6EUU",
+      "BV1ea4y167bT"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "肥城",
+    "city_en": "Feicheng",
+    "province": "山东",
+    "province_en": "Shandong",
+    "one_liner": "位于泰山脚下的全国百强县，拥有极低生活成本与完善北方供暖系统的低成本旅居小城。",
+    "one_liner_en": "A low-cost utopia at the foot of Mount Tai with affordable living and full northern heating.",
+    "summary_sentence": "Ultra-low-cost living in a historic county with abundant natural resources and affordable housing.",
+    "overall_score": 7.5,
+    "scores": {
+      "natural_env": 8.0,
+      "cost_of_living": 10.0,
+      "rent": 10.0,
+      "transportation": 6.0,
+      "healthcare": 6.0,
+      "climate": 7.0,
+      "long_term_live": 7.0
+    },
+    "pros": [
+      "房价极低，1-3万元可购两室一厅",
+      "月生活成本仅810元，物价便宜",
+      "租金300元/月可租两室",
+      "自然环境优越，植被覆盖率93%",
+      "北方供暖系统完善，冬季室内温暖"
+    ],
+    "pros_en": [
+      "Homes available for 10k-30k RMB",
+      "Monthly living cost as low as 810 RMB",
+      "Rent at 300 RMB/month for two-bedroom",
+      "93% vegetation coverage near Mount Tai",
+      "Full northern heating system for winter"
+    ],
+    "cons": [
+      "无高铁站，需40分钟公交到泰安",
+      "三甲医院需30-40分钟车程",
+      "人口空心化，生活区空置率高",
+      "冬季严寒，最低温-8℃"
+    ],
+    "cons_en": [
+      "No high-speed rail station, 40-min bus to Tai'an",
+      "Nearest Grade-3 hospital 30-40 min drive",
+      "High vacancy rate in residential areas",
+      "Harsh winters with -8°C lows"
+    ],
+    "good_for": [
+      "预算有限的长期旅居者",
+      "追求安静环境的自由职业者",
+      "北方供暖需求人群"
+    ],
+    "good_for_en": [
+      "Budget-conscious long-term travelers",
+      "Freelancers seeking quiet environments",
+      "Those requiring northern heating"
+    ],
+    "avoid_for": [
+      "依赖便捷医疗资源者",
+      "需要高铁通勤的商务人士"
+    ],
+    "avoid_for_en": [
+      "Those requiring immediate medical access",
+      "Business travelers needing high-speed rail"
+    ],
+    "best_months": {
+      "recommended": [
+        4,
+        5,
+        9,
+        10
+      ],
+      "avoid": [
+        1,
+        2,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "300元/月",
+      "meals": "桃子3-5元/斤",
+      "house_price": "1-3万元/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "避开冬季严寒月份",
+      "提前确认医疗资源位置",
+      "选择靠近菜市场的房源"
+    ],
+    "tips_en": [
+      "Avoid harsh winter months",
+      "Verify medical facility locations",
+      "Choose homes near markets"
+    ],
+    "tags": [
+      "低成本旅居",
+      "北方供暖",
+      "自然环境优越",
+      "历史古邑"
+    ],
+    "tags_en": [
+      "Low-cost living",
+      "Northern heating",
+      "Natural environment",
+      "Historic county"
+    ],
+    "source": {
+      "bvid": "BV1XWEs6BE4s",
+      "url": "https://www.bilibili.com/video/BV1XWEs6BE4s",
+      "title": "2万买套房，300租房，轻松水果自由的山水宝藏宜居小城考察~"
+    },
+    "id": "BV1XWEs6BE4s",
+    "nearby_cities": [
+      "BV138TszsEzj",
+      "BV18Ty5Y6EmX",
+      "BV1Jq4y1Z7P1"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "深圳",
+    "city_en": "Shenzhen",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "一座拥有极强包容性的超一线城市，通过极致的居住价格跨度（从日租10元床位到20万一平米豪宅），为不同生存阶段的人群提供了多种“躺平”样本。",
+    "one_liner_en": "A hyper-inclusive megacity offering diverse 'lying flat' options through extreme housing price ranges, from 10-yuan daily beds to 200k/sqm luxury homes.",
+    "summary_sentence": "A city where survival costs are minimal but quality-of-life ceilings are sky-high.",
+    "overall_score": 7.5,
+    "scores": {
+      "natural_env": 7.0,
+      "cost_of_living": 8.0,
+      "rent": 8.0,
+      "transportation": 9.0,
+      "healthcare": 9.0,
+      "climate": 6.0,
+      "long_term_live": 6.0
+    },
+    "pros": [
+      "房价跨度极大，从日租10元床位到20万一平米豪宅",
+      "交通便利，地铁、机场、高铁站齐全",
+      "生活配套完善，从幼儿园到国际学校全覆盖",
+      "物价亲民，5元一碗的汤粉面随处可见",
+      "城中村租金极低，月租三四百即可起步"
+    ],
+    "pros_en": [
+      "Extreme housing price range from 10-yuan daily beds to 200k/sqm luxury homes",
+      "Comprehensive transport network with metro, airport, and high-speed rail",
+      "Full educational coverage from kindergarten to international schools",
+      "Affordable meals with 5-yuan noodle bowls widely available",
+      "Ultra-low urban village rents starting at 300-400 yuan/month"
+    ],
+    "cons": [
+      "居住环境拥挤，楼间距仅35厘米",
+      "夏季炎热且存在台风风险",
+      "长居适宜度较低，更适合短期打拼",
+      "噪音污染严重，城中村隔音差"
+    ],
+    "cons_en": [
+      "Overcrowded living spaces with 35cm building gaps",
+      "Hot summers with typhoon risks",
+      "Low long-term livability, better for short-term hustle",
+      "Severe noise pollution in urban villages"
+    ],
+    "good_for": [
+      "预算有限的年轻打拼者",
+      "需要灵活居住方案的数字游民",
+      "追求低成本试错机会的创业者"
+    ],
+    "good_for_en": [
+      "Budget-conscious young professionals",
+      "Digital nomads needing flexible housing",
+      "Entrepreneurs seeking low-cost trial opportunities"
+    ],
+    "avoid_for": [
+      "追求安静养老的退休人群",
+      "对居住空间有较高要求的家庭"
+    ],
+    "avoid_for_en": [
+      "Retirees seeking quiet retirement",
+      "Families requiring spacious living"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "300-400元/月",
+      "meals": "5元一碗的汤粉面",
+      "house_price": "20万/平米",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "城中村楼间距窄，注意隐私保护",
+      "夏季备好防暑用品和台风应急包",
+      "优先选择靠近地铁站的房源"
+    ],
+    "tips_en": [
+      "Mind privacy in narrow urban village gaps",
+      "Prepare heatstroke supplies and typhoon kits for summer",
+      "Prioritize metro-adjacent housing"
+    ],
+    "tags": [
+      "超一线城市",
+      "高包容性",
+      "房价跨度大",
+      "交通便利",
+      "城中村文化"
+    ],
+    "tags_en": [
+      "Megacity",
+      "Highly inclusive",
+      "Extreme housing range",
+      "Transport hub",
+      "Urban village culture"
+    ],
+    "source": {
+      "bvid": "BV1AVQHYKEmR",
+      "url": "https://www.bilibili.com/video/BV1AVQHYKEmR",
+      "title": "10元住一天的老哥“躺平”翻身房大揭秘，四大方案观察~"
+    },
+    "id": "BV1AVQHYKEmR",
+    "nearby_cities": [
+      "BV1WiCjYvE9y",
+      "BV1ZgSeB7EeE",
+      "BV1iebZzjE1J"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "月亮湾",
+    "city_en": "Yueliangwan",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "一个极致低价、极度安静的海边自炊孤岛，适合追求精神避世且能忍受潮湿与虫患的预算型旅居者。",
+    "one_liner_en": "A budget-friendly coastal retreat for spiritual escape, ideal for those who can tolerate humidity and insects.",
+    "summary_sentence": "Ultra-quiet seaside haven with unbeatable value, perfect for short-term digital nomads.",
+    "overall_score": 7.5,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 8.0,
+      "rent": 8.0,
+      "transportation": 6.0,
+      "healthcare": 5.0,
+      "climate": 4.0,
+      "long_term_live": 7.0
+    },
+    "pros": [
+      "海景房月租仅600元，性价比极高",
+      "24小时无噪音干扰，环境极度安静",
+      "空气质量优良，8月天空更蓝",
+      "长期居住可远离外界喧嚣",
+      "同类中少见的高性价比安静度假区"
+    ],
+    "pros_en": [
+      "Seaside rooms at just 600 RMB/month offer exceptional value",
+      "24/7 noise-free environment for ultimate tranquility",
+      "Excellent air quality with clearer skies in August",
+      "Ideal for long-term stays away from urban hustle",
+      "Rare high-value quiet resort in its category"
+    ],
+    "cons": [
+      "交通不便，最近城市直线距离60公里",
+      "生活配套需外出至2-4公里外的村镇",
+      "夏季潮湿多台风，空调电费高达409元/月",
+      "长期居住可能因过于偏远而冷清"
+    ],
+    "cons_en": [
+      "Inconvenient transport, 60km to nearest city",
+      "Basic amenities require trips to villages 2-4km away",
+      "Humid summers with typhoons, high AC costs (409 RMB/month)",
+      "Long-term stays may feel isolated due to remoteness"
+    ],
+    "good_for": [
+      "预算有限的旅居者",
+      "追求精神避世的人群",
+      "短期度假者",
+      "能忍受潮湿与虫患的人"
+    ],
+    "good_for_en": [
+      "Budget-conscious travelers",
+      "Those seeking spiritual retreat",
+      "Short-term vacationers",
+      "People tolerant of humidity and insects"
+    ],
+    "avoid_for": [
+      "需要便利生活配套的人",
+      "长期居住且怕冷清者",
+      "对潮湿气候敏感者"
+    ],
+    "avoid_for_en": [
+      "Those needing convenient amenities",
+      "Long-term residents fearing isolation",
+      "Individuals sensitive to humid climates"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        6,
+        7,
+        8
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "600 元/月",
+      "meals": "信息待补充",
+      "house_price": "信息待补充",
+      "utilities": "水电约 409 元/月"
+    },
+    "tips": [
+      "购物需前往2-4公里外的村镇",
+      "夏季注意防潮防虫",
+      "长期居住需适应冷清环境",
+      "快递需到村点自取"
+    ],
+    "tips_en": [
+      "Shopping requires trips to villages 2-4km away",
+      "Take precautions against humidity and insects in summer",
+      "Prepare for isolation during long-term stays",
+      "Pick up packages at village collection points"
+    ],
+    "tags": [
+      "低价海景房",
+      "极度安静",
+      "自然环境优越",
+      "偏远度假区",
+      "短期避世胜地"
+    ],
+    "tags_en": [
+      "Budget-friendly seaside rooms",
+      "Ultra-quiet environment",
+      "Excellent natural scenery",
+      "Remote resort area",
+      "Ideal for short-term retreats"
+    ],
+    "source": {
+      "bvid": "BV1xg41127WJ",
+      "url": "https://www.bilibili.com/video/BV1xg41127WJ",
+      "title": "600一月份的海景房，我又来体验啦。"
+    },
+    "id": "BV1xg41127WJ",
+    "nearby_cities": [
+      "BV1of4y1S7s5",
+      "BV18yKVzHExF",
+      "BV15FXHB7Ebe"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "惠州",
+    "city_en": "Huizhou",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "依托大湾区核心腹地，拥有丰富海景房源与极高租房性价比的「进退自如」型海滨定居点。",
+    "one_liner_en": "A coastal haven near Greater Bay Area hubs, offering abundant sea-view rentals at unbeatable value.",
+    "summary_sentence": "Affordable coastal living with seamless access to Shenzhen, Hong Kong, and Guangzhou.",
+    "overall_score": 7.5,
+    "scores": {
+      "natural_env": 7.0,
+      "cost_of_living": 7.0,
+      "rent": 9.0,
+      "transportation": 9.0,
+      "healthcare": 6.0,
+      "climate": 6.0,
+      "long_term_live": 8.0
+    },
+    "pros": [
+      "租金性价比极高，三五百元可租海景小区房",
+      "交通便利，紧邻深圳、香港、广州",
+      "房源选择广泛，覆盖自建房到海景小区",
+      "地理位置优势，兼顾城市资源与低成本居住"
+    ],
+    "pros_en": [
+      "Exceptional rental value: sea-view apartments from 300-500 RMB/month",
+      "Prime location near Shenzhen, Hong Kong, and Guangzhou",
+      "Diverse housing options from self-built homes to luxury complexes",
+      "Strategic balance between urban access and low-cost living"
+    ],
+    "cons": [
+      "安静程度较低，不适合追求宁静环境者",
+      "气候风险未明确，可能存在台风或湿度问题",
+      "生活配套信息不足，医疗等细节待补充"
+    ],
+    "cons_en": [
+      "Less tranquil environment, not ideal for quiet seekers",
+      "Unspecified climate risks including typhoons or humidity",
+      "Limited details on healthcare and daily amenities"
+    ],
+    "good_for": [
+      "需要保留城市资源但追求低成本居住者",
+      "不同收入水平的长期定居人群",
+      "依赖大湾区通勤的远程工作者"
+    ],
+    "good_for_en": [
+      "Those seeking urban access with low living costs",
+      "Long-term residents across income levels",
+      "Remote workers relying on Greater Bay Area connectivity"
+    ],
+    "avoid_for": [
+      "追求绝对安静或气候稳定者",
+      "需要完善医疗配套的人群"
+    ],
+    "avoid_for_en": [
+      "Those prioritizing absolute tranquility or climate stability",
+      "Residents requiring comprehensive healthcare facilities"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "300-500 元/月",
+      "meals": "价格覆盖度高",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "确认具体房源周边配套设施",
+      "关注台风季气候影响",
+      "实地考察验证生活便利性"
+    ],
+    "tips_en": [
+      "Verify local amenities around specific properties",
+      "Monitor typhoon season impacts",
+      "Conduct on-site visits to assess convenience"
+    ],
+    "tags": [
+      "大湾区近郊",
+      "高性价比租房",
+      "交通便利",
+      "海景房源"
+    ],
+    "tags_en": [
+      "Greater Bay Area Suburb",
+      "High Rental Value",
+      "Transport Hub",
+      "Sea-view Properties"
+    ],
+    "source": {
+      "bvid": "BV18tC8YEEC5",
+      "url": "https://www.bilibili.com/video/BV18tC8YEEC5",
+      "title": "2024年FIRE城市考察汇告，三大宝藏小城+考察经验分享！"
+    },
+    "id": "BV18tC8YEEC5",
+    "nearby_cities": [
+      "BV1PUXmB6Eyp",
+      "BV1fdqBYzEzB",
+      "BV1AZUmBfEx6"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "元江",
+    "city_en": "Yuanjiang",
+    "province": "云南",
+    "province_en": "Yunnan",
+    "one_liner": "中国内陆稀缺的“干热河谷”冬季避寒胜地，以极致性价比和热带暖阳替代海南的昂贵与拥挤。",
+    "one_liner_en": "China's rare inland 'dry-hot valley' winter retreat, offering tropical warmth and unbeatable value as an alternative to Hainan's crowds and costs.",
+    "summary_sentence": "A unique inland winter haven with scorching summers, ideal for budget-conscious snowbirds.",
+    "overall_score": 7.5,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 7.0,
+      "transportation": 5.0,
+      "healthcare": 7.0,
+      "climate": 6.0,
+      "long_term_live": 5.0
+    },
+    "pros": [
+      "年空气优良率99.4%，全年日照2558小时",
+      "物价极低：素菜3元/份，芒果3元/个",
+      "新房均价3800-3900元/㎡，100㎡总价约40万",
+      "全国仅有的两个干热河谷之一",
+      "冬季均温26℃，避寒效果显著"
+    ],
+    "pros_en": [
+      "99.4% annual air quality rate with 2558 hours of sunshine",
+      "Extremely low prices: 3 yuan for vegetables, 3 yuan for mangoes",
+      "New homes at 3800-3900 yuan/sqm, 100㎡ costs ~400k yuan",
+      "One of only two dry-hot valleys in China",
+      "Winter average 26℃, excellent for escaping cold"
+    ],
+    "cons": [
+      "夏季极端高温（5-7月超35℃）",
+      "本地交通不便，高铁站距城区远",
+      "旺季租金上涨至1000-1500元/月",
+      "长居需应对季节性气候差异"
+    ],
+    "cons_en": [
+      "Extreme summer heat (35℃+ in May-July)",
+      "Poor local transport, high-speed rail station far from city",
+      "Peak season rent surges to 1000-1500 yuan/month",
+      "Long-term stays require adapting to seasonal climate shifts"
+    ],
+    "good_for": [
+      "冬季避寒的候鸟人群",
+      "追求高性价比旅居者",
+      "喜欢热带气候的退休人士"
+    ],
+    "good_for_en": [
+      "Winter snowbirds seeking warmth",
+      "Budget-conscious travelers",
+      "Retirees preferring tropical climates"
+    ],
+    "avoid_for": [
+      "需全年居住者",
+      "依赖便捷交通的商务人士"
+    ],
+    "avoid_for_en": [
+      "Year-round residents",
+      "Business travelers needing convenient transport"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "淡季500-800元/月，旺季1000-1500元/月",
+      "meals": "素菜3元/份，肉餐6.8元/份",
+      "house_price": "3800-3900元/㎡，100㎡约40万",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "提前租房避免旺季房源紧张",
+      "夏季务必避开高温月份",
+      "利用高铁1.5小时直达昆明"
+    ],
+    "tips_en": [
+      "Book rentals early to avoid peak-season shortages",
+      "Avoid summer months due to extreme heat",
+      "Use high-speed rail for 1.5-hour access to Kunming"
+    ],
+    "tags": [
+      "干热河谷",
+      "冬季避寒",
+      "高性价比",
+      "热带气候",
+      "候鸟胜地"
+    ],
+    "tags_en": [
+      "Dry-hot valley",
+      "Winter retreat",
+      "Budget-friendly",
+      "Tropical climate",
+      "Snowbird haven"
+    ],
+    "source": {
+      "bvid": "BV1m7RsBJEwB",
+      "url": "https://www.bilibili.com/video/BV1m7RsBJEwB",
+      "title": "云南三亚平替小城，水果自由+物价便宜+气候温暖的避寒小城考察"
+    },
+    "id": "BV1m7RsBJEwB",
+    "nearby_cities": [
+      "BV1Fv9uBfEhb",
+      "BV138TszsEzj",
+      "BV1qxykYwEFF"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "肇庆",
+    "city_en": "Zhaoqing",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "一个位于广东肇庆的“房价鹤岗化”卫星城市，拥有森林湖泊景观与一线城市般的交通配套，适合低成本短期调整状态或逃离喧嚣，但部分度假社区存在空心化风险。",
+    "one_liner_en": "A satellite city in Zhaoqing, Guangdong with forest-lake scenery and first-tier transport links, ideal for low-cost short-term retreats but with some hollowed-out resort communities.",
+    "summary_sentence": "Affordable living meets nature and metro access in this Guangdong gem.",
+    "overall_score": 7.5,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 10.0,
+      "transportation": 10.0,
+      "healthcare": 7.0,
+      "climate": 8.0,
+      "long_term_live": 7.0
+    },
+    "pros": [
+      "有山有水又河又湖，整座城市建在森林中",
+      "房价低至3千多一坪，10万可购一套",
+      "高铁30分钟直达广州，三座高铁站覆盖",
+      "月租400元即可入住度假社区",
+      "空气质量优比率达95.1%"
+    ],
+    "pros_en": [
+      "Forest and lake scenery with the city built within forests",
+      "Homes as low as 3,000 RMB/sqm, 100k RMB for a full property",
+      "30-min high-speed rail to Guangzhou with three stations",
+      "400 RMB/month rent in resort communities",
+      "95.1% days with excellent air quality"
+    ],
+    "cons": [
+      "度假社区入住率低，部分楼栋空置率高",
+      "生活配套需依赖15公里外城区",
+      "人口稀少，社区氛围冷清"
+    ],
+    "cons_en": [
+      "Low occupancy rates in resort communities",
+      "Essential services require 15km trip to urban center",
+      "Sparse population creates quiet but isolated atmosphere"
+    ],
+    "good_for": [
+      "短期休整的都市白领",
+      "预算有限的自由职业者",
+      "追求自然环境的退休人群"
+    ],
+    "good_for_en": [
+      "Urban professionals seeking short-term retreats",
+      "Budget-conscious freelancers",
+      "Retirees prioritizing natural environments"
+    ],
+    "avoid_for": [
+      "需要完善医疗配套的长期居住者",
+      "依赖本地商业生态的创业者"
+    ],
+    "avoid_for_en": [
+      "Long-term residents requiring comprehensive healthcare",
+      "Entrepreneurs dependent on local business ecosystems"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "400-500 元/月",
+      "meals": "信息待补充",
+      "house_price": "10 万/套以下",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "避开空置率高的度假社区",
+      "提前确认城区配套距离",
+      "关注空气质量季节性变化"
+    ],
+    "tips_en": [
+      "Avoid high-vacancy resort communities",
+      "Verify distance to urban amenities beforehand",
+      "Monitor seasonal air quality variations"
+    ],
+    "tags": [
+      "低房价",
+      "自然景观",
+      "交通便利",
+      "短期旅居",
+      "大湾区辐射"
+    ],
+    "tags_en": [
+      "Affordable housing",
+      "Natural scenery",
+      "Transport hub",
+      "Short-term retreat",
+      "Greater Bay Area access"
+    ],
+    "source": {
+      "bvid": "BV1AZUmBfEx6",
+      "url": "https://www.bilibili.com/video/BV1AZUmBfEx6",
+      "title": "广东房价“鹤岗化”小城考察，7万一套房的宜居躺平城市~"
+    },
+    "id": "BV1AZUmBfEx6",
+    "nearby_cities": [
+      "BV14m4y137Tn",
+      "BV1isxYzvERQ",
+      "BV18Ty5Y6EmX"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "乳山",
+    "city_en": "Rushan",
+    "province": "山东",
+    "province_en": "Shandong",
+    "one_liner": "拥有超长优质海岸线与极低房产门槛的海滨养老度假孤岛，适合夏季避暑或长期低成本养老，但冬季存在空心化与供暖隐患。",
+    "one_liner_en": "A coastal retirement and vacation haven with ultra-low property costs and pristine beaches, ideal for summer escapes or long-term low-cost living, though winter brings challenges.",
+    "summary_sentence": "A serene coastal retreat with unbeatable affordability, but winter cold and limited amenities require careful planning.",
+    "overall_score": 7.5,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 7.0,
+      "rent": 9.0,
+      "transportation": 6.0,
+      "healthcare": 6.0,
+      "climate": 5.0,
+      "long_term_live": 5.0
+    },
+    "pros": [
+      "21.7公里细腻沙滩与清澈海水",
+      "海景房3-5万元即可购买",
+      "淡季海景房租金仅500-600元/月",
+      "中国最大生蚝养殖基地，海鲜便宜",
+      "环境安静，生活节奏缓慢"
+    ],
+    "pros_en": [
+      "21.7km of fine sandy beaches and clear waters",
+      "Seaview homes available for 30k-50k RMB",
+      "Off-season seaview rentals as low as 500-600 RMB/month",
+      "China's largest oyster farming base with affordable seafood",
+      "Tranquil environment with slow-paced lifestyle"
+    ],
+    "cons": [
+      "冬季夜间可达零下10度且多数社区无暖气",
+      "医疗资源仅两个乡镇医院",
+      "网约车/出租车较少，远距离出行不便",
+      "入住率不足5%，冬季近乎空城"
+    ],
+    "cons_en": [
+      "Winter nights drop to -10°C with limited heating",
+      "Only two township hospitals available",
+      "Scarce ride-hailing services for long-distance travel",
+      "Occupancy rate below 5%, nearly deserted in winter"
+    ],
+    "good_for": [
+      "夏季避暑人群",
+      "低成本养老需求者",
+      "追求安静环境的自由职业者",
+      "海鲜爱好者"
+    ],
+    "good_for_en": [
+      "Summer vacation seekers",
+      "Budget-conscious retirees",
+      "Remote workers seeking tranquility",
+      "Seafood enthusiasts"
+    ],
+    "avoid_for": [
+      "冬季长期居住者",
+      "依赖完善医疗资源的人群",
+      "需要频繁城市出行的商务人士"
+    ],
+    "avoid_for_en": [
+      "Winter long-term residents",
+      "Those requiring advanced medical care",
+      "Business travelers needing frequent city access"
+    ],
+    "best_months": {
+      "recommended": [
+        6,
+        7,
+        8
+      ],
+      "avoid": [
+        1,
+        2,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "500-600 元/月",
+      "meals": "10-15 元/餐",
+      "house_price": "3-5 万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "冬季需自备取暖设备",
+      "提前确认社区供暖情况",
+      "避开农历逢二七大集日出行",
+      "海鲜虽便宜但注意新鲜度"
+    ],
+    "tips_en": [
+      "Bring personal heating equipment for winter",
+      "Verify community heating availability in advance",
+      "Avoid traveling on market days (2nd/7th lunar dates)",
+      "Check seafood freshness despite low prices"
+    ],
+    "tags": [
+      "海滨养老",
+      "低房价",
+      "安静环境",
+      "海鲜天堂",
+      "候鸟型居住"
+    ],
+    "tags_en": [
+      "Coastal Retirement",
+      "Affordable Housing",
+      "Tranquil Environment",
+      "Seafood Paradise",
+      "Seasonal Living"
+    ],
+    "source": {
+      "bvid": "BV15FXHB7Ebe",
+      "url": "https://www.bilibili.com/video/BV15FXHB7Ebe",
+      "title": "海边鹤岗深度考察，4W的海景房是真的吗？最贵的海景房多少钱？"
+    },
+    "id": "BV15FXHB7Ebe",
+    "nearby_cities": [
+      "BV18yKVzHExF",
+      "BV1wXznYiER4",
+      "BV1ZxAzeuE2X"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "龙口",
+    "city_en": "Longkou",
+    "province": "山东",
+    "province_en": "Shandong",
+    "one_liner": "一座拥有超低价海景房源与完善基础配套，但季节性空置严重、人口密度极低的小众海滨旅居小城。",
+    "one_liner_en": "An off-the-beaten-path coastal town with ultra-affordable seaside homes and solid amenities, but suffers from severe seasonal vacancies and low population density.",
+    "summary_sentence": "Ultra-low-cost coastal living with seasonal challenges.",
+    "overall_score": 7.2,
+    "scores": {
+      "natural_env": 7.0,
+      "cost_of_living": 6.0,
+      "rent": 9.0,
+      "transportation": 6.0,
+      "healthcare": 7.0,
+      "climate": 5.0,
+      "long_term_live": 4.0
+    },
+    "pros": [
+      "海景房价格极低，7-20万即可购买",
+      "租金仅500-900元/月",
+      "拥有沙滩、黑棕林等自然景观",
+      "基础配套齐全（超市、餐饮、夜市）",
+      "极度安静，适合疗愈"
+    ],
+    "pros_en": [
+      "Seaside homes available for 70k-200k RMB",
+      "Rent as low as 500-900 RMB/month",
+      "Natural features include beaches and black pine forests",
+      "Basic amenities like supermarkets and night markets available",
+      "Exceptionally quiet environment ideal for relaxation"
+    ],
+    "cons": [
+      "冬季商业活动几乎停滞",
+      "常住人口极少，社交资源匮乏",
+      "公共交通依赖城市中心",
+      "餐饮多为旅游区定价"
+    ],
+    "cons_en": [
+      "Winter commercial activities nearly cease",
+      "Extremely low permanent population limits social resources",
+      "Public transport relies on city center",
+      "Dining often priced for tourists"
+    ],
+    "good_for": [
+      "短期低成本旅居者",
+      "预算有限的购房者",
+      "追求安静环境的人群",
+      "夏季季节性居住者"
+    ],
+    "good_for_en": [
+      "Short-term budget travelers",
+      "Budget-conscious homebuyers",
+      "Those seeking tranquil environments",
+      "Summer seasonal residents"
+    ],
+    "avoid_for": [
+      "需要全年活跃社区的家庭",
+      "依赖公共交通的通勤者",
+      "冬季长期居住者"
+    ],
+    "avoid_for_en": [
+      "Families needing year-round active communities",
+      "Commuters relying on public transport",
+      "Winter long-term residents"
+    ],
+    "best_months": {
+      "recommended": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "avoid": [
+        1,
+        2,
+        3,
+        11,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "500-900 元/月",
+      "meals": "海鲜90元一大兜，刀削面10元",
+      "house_price": "7-20 万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "冬季商业关闭，需提前储备物资",
+      "自驾出行更便利",
+      "避开11月后淡季",
+      "注意夜间照明不足"
+    ],
+    "tips_en": [
+      "Stock supplies before winter closures",
+      "Driving is more convenient",
+      "Avoid post-November off-season",
+      "Be aware of limited nighttime lighting"
+    ],
+    "tags": [
+      "海景房",
+      "低价旅居",
+      "季节性空置",
+      "安静环境",
+      "基础配套齐全"
+    ],
+    "tags_en": [
+      "Seaside housing",
+      "Budget travel",
+      "Seasonal vacancies",
+      "Tranquil environment",
+      "Basic amenities"
+    ],
+    "source": {
+      "bvid": "BV1w16HBYEm3",
+      "url": "https://www.bilibili.com/video/BV1w16HBYEm3",
+      "title": "8万一套海景房，100块实现海鲜自由的宝藏宜居小城~"
+    },
+    "id": "BV1w16HBYEm3",
+    "nearby_cities": [
+      "BV1wXznYiER4",
+      "BV1ZxAzeuE2X",
+      "BV1PFdEBaEUk"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "东方",
+    "city_en": "Dongfang",
+    "province": "海南",
+    "province_en": "Hainan",
+    "one_liner": "专为社工人定制的超安静滨海空城，物价低廉但配套稀疏，适合短期逃离式旅居。",
+    "one_liner_en": "An ultra-quiet coastal town tailored for remote workers, offering low costs but sparse amenities—ideal for short-term escapes rather than long-term living.",
+    "summary_sentence": "A serene coastal haven with minimal crowds and affordable living, perfect for temporary retreats.",
+    "overall_score": 7.2,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 6.0,
+      "transportation": 5.0,
+      "healthcare": 7.0,
+      "climate": 8.0,
+      "long_term_live": 6.0
+    },
+    "pros": [
+      "沙滩细腻干净，每日有人维护",
+      "餐饮价格极低，牛肉面仅10元",
+      "市中心租房600元/月即可",
+      "白天街道完全无人，极致安静"
+    ],
+    "pros_en": [
+      "Pristine beaches maintained daily",
+      "Extremely affordable meals (e.g., beef noodles at ¥10)",
+      "Downtown apartments available for ¥600/month",
+      "Completely deserted streets during daytime"
+    ],
+    "cons": [
+      "一线海景房租金超2000元/月",
+      "公共交通依赖度高，需自备电动车",
+      "商业店铺多数白天关闭",
+      "长期居住易感冷清"
+    ],
+    "cons_en": [
+      "Seaside properties cost over ¥2000/month",
+      "Limited public transport requires personal e-bikes",
+      "Most shops remain closed during daytime",
+      "Long-term stays may feel isolating"
+    ],
+    "good_for": [
+      "短期旅居的远程工作者",
+      "追求极致安静的独行者",
+      "预算有限的旅行者"
+    ],
+    "good_for_en": [
+      "Remote workers seeking short-term retreats",
+      "Solo travelers craving solitude",
+      "Budget-conscious visitors"
+    ],
+    "avoid_for": [
+      "需要热闹社交的长期定居者",
+      "依赖便利交通的通勤族"
+    ],
+    "avoid_for_en": [
+      "Long-term residents seeking vibrant social life",
+      "Commuters relying on convenient transport"
+    ],
+    "best_months": {
+      "recommended": [
+        4,
+        5,
+        6
+      ],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "600-2000 元/月",
+      "meals": "鸡蛋拉面10元，牛羊肉泡馍18元",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "建议自备电动车解决出行",
+      "避开非淡季时段以防冷清",
+      "提前确认海景房实际租金"
+    ],
+    "tips_en": [
+      "Bring an e-bike for mobility",
+      "Avoid off-peak seasons to prevent isolation",
+      "Verify actual seaside property prices"
+    ],
+    "tags": [
+      "滨海空城",
+      "高性价比",
+      "极致安静",
+      "淡季旅居"
+    ],
+    "tags_en": [
+      "Coastal ghost town",
+      "High cost-performance",
+      "Ultimate tranquility",
+      "Off-season retreat"
+    ],
+    "source": {
+      "bvid": "BV1qxykYwEFF",
+      "url": "https://www.bilibili.com/video/BV1qxykYwEFF",
+      "title": "【东方市】小众“空城”考察，适合社恐的海景小城！"
+    },
+    "id": "BV1qxykYwEFF",
+    "nearby_cities": [
+      "BV16bAhzyE1F",
+      "BV1m7RsBJEwB",
+      "BV12MpjzhE8V"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "儋州",
+    "city_en": "Danzhou",
+    "province": "海南",
+    "province_en": "Hainan",
+    "one_liner": "因房地产产能过剩导致物价房价崩盘的南海度假重镇，极致性价比伴随‘鬼城’属性。",
+    "one_liner_en": "A coastal Hainan resort town with property market crash, offering unbeatable value but ghost-town vibes.",
+    "summary_sentence": "Unbeatable affordability in a coastal Hainan town, but lacks community vitality.",
+    "overall_score": 7.2,
+    "scores": {
+      "natural_env": 7.0,
+      "cost_of_living": 10.0,
+      "rent": 10.0,
+      "transportation": 7.0,
+      "healthcare": 5.0,
+      "climate": 6.0,
+      "long_term_live": 3.0
+    },
+    "pros": [
+      "房价崩盘，别墅仅2000元/月",
+      "物价极低，猪肉2.5元/斤",
+      "租金淡季低至200元/月",
+      "热带水果 abundance，波罗5元4个",
+      "独特低价市场稀缺性"
+    ],
+    "pros_en": [
+      "Property prices crashed, villas available for just 2000 RMB/month",
+      "Extremely low prices: pork at 2.5 RMB/jin",
+      "Off-season rent as low as 200 RMB/month",
+      "Abundant tropical fruits, 4 pineapples for 5 RMB",
+      "Unique market scarcity with ultra-low prices"
+    ],
+    "cons": [
+      "夜间经济匮乏，亮灯商铺寥寥",
+      "常住人口比例低，候鸟型严重",
+      "高铁站需1小时车程",
+      "社区活力不足，存在‘鬼城’效应"
+    ],
+    "cons_en": [
+      "Sparse nighttime economy with few lit shops",
+      "Low permanent population, heavy seasonal migration",
+      "1-hour drive to high-speed rail station",
+      "Lack of community vitality, 'ghost town' effect"
+    ],
+    "good_for": [
+      "短期低成本体验者",
+      "预算有限的数字游民",
+      "追求极致性价比的度假者"
+    ],
+    "good_for_en": [
+      "Short-term budget travelers",
+      "Cost-conscious digital nomads",
+      "Value-seeking vacationers"
+    ],
+    "avoid_for": [
+      "需长期定居者",
+      "依赖便利医疗设施者",
+      "偏好热闹社区人群"
+    ],
+    "avoid_for_en": [
+      "Long-term settlers",
+      "Those needing convenient healthcare",
+      "People preferring vibrant communities"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "200-800 元/月",
+      "meals": "猪肉 2.5 元/斤，波罗 5 元 4 个",
+      "house_price": "别墅 2000-3000 元/月",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "避开台风季（7-9月）",
+      "确认房源实际入住率",
+      "自备常用药品",
+      "提前规划交通接驳"
+    ],
+    "tips_en": [
+      "Avoid typhoon season (Jul-Sep)",
+      "Verify actual occupancy rates",
+      "Stock essential medications",
+      "Plan transport connections in advance"
+    ],
+    "tags": [
+      "高性价比",
+      "鬼城属性",
+      "沿海度假",
+      "物价崩盘",
+      "候鸟型社区"
+    ],
+    "tags_en": [
+      "High value-for-money",
+      "Ghost town vibe",
+      "Coastal resort",
+      "Price crash",
+      "Seasonal migration"
+    ],
+    "source": {
+      "bvid": "BV1mSjR6LECD",
+      "url": "https://www.bilibili.com/video/BV1mSjR6LECD",
+      "title": "别鹤岗更夸张，海景房两百多，猪肉两块五，物价卷到崩盘"
+    },
+    "id": "BV1mSjR6LECD",
+    "nearby_cities": [
+      "BV16D4y1X7QH",
+      "BV1Yn4y1f7gB",
+      "BV1isxYzvERQ"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "南昆山",
+    "city_en": "Nankunshan",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "离广深仅两小时车程的山中低价度假孤岛，适合短期清静避世，但缺乏长居生活烟火气。",
+    "one_liner_en": "Mountain retreat near Guangzhou/Shenzhen, ideal for short-term solitude but lacks long-term livability.",
+    "summary_sentence": "A serene mountain escape near major cities, perfect for short stays but not long-term living.",
+    "overall_score": 7.2,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 6.0,
+      "rent": 10.0,
+      "transportation": 6.0,
+      "healthcare": 5.0,
+      "climate": 7.0,
+      "long_term_live": 3.0
+    },
+    "pros": [
+      "自然环境优越，森林环绕空气清新",
+      "房价极低，10多万可购房",
+      "租金仅500元/月，单身更便宜",
+      "高速直达广深，2小时车程",
+      "极度安静，入住率不足1%"
+    ],
+    "pros_en": [
+      "Surrounded by forests with fresh air",
+      "Homes available for under 100k RMB",
+      "Rent as low as 500 RMB/month",
+      "Direct highway access to Guangzhou/Shenzhen",
+      "Ultra-quiet with less than 1% occupancy"
+    ],
+    "cons": [
+      "生活配套差，设施荒废",
+      "长居人口稀少，缺乏社区氛围",
+      "物价偏高，依赖外卖",
+      "交通不便，需自驾或打车"
+    ],
+    "cons_en": [
+      "Poor amenities with abandoned facilities",
+      "Sparse population lacking community vibe",
+      "Higher prices relying on food delivery",
+      "Limited transport requiring self-driving"
+    ],
+    "good_for": [
+      "短期度假者",
+      "追求安静环境的人群",
+      "预算有限的旅行者"
+    ],
+    "good_for_en": [
+      "Short-term vacationers",
+      "Those seeking tranquility",
+      "Budget-conscious travelers"
+    ],
+    "avoid_for": [
+      "长期定居者",
+      "依赖便利设施的人群"
+    ],
+    "avoid_for_en": [
+      "Long-term residents",
+      "Those needing urban conveniences"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "500 元/月",
+      "meals": "信息待补充",
+      "house_price": "10 万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "设施荒废需自备生活用品",
+      "交通依赖自驾提前规划",
+      "长居人口少缺乏社区感",
+      "注意夏季台风风险"
+    ],
+    "tips_en": [
+      "Bring essentials due to abandoned facilities",
+      "Plan routes for self-driving transport",
+      "Limited community for long stays",
+      "Mind typhoon risks in summer"
+    ],
+    "tags": [
+      "短期度假",
+      "低物价",
+      "自然环境佳",
+      "交通便利",
+      "安静解压"
+    ],
+    "tags_en": [
+      "Short-term retreat",
+      "Low cost",
+      "Natural scenery",
+      "Accessible transport",
+      "Tranquil environment"
+    ],
+    "source": {
+      "bvid": "BV1PsaqzCE9x",
+      "url": "https://www.bilibili.com/video/BV1PsaqzCE9x",
+      "title": "南方小鹤岗，广东避暑后花园，500/月的小众宜居空城~"
+    },
+    "id": "BV1PsaqzCE9x",
+    "nearby_cities": [
+      "BV1Fv411C7J8",
+      "BV1ofLQ6mE8p",
+      "BV1ZxAzeuE2X"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "中山",
+    "city_en": "Zhongshan",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "深圳后花园的低成本“卫星”居住区，凭借深中通道的地理优势提供极致的租金性价比，但医疗与夏季气候存在明显短板。",
+    "one_liner_en": "Affordable satellite living near Shenzhen with unbeatable rent value via the Shenzhen-Zhongshan Link, though healthcare and summer climate are drawbacks.",
+    "summary_sentence": "A budget-friendly Shenzhen commuter hub with deep transportation links but limited healthcare and harsh summers.",
+    "overall_score": 7.2,
+    "scores": {
+      "natural_env": 7.0,
+      "cost_of_living": 9.0,
+      "rent": 9.0,
+      "transportation": 8.0,
+      "healthcare": 5.0,
+      "climate": 6.0,
+      "long_term_live": 6.0
+    },
+    "pros": [
+      "租金低至900元/月，比深圳省2-3万/年",
+      "深中通道直达深圳，公交15元40分钟",
+      "美食汇聚各地特色，生活成本低",
+      "新区建筑密度低，居住安静",
+      "珠三角中心位置，辐射广珠深"
+    ],
+    "pros_en": [
+      "Rent as low as 900 RMB/month, saving 20-30k annually vs Shenzhen",
+      "Direct Shenzhen-Zhongshan Link access, 40-min bus for 15 RMB",
+      "Diverse local cuisine with low living costs",
+      "Low-density new district for quiet living",
+      "Central Pearl River Delta location connecting Guangzhou-Shenzhen-Zhuhai"
+    ],
+    "cons": [
+      "医疗资源匮乏，需依赖深广就医",
+      "夏季闷热如蒸笼，台风频发",
+      "常住人口中外来者占58.5%，社区归属感弱"
+    ],
+    "cons_en": [
+      "Lack of local healthcare, reliant on Shenzhen/Guangzhou hospitals",
+      "Oppressive summer heat and frequent typhoons",
+      "58.5% migrant population weakens community belonging"
+    ],
+    "good_for": [
+      "深圳通勤族",
+      "预算有限的远程工作者",
+      "追求低密度居住环境的年轻人"
+    ],
+    "good_for_en": [
+      "Shenzhen commuters",
+      "Budget-conscious remote workers",
+      "Young professionals seeking low-density living"
+    ],
+    "avoid_for": [
+      "需要优质医疗的群体",
+      "怕热或易受台风影响者"
+    ],
+    "avoid_for_en": [
+      "Those requiring quality healthcare",
+      "Heat-sensitive or typhoon-vulnerable individuals"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "900-1500 元/月",
+      "meals": "盖饭 15 元",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "优先选择人才安居小区降低租金",
+      "夏季备好防暑降温设备",
+      "提前规划就医路线至深广"
+    ],
+    "tips_en": [
+      "Prioritize talent housing for lower rent",
+      "Prepare cooling equipment for summer",
+      "Plan medical routes to Shenzhen/Guangzhou in advance"
+    ],
+    "tags": [
+      "深中通道",
+      "低成本居住",
+      "通勤便利",
+      "新区环境",
+      "气候挑战"
+    ],
+    "tags_en": [
+      "Shenzhen-Zhongshan Link",
+      "Budget Living",
+      "Commuter-Friendly",
+      "New District",
+      "Climate Challenges"
+    ],
+    "source": {
+      "bvid": "BV1isxYzvERQ",
+      "url": "https://www.bilibili.com/video/BV1isxYzvERQ",
+      "title": "珠三角低成本宜居小城考察，180天旅居生活汇报~"
+    },
+    "id": "BV1isxYzvERQ",
+    "nearby_cities": [
+      "BV14m4y137Tn",
+      "BV1AZUmBfEx6",
+      "BV18Ty5Y6EmX"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "独山",
+    "city_en": "Dushan",
+    "province": "贵州",
+    "province_en": "Guizhou",
+    "one_liner": "位于贵州独山县深山中的「烂尾文旅孤岛」，拥有极致原始自然景观与免费租住潜力的孤寂低成本旅居点。",
+    "one_liner_en": "An isolated, low-cost retreat in Guizhou’s mountains, featuring pristine nature and free rental potential.",
+    "summary_sentence": "A surreal blend of abandoned grandeur and untouched wilderness, ideal for short-term solitude seekers.",
+    "overall_score": 6.9,
+    "scores": {
+      "natural_env": 8.0,
+      "cost_of_living": 7.0,
+      "rent": 8.0,
+      "transportation": 9.0,
+      "healthcare": 7.0,
+      "climate": 5.0,
+      "long_term_live": 4.0
+    },
+    "pros": [
+      "免费租住潜力，曾有5年免租金政策",
+      "自然景观原始，青山绿水环绕",
+      "交通便利，电动车骑行方便",
+      "基础设施完善，含篮球场和充电桩",
+      "独特文化景观，如非遗花灯和小布达拉宫"
+    ],
+    "pros_en": [
+      "Free rental potential with past 5-year rent-free policies",
+      "Untouched natural scenery with lush mountains and rivers",
+      "Convenient transportation via e-bikes",
+      "Well-equipped infrastructure including basketball courts and charging stations",
+      "Unique cultural landmarks like intangible heritage lanterns and mini Potala Palace"
+    ],
+    "cons": [
+      "人口稀少，长期居住缺乏社交氛围",
+      "烂尾工程可能存在维护隐患",
+      "商业配套不足，依赖基础服务"
+    ],
+    "cons_en": [
+      "Sparse population with limited social interaction for long-term stays",
+      "Abandoned projects may pose maintenance risks",
+      "Limited commercial amenities relying on basic services"
+    ],
+    "good_for": [
+      "短期体验荒野放空的人群",
+      "追求极致自然景观的旅行者",
+      "预算有限的低成本旅居者"
+    ],
+    "good_for_en": [
+      "Short-term travelers seeking wilderness solitude",
+      "Nature enthusiasts prioritizing pristine landscapes",
+      "Budget-conscious long-term stayers"
+    ],
+    "avoid_for": [
+      "需要丰富社交活动的定居者",
+      "依赖完善医疗资源的长期居住者"
+    ],
+    "avoid_for_en": [
+      "Residents requiring vibrant social activities",
+      "Long-term dwellers dependent on comprehensive healthcare"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "免费",
+      "meals": "饭馆为主，日常开销低",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "注意烂尾工程的安全隐患",
+      "提前确认基础设施可用性",
+      "避免长期依赖本地社交"
+    ],
+    "tips_en": [
+      "Check safety risks of abandoned structures",
+      "Verify infrastructure availability beforehand",
+      "Avoid relying on local social networks long-term"
+    ],
+    "tags": [
+      "烂尾文旅",
+      "自然景观",
+      "低成本旅居",
+      "孤寂体验",
+      "文化遗迹"
+    ],
+    "tags_en": [
+      "Abandoned Tourism",
+      "Natural Scenery",
+      "Low-Cost Living",
+      "Solitude Experience",
+      "Cultural Heritage"
+    ],
+    "source": {
+      "bvid": "BV1VDdoYhEQr",
+      "url": "https://www.bilibili.com/video/BV1VDdoYhEQr",
+      "title": "水司楼所在的影山镇，免费“躺平”旅居考察~"
+    },
+    "id": "BV1VDdoYhEQr",
+    "nearby_cities": [
+      "BV1AVQHYKEmR",
+      "BV14m4y137Tn",
+      "BV1AZUmBfEx6"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "新密",
+    "city_en": "Xinmi",
+    "province": "河南",
+    "province_en": "Henan",
+    "one_liner": "郑州西南部的国家级旅游度假区，天然氧吧环境，房价腰斩近乎空城，适合短期静修避世。",
+    "one_liner_en": "A national resort near Zhengzhou with pristine nature, slashed housing prices, and near-empty streets—ideal for short-term retreats.",
+    "summary_sentence": "Ultra-affordable eco-resort with minimal crowds but seasonal commercial limitations.",
+    "overall_score": 6.8,
+    "scores": {
+      "natural_env": 8.0,
+      "cost_of_living": 6.0,
+      "rent": 6.0,
+      "transportation": 7.0,
+      "healthcare": 7.0,
+      "climate": 7.0,
+      "long_term_live": 3.0
+    },
+    "pros": [
+      "森林覆盖率50%，空气优于城区",
+      "房价从1万/平降至3-4千/平，20万可购两室一厅",
+      "距郑州东站/新郑机场仅40分钟车程",
+      "社区通天然气暖气，冬季可正常居住",
+      "国家级度假区配套温泉/海洋馆/冰雪世界"
+    ],
+    "pros_en": [
+      "50% forest coverage with cleaner air than urban areas",
+      "Housing prices dropped from ¥10k/sqm to ¥3-4k/sqm; 2BR for ¥200k",
+      "40-min drive to Zhengzhou East Station & Xinzheng Airport",
+      "Community equipped with natural gas & heating for winter stays",
+      "National resort amenities including hot springs & ice world"
+    ],
+    "cons": [
+      "商业店铺季节性营业（年营业6-7个月）",
+      "入住率不足3%，社区近乎空城",
+      "冬季店铺关张，缺乏日常烟火气",
+      "长期居住缺乏社区氛围"
+    ],
+    "cons_en": [
+      "Seasonal businesses (6-7 months annual operation)",
+      "Under 3% occupancy rate creating ghost-town atmosphere",
+      "Winter shop closures reduce daily convenience",
+      "Lack of community vibrancy for long-term stays"
+    ],
+    "good_for": [
+      "短期静修避世者",
+      "预算有限的度假购房者",
+      "追求极致安静的自由职业者"
+    ],
+    "good_for_en": [
+      "Short-term retreat seekers",
+      "Budget-conscious vacation home buyers",
+      "Remote workers seeking tranquility"
+    ],
+    "avoid_for": [
+      "依赖日常商业配套的长者",
+      "需要热闹社区氛围的家庭",
+      "计划长期定居的刚需购房者"
+    ],
+    "avoid_for_en": [
+      "Seniors requiring daily amenities",
+      "Families needing vibrant community life",
+      "Long-term residents seeking urban convenience"
+    ],
+    "best_months": {
+      "recommended": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "avoid": [
+        1,
+        2,
+        12
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "7800元/月（淡季更低）",
+      "meals": "信息待补充",
+      "house_price": "3-4千/平，20万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "避开冬季（12-2月）商业萧条期",
+      "确认房源供暖设施完好",
+      "适合短期居住而非长期定居",
+      "利用郑州医疗资源需提前规划"
+    ],
+    "tips_en": [
+      "Avoid Dec-Feb commercial downtime",
+      "Verify heating system functionality",
+      "Ideal for short stays, not permanent residence",
+      "Plan ahead for Zhengzhou medical access"
+    ],
+    "tags": [
+      "国家级度假区",
+      "低房价",
+      "天然氧吧",
+      "供暖保障",
+      "交通便利"
+    ],
+    "tags_en": [
+      "National Resort",
+      "Affordable Housing",
+      "Natural Oxygen Bar",
+      "Heating Guaranteed",
+      "Convenient Transport"
+    ],
+    "source": {
+      "bvid": "BV1rDC9BFEoc",
+      "url": "https://www.bilibili.com/video/BV1rDC9BFEoc",
+      "title": "“空城”宜居旅游度假区，社恐i人旅居乌托邦考察~"
+    },
+    "id": "BV1rDC9BFEoc",
+    "nearby_cities": [
+      "BV1TRwezhEKE",
+      "BV1W5411b7Lv",
+      "BV1yHQDYHEkd"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "大亚湾",
+    "city_en": "Dayawan",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "深圳后花园式的超低价海景旅居地，适合社恐省钱党短期低成本“躲清静”，但需警惕高空置率带来的“鬼城”氛围与房产投资风险。",
+    "one_liner_en": "Affordable seaside retreat near Shenzhen, ideal for budget travelers seeking solitude, but beware of low occupancy and property risks.",
+    "summary_sentence": "High-value coastal haven for budget travelers, though sparse community.",
+    "overall_score": 6.8,
+    "scores": {
+      "natural_env": 8.0,
+      "cost_of_living": 9.0,
+      "rent": 9.0,
+      "transportation": 8.0,
+      "healthcare": 7.0,
+      "climate": 6.0,
+      "long_term_live": 6.0
+    },
+    "pros": [
+      "一线海景月租不足千元",
+      "高铁25元22分钟直达深圳",
+      "早餐5元内吃饱，午餐均价15元",
+      "自建房租金低至200-500元",
+      "海风舒缓，夜间亮灯不足百户"
+    ],
+    "pros_en": [
+      "Seaside apartments under ¥1000/month",
+      "22-min high-speed rail to Shenzhen for ¥25",
+      "Breakfast under ¥5, lunch avg ¥15",
+      "Self-built houses as low as ¥200-500",
+      "Gentle sea breeze, <100 lit homes at night"
+    ],
+    "cons": [
+      "购房价格腰斩且持续下跌",
+      "常住人口不足50户，社交资源匮乏",
+      "夏季高温超30℃，台风风险",
+      "生活配套未详述医疗资源"
+    ],
+    "cons_en": [
+      "Property prices halved and declining",
+      "<50 permanent residents, limited social resources",
+      "Summer temps >30°C, typhoon risks",
+      "Unclear healthcare access"
+    ],
+    "good_for": [
+      "预算有限的短期旅居者",
+      "追求独处的社恐人群",
+      "深圳通勤的远程工作者"
+    ],
+    "good_for_en": [
+      "Budget travelers seeking short stays",
+      "Introverts prioritizing solitude",
+      "Remote workers commuting from Shenzhen"
+    ],
+    "avoid_for": [
+      "家庭长期居住需求",
+      "依赖完善医疗配套者",
+      "房产投资者"
+    ],
+    "avoid_for_en": [
+      "Families needing long-term stability",
+      "Those requiring robust healthcare",
+      "Property investors"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "650-1500 元/月",
+      "meals": "早餐5元内，午餐15元",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "警惕高空置率风险",
+      "夏季注意防暑降温",
+      "租房可大胆砍价",
+      "确认快递配送时效"
+    ],
+    "tips_en": [
+      "Beware of high vacancy rates",
+      "Stay cool during summer",
+      "Negotiate rent aggressively",
+      "Verify delivery timelines"
+    ],
+    "tags": [
+      "海景旅居",
+      "低成本",
+      "高铁便利",
+      "安静环境",
+      "深圳后花园"
+    ],
+    "tags_en": [
+      "Seaside retreat",
+      "Budget-friendly",
+      "High-speed rail access",
+      "Quiet environment",
+      "Shenzhen's backyard"
+    ],
+    "source": {
+      "bvid": "BV14m4y137Tn",
+      "url": "https://www.bilibili.com/video/BV14m4y137Tn",
+      "title": "【惠州】社恐桃花源，沙滩海景房月租1K，FIRE生活旅居城市考察"
+    },
+    "id": "BV14m4y137Tn",
+    "nearby_cities": [
+      "BV1PFdEBaEUk",
+      "BV1AZUmBfEx6",
+      "BV1isxYzvERQ"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "文昌",
+    "city_en": "Wenchang",
+    "province": "海南",
+    "province_en": "Hainan",
+    "one_liner": "拥有稀缺航天资源与原生海岸线的“高性价比无人空城”，适合极度过夜与短期静修，不适合长期依赖配套生活。",
+    "one_liner_en": "A high-value empty coastal town with rare space launch access, ideal for short-term solitude but not long-term living.",
+    "summary_sentence": "Affordable coastal retreat with unique space launch access, ideal for short-term solitude.",
+    "overall_score": 6.5,
+    "scores": {
+      "natural_env": 9.5,
+      "cost_of_living": 6.5,
+      "rent": 5.0,
+      "transportation": 3.0,
+      "healthcare": 4.0,
+      "climate": 7.0,
+      "long_term_live": 4.0
+    },
+    "pros": [
+      "白色细沙海水清澈，全年优良天数98.6%",
+      "十多万可购海景房，性价比极高",
+      "距航天发射场仅十几公里，全国独有",
+      "深夜街道几乎无灯光，极度安静",
+      "市区包子豆浆3元，椰子3-5元一颗"
+    ],
+    "pros_en": [
+      "White fine sand and crystal-clear water with 98.6% annual excellent air quality",
+      "Seaview homes available for over 100,000 RMB, unmatched affordability",
+      "Only 10+ km from China's space launch site, unique nationwide",
+      "Near-dark streets at night for ultimate tranquility",
+      "Baozi and soy milk at 3 RMB, coconuts 3-5 RMB each in town"
+    ],
+    "cons": [
+      "无公交线路，网约车拒载，必须自驾",
+      "最近医院需40分钟车程，买菜需20分钟",
+      "租金淡旺季波动剧烈（400-4000元/月）",
+      "台风频发，湿度常超80%",
+      "常住人口不足10%，配套严重缺失"
+    ],
+    "cons_en": [
+      "No public transport, ride-hailing unavailable, self-driving required",
+      "Nearest hospital 40-min drive, groceries 20-min away",
+      "Rent fluctuates wildly (400-4000 RMB/month)",
+      "Frequent typhoons, humidity often exceeds 80%",
+      "Less than 10% permanent residents, severely lacking amenities"
+    ],
+    "good_for": [
+      "短期静修者",
+      "航天爱好者",
+      "追求极致安静的旅行者",
+      "预算有限的海景房投资者"
+    ],
+    "good_for_en": [
+      "Short-term retreat seekers",
+      "Space enthusiasts",
+      "Travelers seeking ultimate quiet",
+      "Budget-conscious seaview property investors"
+    ],
+    "avoid_for": [
+      "依赖日常配套的家庭",
+      "长期定居者",
+      "无自驾能力者"
+    ],
+    "avoid_for_en": [
+      "Families needing daily amenities",
+      "Long-term settlers",
+      "Non-drivers"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        11,
+        12
+      ],
+      "avoid": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "淡季400-500元，旺季3000-4000元",
+      "meals": "市区包子豆浆3元，椰子3-5元",
+      "house_price": "10多万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "必须自驾，提前确认路况",
+      "避开7-10月台风季",
+      "旺季租金需提前半年预订",
+      "医疗需求者需备足药品",
+      "确认房源是否为长期可租"
+    ],
+    "tips_en": [
+      "Self-driving essential, check road conditions",
+      "Avoid July-October typhoon season",
+      "Book peak-season rentals 6 months ahead",
+      "Stock medical supplies for emergencies",
+      "Verify long-term rental availability"
+    ],
+    "tags": [
+      "航天资源",
+      "高性价比",
+      "无人空城",
+      "台风频发",
+      "短期静修",
+      "海景房投资"
+    ],
+    "tags_en": [
+      "Space launch access",
+      "High value-for-money",
+      "Empty coastal town",
+      "Typhoon-prone",
+      "Short-term retreat",
+      "Seaview property investment"
+    ],
+    "source": {
+      "bvid": "BV14k7p69EUp",
+      "url": "https://www.bilibili.com/video/BV14k7p69EUp",
+      "title": "海南最低调的海滨宜居小城，十多万一套海景房，一人独享沙滩~"
+    },
+    "id": "BV14k7p69EUp",
+    "nearby_cities": [
+      "BV1qxykYwEFF",
+      "BV1Fv9uBfEhb",
+      "BV1m7RsBJEwB"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "双月湾",
+    "city_en": "Shuangyue Bay",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "拥有稀缺360度海景资源，但交通闭塞、医疗匮乏，淡旺季体验割裂的旅游型旅居区。",
+    "one_liner_en": "Exclusive 360° seascape akin to China’s Maldives, yet hampered by poor transport and healthcare, with stark seasonal contrasts.",
+    "summary_sentence": "A scenic paradise for short stays, but impractical for long-term living due to infrastructure gaps.",
+    "overall_score": 6.4,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 7.0,
+      "rent": 8.0,
+      "transportation": 3.0,
+      "healthcare": 6.0,
+      "climate": 4.0,
+      "long_term_live": 4.0
+    },
+    "pros": [
+      "拥有稀缺360度海景资源，被称为“中国马尔代夫”",
+      "淡季海景房租金仅600-700元/月，自建房300-400元",
+      "独特地理位置，左右皆海，景观不可替代",
+      "淡季入住率低于10%，可独享沙滩治愈感",
+      "海鲜市场可直接购买，部分餐饮价格实惠"
+    ],
+    "pros_en": [
+      "Exclusive 360° seascape dubbed 'China's Maldives'",
+      "Off-season sea-view rentals as low as ¥600-700/month",
+      "Unique location with ocean on both sides",
+      "Off-season occupancy under 10% for private beach access",
+      "Direct seafood market access with affordable meals"
+    ],
+    "cons": [
+      "仅两条窄公路通行，旺季堵车严重",
+      "医疗设施匮乏，仅有小卫生院",
+      "长居适宜度低，常住人口稀少",
+      "淡旺季住宿价差达10倍"
+    ],
+    "cons_en": [
+      "Only two narrow roads cause severe traffic jams in peak season",
+      "Limited medical facilities with only small clinics",
+      "Low permanent population unsuitable for long-term stays",
+      "Accommodation prices surge 10x during peak season"
+    ],
+    "good_for": [
+      "短期度假放松者",
+      "追求高性价比海景旅居者",
+      "摄影/内容创作者",
+      "喜欢安静环境的独行者"
+    ],
+    "good_for_en": [
+      "Short-term vacationers",
+      "Budget-conscious sea-view travelers",
+      "Photographers/content creators",
+      "Solo travelers seeking tranquility"
+    ],
+    "avoid_for": [
+      "需长期稳定生活者",
+      "依赖完善医疗设施者",
+      "带老人/儿童家庭"
+    ],
+    "avoid_for_en": [
+      "Long-term residents",
+      "Those requiring advanced healthcare",
+      "Families with elderly/children"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "600-700 元/月（淡季）",
+      "meals": "猪脚饭 8 元",
+      "house_price": "13-4 万/套",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "避开7-9月旺季出行",
+      "长期居住需提前考察医疗条件",
+      "淡季入住率低，适合安静需求",
+      "注意台风季气候波动"
+    ],
+    "tips_en": [
+      "Avoid July-September peak season",
+      "Verify medical access for long stays",
+      "Off-season ideal for quiet seekers",
+      "Prepare for typhoon season weather"
+    ],
+    "tags": [
+      "海景胜地",
+      "交通不便",
+      "医疗匮乏",
+      "淡旺季差异大",
+      "适合短期旅居",
+      "高性价比租金"
+    ],
+    "tags_en": [
+      "Seaside paradise",
+      "Poor transport",
+      "Limited healthcare",
+      "Seasonal extremes",
+      "Short-stay friendly",
+      "Budget rentals"
+    ],
+    "source": {
+      "bvid": "BV1PirfYUEeC",
+      "url": "https://www.bilibili.com/video/BV1PirfYUEeC",
+      "title": "【惠州市】13W一套海景房，600/月双海景宝藏小城"
+    },
+    "id": "BV1PirfYUEeC",
+    "nearby_cities": [
+      "BV15FXHB7Ebe",
+      "BV1Fv9uBfEhb",
+      "BV1Fv411C7J8"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "济南",
+    "city_en": "Jinan",
+    "province": "山东",
+    "province_en": "Shandong",
+    "one_liner": "房价内卷下的高性价比租房洼地，适合低成本生存试错与中转，但气候与景观限制生活品质。",
+    "one_liner_en": "High-value rental haven amid housing market competition, ideal for low-cost living trials and transit, but limited by climate and scenery.",
+    "summary_sentence": "A budget-friendly city with extreme affordability but mediocre living experience.",
+    "overall_score": 6.2,
+    "scores": {
+      "natural_env": 5.0,
+      "cost_of_living": 8.0,
+      "rent": 9.0,
+      "transportation": 6.0,
+      "healthcare": 7.0,
+      "climate": 5.0,
+      "long_term_live": 3.0
+    },
+    "pros": [
+      "租金极低，小公寓月租低于1000元",
+      "物价水平低，基础消费不高",
+      "生活配套基本满足需求，商业街和商铺较多",
+      "房价过剩，购房成本下降"
+    ],
+    "pros_en": [
+      "Extremely low rent, with small apartments under 1000 RMB/month",
+      "Affordable living costs, with low prices for basic goods",
+      "Adequate amenities with commercial streets and shops",
+      "Oversupply of housing, leading to lower purchase costs"
+    ],
+    "cons": [
+      "自然环境一般，缺乏独特景观",
+      "气候冬冷夏热，极端天气体验",
+      "长居适宜度低，不适合长期居住",
+      "交通便利度一般，依赖自驾或打车"
+    ],
+    "cons_en": [
+      "Average natural environment with limited unique scenery",
+      "Harsh climate with cold winters and hot summers",
+      "Low long-term livability, not ideal for extended stays",
+      "Moderate transportation convenience, reliant on driving or taxis"
+    ],
+    "good_for": [
+      "预算有限的短期旅居者",
+      "需要低成本中转的旅行者",
+      "关注租房性价比的人群"
+    ],
+    "good_for_en": [
+      "Budget-conscious short-term travelers",
+      "Travelers needing low-cost transit hubs",
+      "Rent-focused individuals"
+    ],
+    "avoid_for": [
+      "追求高品质生活体验者",
+      "依赖公共交通的通勤者",
+      "偏好自然景观的旅居者"
+    ],
+    "avoid_for_en": [
+      "Quality-of-life seekers",
+      "Public transit-dependent commuters",
+      "Nature-focused travelers"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "1000元以下/月",
+      "meals": "信息待补充",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "注意气候极端，冬季寒冷夏季炎热",
+      "自然环境一般，缺乏独特景观",
+      "长居体验较差，不适合长期居住",
+      "交通便利度一般，需依赖自驾"
+    ],
+    "tips_en": [
+      "Be aware of extreme weather: cold winters and hot summers",
+      "Limited natural scenery, not ideal for nature lovers",
+      "Poor long-term living experience, avoid extended stays",
+      "Moderate transport, rely on driving or taxis"
+    ],
+    "tags": [
+      "高性价比租房",
+      "低成本生存",
+      "气候极端",
+      "生活配套一般",
+      "房地产过剩"
+    ],
+    "tags_en": [
+      "High-value rentals",
+      "Low-cost living",
+      "Extreme climate",
+      "Basic amenities",
+      "Housing oversupply"
+    ],
+    "source": {
+      "bvid": "BV1Yn4y1f7gB",
+      "url": "https://www.bilibili.com/video/BV1Yn4y1f7gB",
+      "title": "房价现在是不是涨也涨不动？租也租不出去了？宜居城市搜寻计划"
+    },
+    "id": "BV1Yn4y1f7gB",
+    "nearby_cities": [
+      "BV1UNroB6EP3",
+      "BV1hB4y1v7Pz",
+      "BV1PFdEBaEUk"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "益阳",
+    "city_en": "Yiyang",
+    "province": "湖南",
+    "province_en": "Hunan",
+    "one_liner": "一个耗资百亿、商业归零但具备基础民用水电的巨型“烂尾古城”，适合极低成本生存与探索，但不适合正常旅居生活的特殊孤岛。",
+    "one_liner_en": "A massive abandoned ancient city with basic utilities, ideal for ultra-low-cost survival but unsuitable for regular living.",
+    "summary_sentence": "An abandoned city with basic utilities, offering extreme cost savings but lacking safety and services.",
+    "overall_score": 6.2,
+    "scores": {
+      "natural_env": 5.0,
+      "cost_of_living": 5.0,
+      "rent": 8.0,
+      "transportation": 2.0,
+      "healthcare": 4.0,
+      "climate": 6.0,
+      "long_term_live": 5.0
+    },
+    "pros": [
+      "极低甚至无成本居住空间",
+      "基础水电燃气网络可用",
+      "占地2000多亩可开垦菜园",
+      "极度安静适合解压",
+      "稀缺的空城实验机会"
+    ],
+    "pros_en": [
+      "Ultra-low or zero-cost living spaces",
+      "Basic utilities (water, electricity, gas, internet) available",
+      "2000+ mu land for self-sustaining gardens",
+      "Extremely quiet environment for stress relief",
+      "Rare opportunity for urban exploration experiments"
+    ],
+    "cons": [
+      "商业设施完全关闭，购物不便",
+      "交通不便，位置偏僻",
+      "缺乏安全感，存在法律风险",
+      "荒草丛生，环境维护差",
+      "生活配套不足，依赖外部资源"
+    ],
+    "cons_en": [
+      "All commercial facilities closed, limited shopping access",
+      "Poor transportation access, remote location",
+      "Lack of security and potential legal risks",
+      "Overgrown vegetation and poor maintenance",
+      "Insufficient amenities, reliant on external resources"
+    ],
+    "good_for": [
+      "追求极致性价比的硬核躺平者",
+      "抗压能力强且能接受法律风险的人",
+      "喜欢探索废墟和独特环境的人"
+    ],
+    "good_for_en": [
+      "Hardcore minimalists seeking extreme cost savings",
+      "Individuals with high stress tolerance and risk acceptance",
+      "Urban explorers and unique environment enthusiasts"
+    ],
+    "avoid_for": [
+      "需要便利商业服务的人",
+      "对安全要求高的人",
+      "依赖公共交通的旅行者"
+    ],
+    "avoid_for_en": [
+      "Those requiring convenient commercial services",
+      "Safety-conscious individuals",
+      "Travelers dependent on public transportation"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "0-500 元/月",
+      "meals": "信息待补充",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "注意法律风险，避免非法占用",
+      "商业设施关闭，需自备物资",
+      "交通不便，建议自驾前往",
+      "环境荒凉，注意安全",
+      "水电可能不稳定，需备用方案"
+    ],
+    "tips_en": [
+      "Be aware of legal risks and avoid unauthorized occupation",
+      "Bring essential supplies due to closed commercial facilities",
+      "Self-driving recommended due to poor transportation",
+      "Exercise caution in desolate environments",
+      "Prepare backup plans for unstable utilities"
+    ],
+    "tags": [
+      "烂尾古城",
+      "低成本生存",
+      "空城实验",
+      "基础设施存疑",
+      "适合硬核躺平者"
+    ],
+    "tags_en": [
+      "Abandoned ancient city",
+      "Ultra-low-cost living",
+      "Urban exploration experiment",
+      "Questionable infrastructure",
+      "For hardcore minimalists"
+    ],
+    "source": {
+      "bvid": "BV1rpXnYAEmA",
+      "url": "https://www.bilibili.com/video/BV1rpXnYAEmA",
+      "title": "破产古城“躺平”考察，城内全是房子，空无一人！"
+    },
+    "id": "BV1rpXnYAEmA",
+    "nearby_cities": [
+      "BV1oa411R7UT",
+      "BV1X94y1Z7XD",
+      "BV1ZxAzeuE2X"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "漳浦",
+    "city_en": "Zhangpu",
+    "province": "福建",
+    "province_en": "Fujian",
+    "one_liner": "位于华东偏南海域、基础设施尚未完工的“半成品”滨海小镇，当前适合小众摄影与短期体验，需等待1-2年后成熟再考虑长居。",
+    "one_liner_en": "An unfinished coastal town in southeastern China, ideal for niche photography and short-term stays, with long-term living potential in 1-2 years.",
+    "summary_sentence": "A serene, underdeveloped coastal haven with stunning scenery but limited amenities, best suited for short-term exploration.",
+    "overall_score": 6.0,
+    "scores": {
+      "natural_env": 9.0,
+      "cost_of_living": 9.0,
+      "rent": 4.0,
+      "transportation": 6.0,
+      "healthcare": 3.0,
+      "climate": 4.0,
+      "long_term_live": 3.0
+    },
+    "pros": [
+      "海景优美，沙滩细腻，适合摄影",
+      "物价低廉，素菜10-13元，肉菜15-18元",
+      "沙滩人少，适合独居者享受宁静",
+      "独特未开发状态，填补海边躺平城市空缺"
+    ],
+    "pros_en": [
+      "Stunning ocean views and fine sand, perfect for photography",
+      "Low cost of living: vegetables 10-13 yuan, meat dishes 15-18 yuan",
+      "Sparse crowds on beaches, ideal for solitary relaxation",
+      "Unique undeveloped status fills a gap in coastal retreats"
+    ],
+    "cons": [
+      "基础设施未完工，配套不足",
+      "租金虚高，目前1800元/月",
+      "公共交通不便，需自驾采购",
+      "长居人口少，生活不便"
+    ],
+    "cons_en": [
+      "Incomplete infrastructure and limited amenities",
+      "Overpriced rent at 1800 yuan/month currently",
+      "Poor public transport, requires self-driving for supplies",
+      "Few long-term residents, inconvenient for daily life"
+    ],
+    "good_for": [
+      "摄影爱好者",
+      "短期体验者",
+      "喜欢独居的人",
+      "未来投资者"
+    ],
+    "good_for_en": [
+      "Photography enthusiasts",
+      "Short-term visitors",
+      "People who enjoy solitude",
+      "Future investors"
+    ],
+    "avoid_for": [
+      "需要完善配套的人",
+      "预算有限的长期居住者",
+      "依赖公共交通的人"
+    ],
+    "avoid_for_en": [
+      "Those requiring full amenities",
+      "Budget-conscious long-term residents",
+      "People reliant on public transport"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "avoid": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "1800元/月",
+      "meals": "素菜10-13元，肉菜15-18元",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "等待1-2年后再考虑长居",
+      "自驾出行更便利",
+      "关注基础设施进展",
+      "避开台风季节"
+    ],
+    "tips_en": [
+      "Wait 1-2 years before considering long-term stay",
+      "Driving is more convenient",
+      "Monitor infrastructure development",
+      "Avoid typhoon season"
+    ],
+    "tags": [
+      "海滨小镇",
+      "待开发区域",
+      "摄影胜地",
+      "低物价",
+      "高租金"
+    ],
+    "tags_en": [
+      "Coastal town",
+      "Underdeveloped area",
+      "Photography hotspot",
+      "Low cost of living",
+      "High rent"
+    ],
+    "source": {
+      "bvid": "BV18s2AYjEKn",
+      "url": "https://www.bilibili.com/video/BV18s2AYjEKn",
+      "title": "【漳州市】“2年后”的FIRE城市，社恐独居i人的备选海景房！"
+    },
+    "id": "BV18s2AYjEKn",
+    "nearby_cities": [
+      "BV1m7RsBJEwB",
+      "BV1Fv9uBfEhb",
+      "BV1xg41127WJ"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "沙扒",
+    "city_en": "Shaba",
+    "province": "广东",
+    "province_en": "Guangdong",
+    "one_liner": "一个房租极低、拥有山海景观但伴随严重环境污染、生活配套匮乏的偏远海岛型旅居点，适合短期穷游与长期候鸟避寒需谨慎权衡。",
+    "one_liner_en": "A remote island destination with extremely low rent and stunning sea views, but plagued by severe pollution and limited amenities, suitable for short-term budget travel but requiring caution for long-term stays.",
+    "summary_sentence": "Ultra-low rent meets ecological crisis in this coastal haven.",
+    "overall_score": 5.8,
+    "scores": {
+      "natural_env": 4.0,
+      "cost_of_living": 7.0,
+      "rent": 9.0,
+      "transportation": 2.0,
+      "healthcare": 4.0,
+      "climate": 6.0,
+      "long_term_live": 3.0
+    },
+    "pros": [
+      "租金极低：淡季600元/月，相当于20元/天",
+      "海景稀缺：卧室直面海湾，阳台可观山景",
+      "物价偏低：超市齐全，日常消费成本低",
+      "冬季温暖：室温常保持23℃左右",
+      "海岸线长：8公里未开发海岸线"
+    ],
+    "pros_en": [
+      "Ultra-low rent: 600 RMB/month in off-season (20 RMB/day)",
+      "Rare sea views: Bedroom faces the bay, balcony overlooks mountains",
+      "Low cost of living: Well-stocked supermarkets, affordable daily expenses",
+      "Warm winters: Indoor temperatures consistently around 23°C",
+      "Untouched coastline: 8km of undeveloped shoreline"
+    ],
+    "cons": [
+      "严重污染：海水泛红、沙滩垃圾、死鱼死鸟",
+      "交通闭塞：方圆百里无城市，依赖自驾",
+      "配套匮乏：商业街荒废，买菜需5公里外",
+      "资产贬值：房价虚高且空置率超90%",
+      "卫生隐患：养殖废水导致空气污染"
+    ],
+    "cons_en": [
+      "Severe pollution: Red-tinted seawater, littered beaches, dead marine life",
+      "Remote location: No cities within 100km, requires self-driving",
+      "Limited amenities: Abandoned commercial streets, 5km to nearest town",
+      "Poor investment: Overpriced properties with 90% vacancy rate",
+      "Health risks: Air pollution from aquaculture waste"
+    ],
+    "good_for": [
+      "短期穷游者：体验海景的预算友好选择",
+      "候鸟避寒者：冬季温暖但需忍受污染",
+      "摄影爱好者：独特山海景观拍摄地",
+      "自由职业者：低成本远程办公过渡点"
+    ],
+    "good_for_en": [
+      "Budget travelers: Affordable sea-view experience",
+      "Snowbirds: Warm winters despite pollution",
+      "Photographers: Unique mountain-sea landscapes",
+      "Digital nomads: Low-cost remote work stopover"
+    ],
+    "avoid_for": [
+      "长期居住者：生态恶化影响生活质量",
+      "家庭用户：缺乏医疗和教育配套",
+      "投资客：房产增值潜力极低"
+    ],
+    "avoid_for_en": [
+      "Long-term residents: Deteriorating ecology impacts quality of life",
+      "Families: Lack of medical and educational facilities",
+      "Investors: Minimal property appreciation potential"
+    ],
+    "best_months": {
+      "recommended": [
+        1,
+        2,
+        11,
+        12
+      ],
+      "avoid": [
+        7,
+        8,
+        9
+      ]
+    },
+    "cost_snapshot": {
+      "monthly_rent": "600元/月",
+      "meals": "盖饭15元",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "避开夏季台风季",
+      "自备新鲜食材",
+      "选择高楼层减少异味",
+      "确认排污系统状况",
+      "短期租住更划算"
+    ],
+    "tips_en": [
+      "Avoid typhoon season (July-September)",
+      "Bring fresh groceries from town",
+      "Choose higher floors to reduce odors",
+      "Verify sewage system condition",
+      "Short-term stays offer better value"
+    ],
+    "tags": [
+      "低租金",
+      "海景",
+      "污染严重",
+      "交通不便",
+      "冬季避寒",
+      "投资陷阱"
+    ],
+    "tags_en": [
+      "Low rent",
+      "Sea views",
+      "Pollution",
+      "Remote location",
+      "Winter escape",
+      "Investment trap"
+    ],
+    "source": {
+      "bvid": "BV1X94y1Z7XD",
+      "url": "https://www.bilibili.com/video/BV1X94y1Z7XD",
+      "title": "“无痛躺平系列”我在广东海边，用600元租了一个月的精品海景房。"
+    },
+    "id": "BV1X94y1Z7XD",
+    "nearby_cities": [
+      "BV1oa411R7UT",
+      "BV1rpXnYAEmA",
+      "BV16D4y1X7QH"
+    ]
+  },
+  {
+    "is_city": true,
+    "city": "云台山",
+    "city_en": "Yuntai Mountain",
+    "province": "河南",
+    "province_en": "Henan",
+    "one_liner": "背靠世界级地质公园，配套烂尾、物价高昂且多雾的山村，极不适合长居",
+    "one_liner_en": "A mountain village near a world-class geopark with unfinished projects, high costs, and frequent fog—unsuitable for long-term stay",
+    "summary_sentence": "Stunning geology meets financial chaos in this fog-shrouded village",
+    "overall_score": 2.8,
+    "scores": {
+      "natural_env": 6.0,
+      "cost_of_living": 2.0,
+      "rent": 5.0,
+      "transportation": 5.0,
+      "healthcare": 3.0,
+      "climate": 5.0,
+      "long_term_live": 1.0
+    },
+    "pros": [
+      "世界级地质公园资源",
+      "温泉地产规划底子",
+      "5A级景区脚下位置",
+      "淡季民宿价格可谈"
+    ],
+    "pros_en": [
+      "World-class geopark resources",
+      "Hot spring real estate planning foundation",
+      "Located at the foot of a 5A scenic area",
+      "Negotiable homestay prices in off-season"
+    ],
+    "cons": [
+      "物价比周边高近一倍",
+      "度假区烂尾无配套",
+      "长期住宿成本过高",
+      "能见度低影响观景"
+    ],
+    "cons_en": [
+      "Prices nearly double surrounding areas",
+      "Unfinished resort with no amenities",
+      "Prohibitively high long-term costs",
+      "Low visibility limits scenic views"
+    ],
+    "good_for": [
+      "短期地质爱好者",
+      "温泉体验游客",
+      "摄影采风团队"
+    ],
+    "good_for_en": [
+      "Short-term geology enthusiasts",
+      "Hot spring experience tourists",
+      "Photography expedition teams"
+    ],
+    "avoid_for": [
+      "长期旅居者",
+      "预算有限人群",
+      "需要稳定配套者"
+    ],
+    "avoid_for_en": [
+      "Long-term residents",
+      "Budget-conscious travelers",
+      "Those needing stable amenities"
+    ],
+    "best_months": {
+      "recommended": [],
+      "avoid": []
+    },
+    "cost_snapshot": {
+      "monthly_rent": "300-800 元/月",
+      "meals": "早餐20元，日均200元",
+      "house_price": "信息待补充",
+      "utilities": "信息待补充"
+    },
+    "tips": [
+      "避免长期租住",
+      "警惕商业推销",
+      "自备炊具更经济",
+      "关注天气变化"
+    ],
+    "tips_en": [
+      "Avoid long-term rentals",
+      "Beware of commercial pitches",
+      "Bring cooking equipment for savings",
+      "Monitor weather changes"
+    ],
+    "tags": [
+      "地质公园",
+      "高物价",
+      "烂尾项目",
+      "多雾气候",
+      "温泉规划"
+    ],
+    "tags_en": [
+      "Geopark",
+      "High prices",
+      "Unfinished projects",
+      "Foggy climate",
+      "Hot spring planning"
+    ],
+    "source": {
+      "bvid": "BV1Z3411w7f3",
+      "url": "https://www.bilibili.com/video/BV1Z3411w7f3",
+      "title": "再次踏入“躺平生活”之旅"
+    },
+    "id": "BV1Z3411w7f3",
+    "nearby_cities": [
+      "BV1PsaqzCE9x",
+      "BV1rDC9BFEoc",
+      "BV13gdFYaE3B"
+    ]
+  }
+]
