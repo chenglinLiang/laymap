@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { cities, getCity, getNearby } from "@/lib/cities";
 import Hero from "@/components/Hero";
@@ -11,6 +10,7 @@ import CostRow from "@/components/CostRow";
 import TipsTimeline, { categorizeTip } from "@/components/TipsTimeline";
 import NearbyCityCard from "@/components/NearbyCityCard";
 import FavoriteButton from "@/components/FavoriteButton";
+import BackButton from "@/components/BackButton";
 import BottomNav from "@/components/BottomNav";
 import { isLang, t, type Lang } from "@/lib/i18n";
 import {
@@ -72,14 +72,8 @@ export default function CityDetailPage({
           className="absolute top-0 inset-x-0 px-4 flex items-center justify-between"
           style={{ paddingTop: "max(env(safe-area-inset-top), 48px)" }}
         >
-          <Link
-            href={`/${lang}`}
-            className="w-10 h-10 rounded-full glass-dark flex items-center justify-center text-white text-lg"
-            aria-label={t(lang, "back")}
-          >
-            ‹
-          </Link>
-          <FavoriteButton cityId={city.id} chipClassName="glass-dark" />
+          <BackButton lang={lang} label={t(lang, "back")} />
+          <FavoriteButton cityId={city.id} chipClassName="glass" />
         </div>
       </div>
 

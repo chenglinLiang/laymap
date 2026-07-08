@@ -86,11 +86,7 @@ function Hero({ lang }: { lang: Lang }) {
 
       <Fade className="absolute inset-x-0 bottom-0 px-6 pb-20 pt-24 text-white">
         <div className="mx-auto max-w-2xl">
-          <span className="inline-flex items-center gap-2 glass-dark rounded-full px-3 py-1 text-[11px] font-medium tracking-wide">
-            <span className="h-1.5 w-1.5 rounded-full bg-white/80" />
-            {t(lang, "about_hero_badge")}
-          </span>
-          <h1 className="mt-5 text-[34px] sm:text-[48px] leading-[1.15] font-semibold tracking-tight">
+          <h1 className="text-[34px] sm:text-[48px] leading-[1.15] font-semibold tracking-tight">
             {t(lang, "about_hero_title")}
           </h1>
           <p className="mt-4 max-w-xl text-[15px] sm:text-base leading-relaxed text-white/85">
