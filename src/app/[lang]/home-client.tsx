@@ -4,7 +4,8 @@ import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { cities } from "@/lib/cities";
 import { applyFilters } from "@/lib/filters";
-import { tf, type Lang } from "@/lib/i18n";
+import { t, tf, type Lang } from "@/lib/i18n";
+import { useFavorites } from "@/lib/favorites";
 import SearchBar from "@/components/SearchBar";
 import FilterChips from "@/components/FilterChips";
 import CityCard from "@/components/CityCard";
@@ -13,25 +14,28 @@ import BottomNav from "@/components/BottomNav";
 type Props = {
   lang: Lang;
   placeholder: string;
-  citiesCountStr: string;
   brand: string;
   tagline: string;
   resetLabel: string;
   noResults: string;
+  noSaved: string;
 };
 
 export default function HomeClient({
   lang,
   placeholder,
-  citiesCountStr,
   brand,
   tagline,
   resetLabel,
   noResults,
+  noSaved,
 }: Props) {
   const placesN = tf(lang, "places");
   const [query, setQuery] = useState("");
   const [selected, setSelected] = useState<Set<string>>(new Set());
+  const { favorites } = useFavorites();
+  const [mounted, setMounted] = useState(false);
+  const [favOnly, setFavOnly] = useState(false);
 
   // Hide top bar on scroll-down, reveal on scroll-up.
   const [hidden, setHidden] = useState(false);
@@ -56,6 +60,16 @@ export default function HomeClient({
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  // Drive the "Saved" tab via the URL hash so it survives reload and works
+  // when entering from the bottom nav on another route.
+  useEffect(() => {
+    setMounted(true);
+    const apply = () => setFavOnly(window.location.hash === "#saved");
+    apply();
+    window.addEventListener("hashchange", apply);
+    return () => window.removeEventListener("hashchange", apply);
+  }, []);
+
   const toggle = (id: string) =>
     setSelected((prev) => {
       const next = new Set(prev);
@@ -64,10 +78,13 @@ export default function HomeClient({
       return next;
     });
 
-  const list = useMemo(
-    () => applyFilters(cities, selected, query, lang),
-    [selected, query, lang]
-  );
+  const list = useMemo(() => {
+    const base = applyFilters(cities, selected, query, lang);
+    if (favOnly && mounted) {
+      return base.filter((c) => favorites.has(c.id));
+    }
+    return base;
+  }, [selected, query, lang, favOnly, mounted, favorites]);
 
   const otherLang: Lang = lang === "en" ? "zh" : "en";
 
@@ -86,9 +103,11 @@ export default function HomeClient({
 
       <header className="px-4 pt-12 pb-4 text-center">
         <h1 className="text-[28px] font-semibold tracking-tight text-ink">
-          {brand}
+          {favOnly ? t(lang, "savedTitle") : brand}
         </h1>
-        <p className="text-[13px] text-mute mt-1">{tagline} · {citiesCountStr}</p>
+        <p className="text-[13px] text-mute mt-1">
+          {favOnly ? placesN(list.length) : tagline}
+        </p>
       </header>
 
       <div
@@ -107,11 +126,18 @@ export default function HomeClient({
       <section className="px-4 mt-2">
         <div className="flex items-center justify-between mb-3 px-0.5">
           <p className="text-xs text-mute font-medium">{placesN(list.length)}</p>
-          {(selected.size > 0 || query) && (
+          {(selected.size > 0 || query || favOnly) && (
             <button
               onClick={() => {
                 setSelected(new Set());
                 setQuery("");
+                if (favOnly) {
+                  // Clear the hash and notify any listeners (e.g. BottomNav)
+                  // since pushState does not fire hashchange on its own.
+                  window.history.pushState(null, "", `/${lang}`);
+                  setFavOnly(false);
+                  window.dispatchEvent(new HashChangeEvent("hashchange"));
+                }
               }}
               className="text-xs text-forest font-medium"
             >
@@ -122,8 +148,8 @@ export default function HomeClient({
 
         {list.length === 0 ? (
           <div className="py-20 text-center">
-            <div className="text-4xl mb-3">🗺️</div>
-            <p className="text-sm text-mute">{noResults}</p>
+            <div className="text-4xl mb-3">{favOnly ? "♡" : "🗺️"}</div>
+            <p className="text-sm text-mute">{favOnly ? noSaved : noResults}</p>
           </div>
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">

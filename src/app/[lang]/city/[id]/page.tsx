@@ -10,6 +10,7 @@ import MonthsTimeline, { MonthLegend } from "@/components/MonthsTimeline";
 import CostRow from "@/components/CostRow";
 import TipsTimeline, { categorizeTip } from "@/components/TipsTimeline";
 import NearbyCityCard from "@/components/NearbyCityCard";
+import FavoriteButton from "@/components/FavoriteButton";
 import BottomNav from "@/components/BottomNav";
 import { isLang, t, type Lang } from "@/lib/i18n";
 import {
@@ -78,6 +79,7 @@ export default function CityDetailPage({
           >
             ‹
           </Link>
+          <FavoriteButton cityId={city.id} chipClassName="glass-dark" />
         </div>
       </div>
 
