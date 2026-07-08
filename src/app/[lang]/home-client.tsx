@@ -1,6 +1,7 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import Link from "next/link";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { cities } from "@/lib/cities";
 import { applyFilters } from "@/lib/filters";
 import { tf, type Lang } from "@/lib/i18n";
@@ -32,6 +33,29 @@ export default function HomeClient({
   const [query, setQuery] = useState("");
   const [selected, setSelected] = useState<Set<string>>(new Set());
 
+  // Hide top bar on scroll-down, reveal on scroll-up.
+  const [hidden, setHidden] = useState(false);
+  const lastY = useRef(0);
+
+  useEffect(() => {
+    lastY.current = window.scrollY;
+    const onScroll = () => {
+      const y = window.scrollY;
+      const delta = y - lastY.current;
+      // Ignore tiny scrolls and the very top of the page.
+      if (y < 24) {
+        setHidden(false);
+      } else if (delta > 4) {
+        setHidden(true);
+      } else if (delta < -4) {
+        setHidden(false);
+      }
+      lastY.current = y;
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
   const toggle = (id: string) =>
     setSelected((prev) => {
       const next = new Set(prev);
@@ -45,8 +69,21 @@ export default function HomeClient({
     [selected, query, lang]
   );
 
+  const otherLang: Lang = lang === "en" ? "zh" : "en";
+
   return (
     <main className="min-h-screen pb-28">
+      {/* Floating language switcher (top-right) */}
+      <Link
+        href={`/${otherLang}`}
+        className="fixed top-3 right-3 z-50 glass rounded-full h-9 px-3 flex items-center gap-1 text-[11px] font-semibold text-ink/80 shadow-card hover:shadow-floaty transition-shadow"
+        style={{ top: "max(env(safe-area-inset-top), 12px)" }}
+        aria-label={`Switch to ${otherLang.toUpperCase()}`}
+      >
+        <span className="text-sm leading-none">🌐</span>
+        <span className="uppercase">{otherLang}</span>
+      </Link>
+
       <header className="px-4 pt-12 pb-4 text-center">
         <h1 className="text-[28px] font-semibold tracking-tight text-ink">
           {brand}
@@ -54,7 +91,11 @@ export default function HomeClient({
         <p className="text-[13px] text-mute mt-1">{tagline} · {citiesCountStr}</p>
       </header>
 
-      <div className="sticky top-0 z-30 pt-2 pb-3 -mt-2 bg-bg/85 backdrop-blur-xl">
+      <div
+        className={`sticky top-0 z-30 pt-2 pb-3 -mt-2 bg-bg/85 backdrop-blur-xl transition-transform duration-300 ${
+          hidden ? "-translate-y-[120%]" : "translate-y-0"
+        }`}
+      >
         <div className="px-4">
           <SearchBar value={query} onChange={setQuery} lang={lang} placeholder={placeholder} />
           <div className="mt-2.5">

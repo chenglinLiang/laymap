@@ -78,14 +78,6 @@ export default function CityDetailPage({
           >
             ‹
           </Link>
-          <a
-            href={city.source.url}
-            target="_blank"
-            rel="noreferrer"
-            className="h-10 px-3.5 rounded-full glass-dark flex items-center gap-1.5 text-white text-xs font-medium"
-          >
-            ▶ {t(lang, "sourceVideo")}
-          </a>
         </div>
       </div>
 
@@ -190,7 +182,6 @@ export default function CityDetailPage({
           <CostRow emoji="🏠" label={t(lang, "cost_rent")} value={city.cost_snapshot.monthly_rent} />
           <CostRow emoji="🍚" label={t(lang, "cost_meals")} value={city.cost_snapshot.meals} />
           <CostRow emoji="🔑" label={t(lang, "cost_house")} value={city.cost_snapshot.house_price} />
-          <CostRow emoji="⚡" label={t(lang, "cost_utilities")} value={city.cost_snapshot.utilities} />
         </div>
       </Section>
 

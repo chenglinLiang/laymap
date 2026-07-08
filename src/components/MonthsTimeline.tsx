@@ -1,4 +1,4 @@
-import { MONTH_LABELS } from "@/lib/types";
+import { MONTH_LABELS, MONTH_LABELS_ZH } from "@/lib/types";
 import { t, type Lang } from "@/lib/i18n";
 
 type Props = {
@@ -15,10 +15,11 @@ const TEMP_TAG: Record<number, string> = {
 export default function MonthsTimeline({ recommended, avoid, lang }: Props) {
   const recSet = new Set(recommended);
   const avSet = new Set(avoid);
+  const labels = lang === "zh" ? MONTH_LABELS_ZH : MONTH_LABELS;
 
   return (
     <div className="grid grid-cols-4 gap-2">
-      {MONTH_LABELS.map((label, i) => {
+      {labels.map((label, i) => {
         const m = i + 1;
         const isRec = recSet.has(m);
         const isAv = avSet.has(m);

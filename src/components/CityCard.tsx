@@ -6,12 +6,14 @@ import Hero from "./Hero";
 import ScoreRing from "./ScoreRing";
 import ScoreChip from "./ScoreChip";
 
-const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const MONTHS_EN = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const MONTHS_ZH = ["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
 
-function monthRange(months: number[]): string {
+function monthRange(months: number[], lang: Lang): string {
   if (!months.length) return "—";
   const sorted = [...months].sort((a, b) => a - b);
-  return `${MONTHS[sorted[0] - 1]}–${MONTHS[sorted[sorted.length - 1] - 1]}`;
+  const M = lang === "zh" ? MONTHS_ZH : MONTHS_EN;
+  return `${M[sorted[0] - 1]}–${M[sorted[sorted.length - 1] - 1]}`;
 }
 
 export default function CityCard({ city, lang }: { city: City; lang: Lang }) {
@@ -52,7 +54,7 @@ export default function CityCard({ city, lang }: { city: City; lang: Lang }) {
         </div>
 
         <div className="flex items-center justify-between mt-3.5 pt-3 border-t border-black/[0.05]">
-          <Stat emoji="📅" value={monthRange(city.best_months.recommended)} />
+          <Stat emoji="📅" value={monthRange(city.best_months.recommended, lang)} />
           <Stat emoji="🏠" value={city.cost_snapshot.monthly_rent} />
           <Stat emoji="🔑" value={city.cost_snapshot.house_price} />
         </div>
