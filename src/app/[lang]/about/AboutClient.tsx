@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import { t, type Lang } from "@/lib/i18n";
 import BottomNav from "@/components/BottomNav";
+import FxCalculator from "@/components/FxCalculator";
 
 type Props = { lang: Lang };
 
@@ -22,6 +23,7 @@ export default function AboutClient({ lang }: Props) {
       <Closing lang={lang} />
       <Footer lang={lang} />
       <BottomNav lang={lang} />
+      <FxCalculator lang={lang} />
     </main>
   );
 }

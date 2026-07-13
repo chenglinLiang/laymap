@@ -10,6 +10,7 @@ import SearchBar from "@/components/SearchBar";
 import FilterChips from "@/components/FilterChips";
 import CityCard from "@/components/CityCard";
 import BottomNav from "@/components/BottomNav";
+import FxCalculator from "@/components/FxCalculator";
 
 type Props = {
   lang: Lang;
@@ -161,6 +162,7 @@ export default function HomeClient({
       </section>
 
       <BottomNav lang={lang} />
+      <FxCalculator lang={lang} />
     </main>
   );
 }

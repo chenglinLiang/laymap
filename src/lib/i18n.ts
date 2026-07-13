@@ -18,7 +18,7 @@ export const STR: Record<string, Entry> = {
     zh: "寻找中国最宜居的安静小城",
   },
   searchPlaceholder: {
-    en: "Search city or province...",
+    en: "Search by city or province",
     zh: "搜索城市或省份...",
   },
   reset: { en: "Reset", zh: "重置" },
@@ -32,13 +32,13 @@ export const STR: Record<string, Entry> = {
   },
   savedTitle: { en: "Saved", zh: "我的收藏" },
   back: { en: "Back", zh: "返回" },
-  sourceVideo: { en: "Source video", zh: "原视频" },
+  sourceVideo: { en: "Original video", zh: "原视频" },
   viewReport: { en: "View Report →", zh: "查看报告 →" },
   recommendedMonths: { en: "Recommended", zh: "推荐" },
   avoidMonths: { en: "Avoid", zh: "避开" },
-  neutralMonths: { en: "Neutral", zh: "一般" },
+  neutralMonths: { en: "Average", zh: "一般" },
   // Sections
-  sec_scores: { en: "Dimension Scores", zh: "维度评分" },
+  sec_scores: { en: "Score Breakdown", zh: "维度评分" },
   sec_scores_sub: {
     en: "How this place measures up",
     zh: "各项指标的综合评估",
@@ -47,9 +47,9 @@ export const STR: Record<string, Entry> = {
   sec_pros_sub: { en: "Why people love it", zh: "为什么大家喜欢这里" },
   sec_cons: { en: "Cons", zh: "劣势" },
   sec_cons_sub: { en: "Trade-offs to know about", zh: "需要权衡的方面" },
-  sec_good_for: { en: "Who should come", zh: "适合谁" },
+  sec_good_for: { en: "Who It's For", zh: "适合谁" },
   sec_good_for_sub: { en: "You'll fit right in", zh: "你会很合适" },
-  sec_avoid_for: { en: "Who should avoid", zh: "不适合谁" },
+  sec_avoid_for: { en: "Not For Everyone", zh: "不适合谁" },
   sec_avoid_for_sub: {
     en: "Might not be your scene",
     zh: "可能不太合适",
@@ -61,7 +61,7 @@ export const STR: Record<string, Entry> = {
   sec_tips: { en: "Things to Know", zh: "避坑提醒" },
   sec_tips_sub: { en: "Read before you go", zh: "出发前必读" },
   sec_tags: { en: "Tags", zh: "标签" },
-  sec_nearby: { en: "Nearby Similar Cities", zh: "相似城市" },
+  sec_nearby: { en: "Similar Cities Nearby", zh: "相似城市" },
   sec_nearby_sub: { en: "You might also like", zh: "你也许会喜欢" },
   // Score bars
   sc_natural_env: { en: "Natural Environment", zh: "自然环境" },
@@ -70,7 +70,7 @@ export const STR: Record<string, Entry> = {
   sc_transportation: { en: "Transportation", zh: "交通便利度" },
   sc_healthcare: { en: "Healthcare", zh: "医疗保障" },
   sc_climate: { en: "Climate", zh: "气候" },
-  sc_long_term_live: { en: "Long-term Living", zh: "长居适宜度" },
+  sc_long_term_live: { en: "Long-term Livability", zh: "长居适宜度" },
   // Score chips (short labels)
   chip_air: { en: "Air", zh: "空气" },
   chip_cost: { en: "Cost", zh: "物价" },
@@ -82,7 +82,7 @@ export const STR: Record<string, Entry> = {
   // Cost labels
   cost_rent: { en: "Monthly Rent", zh: "月租金" },
   cost_meals: { en: "Meals", zh: "餐饮" },
-  cost_house: { en: "House Price", zh: "房价" },
+  cost_house: { en: "Home Prices", zh: "房价" },
   cost_utilities: { en: "Utilities", zh: "水电" },
   // Bottom nav
   nav_explore: { en: "Explore", zh: "探索" },
@@ -90,10 +90,10 @@ export const STR: Record<string, Entry> = {
   nav_saved: { en: "Saved", zh: "收藏" },
   nav_about: { en: "About", zh: "关于" },
   // Filter chips
-  f_cheap_rent: { en: "Cheap Rent", zh: "低租金" },
+  f_cheap_rent: { en: "Affordable Rent", zh: "低租金" },
   f_great_air: { en: "Clean Air", zh: "好空气" },
-  f_warm_winter: { en: "Warm Winter", zh: "暖冬" },
-  f_cool_summer: { en: "Cool Summer", zh: "凉夏" },
+  f_warm_winter: { en: "Warm Winters", zh: "暖冬" },
+  f_cool_summer: { en: "Cool Summers", zh: "凉夏" },
   f_healthcare: { en: "Good Healthcare", zh: "医疗好" },
   f_hsr: { en: "High-speed Rail", zh: "通高铁" },
   f_nature: { en: "Nature", zh: "自然" },
@@ -111,7 +111,7 @@ export const STR: Record<string, Entry> = {
   },
   about_cta_explore: { en: "Explore Cities", zh: "探索城市" },
   about_cta_start: { en: "Start Exploring", zh: "开始探索" },
-  about_mission_title: { en: "Our Beginning", zh: "我们的初心" },
+  about_mission_title: { en: "Our Story", zh: "我们的初心" },
   about_mission_intro: {
     en: "This project began with a simple wish — to make space for a calmer kind of life.",
     zh: "这个项目始于一个朴素的愿望 —— 为更从容的生活方式留出一点空间。",
@@ -130,7 +130,7 @@ export const STR: Record<string, Entry> = {
     en: "Help families and older adults find cities with pleasant climates, clean air, good healthcare, and comfortable environments for a happier retirement.",
     zh: "帮助家庭与长辈找到气候宜人、空气清新、医疗便利、生活舒适的城市，让养老这件事变得更安心、更幸福。",
   },
-  about_values_title: { en: "What we believe", zh: "我们在乎的事" },
+  about_values_title: { en: "Our Values", zh: "我们在乎的事" },
   about_values_sub: {
     en: "Three small principles behind every report.",
     zh: "每一份报告背后的三个小小坚持。",
@@ -145,9 +145,9 @@ export const STR: Record<string, Entry> = {
     en: "Finding cities that are pleasant to live in — not just to visit.",
     zh: "寻找真正适合居住的城市，而不仅仅是适合旅行的地方。",
   },
-  about_value3_title: { en: "Real Information", zh: "真实的信息" },
+  about_value3_title: { en: "Honest Information", zh: "真实的信息" },
   about_value3: {
-    en: "Every report is carefully organized from publicly available sources, and presented in a structured, objective, and easy-to-understand way.",
+    en: "Every report is carefully put together from public sources — clear, objective, and easy to digest.",
     zh: "每一份报告都来自公开资料，认真整理，以结构化、客观、易读的方式呈现。",
   },
   about_quote: {
@@ -171,6 +171,17 @@ export const STR: Record<string, Entry> = {
     en: "Made quietly, for people who want to slow down.",
     zh: "为想要慢下来的人们，安静地制作。",
   },
+  // ─── FX calculator ────────────────────────────────────────────────────
+  fx_title: { en: "Currency Converter", zh: "汇率换算" },
+  fx_amount: { en: "Amount (CNY)", zh: "人民币金额" },
+  fx_to: { en: "Convert to", zh: "换算为" },
+  fx_loading: { en: "Loading rates…", zh: "正在获取汇率…" },
+  fx_error: {
+    en: "Failed to load rates. Showing cached values.",
+    zh: "获取汇率失败，显示缓存数据。",
+  },
+  fx_updated: { en: "Rates updated", zh: "汇率更新于" },
+  fx_disclaimer: { en: "Indicative rates only.", zh: "汇率仅供参考。" },
 };
 
 export function t<L extends Lang>(lang: L, key: keyof typeof STR): string {

@@ -12,6 +12,7 @@ import NearbyCityCard from "@/components/NearbyCityCard";
 import FavoriteButton from "@/components/FavoriteButton";
 import BackButton from "@/components/BackButton";
 import BottomNav from "@/components/BottomNav";
+import FxCalculator from "@/components/FxCalculator";
 import { isLang, t, type Lang } from "@/lib/i18n";
 import {
   cityName,
@@ -219,6 +220,7 @@ export default function CityDetailPage({
       )}
 
       <BottomNav lang={lang} />
+      <FxCalculator lang={lang} />
     </main>
   );
 }
